@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="pt" version="2.0">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="eu" version="2.0">
 <context>
     <name>ConfigPanelDialog</name>
     <message>
         <source>Configure panel</source>
-        <translation>Configurar painel</translation>
+        <translation>Konfiguratu panela</translation>
     </message>
     <message>
         <source>Panel size</source>
-        <translation>Tamanho do painel</translation>
+        <translation>Panelaren tamaina</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation>Tamanho:</translation>
+        <translation>Tamaina:</translation>
     </message>
     <message>
         <source>px</source>
@@ -19,23 +19,23 @@
     </message>
     <message>
         <source>Use automatic sizing</source>
-        <translation>Tamanho automático</translation>
+        <translation>Erabili tamaina automatikoa</translation>
     </message>
     <message>
         <source>Panel length &amp;&amp; position</source>
-        <translation>Posição e comprimento do painel</translation>
+        <translation>Panelaren luzera eta posizioa</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>À esquerda</translation>
+        <translation>Ezkerra</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Ao centro</translation>
+        <translation>Erdia</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>À direita</translation>
+        <translation>Eskuina</translation>
     </message>
     <message>
         <source>%</source>
@@ -43,84 +43,84 @@
     </message>
     <message>
         <source>Alignment:</source>
-        <translation>Alinhamento</translation>
+        <translation>Lerrokatzea:</translation>
     </message>
     <message>
         <source>Length:</source>
-        <translation>Comprimento:</translation>
+        <translation>Luzera:</translation>
     </message>
     <message>
         <source>Position:</source>
-        <translation>Posição:</translation>
+        <translation>Posizioa:</translation>
     </message>
     <message>
         <source>Top of desktop</source>
-        <translation>Em cima</translation>
+        <translation>Mahaigainaren goialdea</translation>
     </message>
     <message>
         <source>Left of desktop</source>
-        <translation>À esquerda</translation>
+        <translation>Mahaigainaren ezkerraldea</translation>
     </message>
     <message>
         <source>Right of desktop</source>
-        <translation>À direita</translation>
+        <translation>Mahaigainaren eskuinaldea</translation>
     </message>
     <message>
         <source>Bottom of desktop</source>
-        <translation>Em baixo</translation>
+        <translation>Mahaigainaren behealdea</translation>
     </message>
     <message>
         <source>Top of desktop %1</source>
-        <translation>Em cima, área de trabalho %1</translation>
+        <translation>%1 mahaigainaren goialdea</translation>
     </message>
     <message>
         <source>Left of desktop %1</source>
-        <translation>À esquerda, área de trabalho %1</translation>
+        <translation>%1 mahaigainaren ezkerraldea</translation>
     </message>
     <message>
         <source>Right of desktop %1</source>
-        <translation>À direita, área de trabalho %1</translation>
+        <translation>%1 mahaigainaren eskuinaldea</translation>
     </message>
     <message>
         <source>Bottom of desktop %1</source>
-        <translation>Em baixo, área de trabalho %1</translation>
+        <translation>%1 mahaigainaren behealdea</translation>
     </message>
 </context>
 <context>
     <name>RazorPanel</name>
     <message>
         <source>Panel</source>
-        <translation>Painel</translation>
+        <translation>Panela</translation>
     </message>
     <message>
         <source>Configure panel...</source>
-        <translation>Configurar painel...</translation>
+        <translation>Konfiguratu panela...</translation>
     </message>
     <message>
         <source>Add plugins ...</source>
-        <translation>Adicionar extras...</translation>
+        <translation>Gehitu pluginak...</translation>
     </message>
 </context>
 <context>
     <name>RazorPanelPlugin</name>
     <message>
         <source>Configure</source>
-        <translation>Configurar</translation>
+        <translation>Konfiguratu</translation>
     </message>
     <message>
         <source>Move</source>
-        <translation>Mover</translation>
+        <translation>Mugitu</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Remover</translation>
+        <translation>Kendu</translation>
     </message>
 </context>
 <context>
     <name>RazorPanelPrivate</name>
     <message>
         <source>Configure panel</source>
-        <translation>Configurar painel</translation>
+        <translation>Konfiguratu panela</translation>
     </message>
 </context>
 </TS>
