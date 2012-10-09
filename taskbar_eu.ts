@@ -1,120 +1,120 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="da_DK" version="2.0">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="eu" version="2.0">
 <context>
     <name>RazorTaskButton</name>
     <message>
         <source>Application</source>
-        <translation>Program</translation>
+        <translation>Aplikazioa</translation>
     </message>
     <message>
         <source>To &amp;Desktop</source>
-        <translation>Til &amp;Skrivebord</translation>
+        <translation>&amp;Mahaigainera</translation>
     </message>
     <message>
         <source>&amp;All Desktops</source>
-        <translation>A&amp;lle Skriveborde</translation>
+        <translation>Mahaigain &amp;guztiak</translation>
     </message>
     <message>
         <source>Desktop &amp;%1</source>
-        <translation>Skrivebord &amp;%1</translation>
+        <translation>&amp;%1 mahaigaina</translation>
     </message>
     <message>
         <source>&amp;To Current Desktop</source>
-        <translation>Til Nuværende Skrivebor&amp;d</translation>
+        <translation>&amp;Uneko mahaigainera</translation>
     </message>
     <message>
         <source>Ma&amp;ximize</source>
-        <translation>Ma&amp;ksimer</translation>
+        <translation>Maximizatu</translation>
     </message>
     <message>
         <source>Maximize vertically</source>
-        <translation>Maksimer vertikalt</translation>
+        <translation>Maximizatu bertikalki</translation>
     </message>
     <message>
         <source>Maximize horizontally</source>
-        <translation>Maksimer horisontalt</translation>
+        <translation>Maximizatu horizontalki</translation>
     </message>
     <message>
         <source>&amp;Restore</source>
-        <translation>&amp;Gendan</translation>
+        <translation>&amp;Leheneratu</translation>
     </message>
     <message>
         <source>Mi&amp;nimize</source>
-        <translation>Mi&amp;nimer</translation>
+        <translation>Minimizatu</translation>
     </message>
     <message>
         <source>Roll down</source>
-        <translation>Rul ned</translation>
+        <translation>Zabaldu</translation>
     </message>
     <message>
         <source>Roll up</source>
-        <translation>Rul op</translation>
+        <translation>Bildu</translation>
     </message>
     <message>
         <source>&amp;Layer</source>
-        <translation>&amp;Lag</translation>
+        <translation>&amp;Geruza</translation>
     </message>
     <message>
         <source>Always on &amp;top</source>
-        <translation>Altid &amp;Ovenpå</translation>
+        <translation>Beti &amp;goian</translation>
     </message>
     <message>
         <source>&amp;Normal</source>
-        <translation>&amp;Normal</translation>
+        <translation>&amp;Normala</translation>
     </message>
     <message>
         <source>Always on &amp;bottom</source>
-        <translation>Altid Ned&amp;erst</translation>
+        <translation>Beti &amp;behean</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Afslut</translation>
+        <translation>&amp;Itxi</translation>
     </message>
 </context>
 <context>
     <name>RazorTaskbarConfiguration</name>
     <message>
         <source>Razor Task Manager Settings</source>
-        <translation>Razor Jobliste Indstillinger</translation>
+        <translation>Razor ataza-kudeatzailearen ezarpenak</translation>
     </message>
     <message>
         <source>Window List Content</source>
-        <translation>Indhold Af Vinduesliste</translation>
+        <translation>Leiho-zerrendaren edukia</translation>
     </message>
     <message>
         <source>Show windows from current desktop</source>
-        <translation>Vis vinduer fra nuværende skrivebord</translation>
+        <translation>Erakutsi uneko mahaigaineko leihoak</translation>
     </message>
     <message>
         <source>Show windows from all desktops</source>
-        <translation>Vis vinduer fra alle skriveborde</translation>
+        <translation>Erakutsi mahaigain guztietako leihoak</translation>
     </message>
     <message>
         <source>Window List Appearance</source>
-        <translation>Udseende af vinduesliste</translation>
+        <translation>Leiho-zerrendaren itxura</translation>
     </message>
     <message>
         <source>Button style</source>
-        <translation>Knap stil</translation>
+        <translation>Botoi-estiloa</translation>
     </message>
     <message>
         <source>Max button width</source>
-        <translation>Maks. knapbredde</translation>
+        <translation>Botoien zabalera maximoa</translation>
     </message>
     <message>
         <source>Close on middle-click</source>
-        <translation>Luk ved midterklik</translation>
+        <translation>Itxi erdiko botoia klikatzean</translation>
     </message>
     <message>
         <source>Icon and text</source>
-        <translation>Ikon og tekst</translation>
+        <translation>Ikonoa eta testua</translation>
     </message>
     <message>
         <source>Only icon</source>
-        <translation>Kun ikoner</translation>
+        <translation>Ikonoa soilik</translation>
     </message>
     <message>
         <source>Only text</source>
-        <translation>Kun tekst</translation>
+        <translation>Testua soilik</translation>
     </message>
 </context>
 </TS>
