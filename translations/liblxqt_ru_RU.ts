@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="ru" version="2.0">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="ru_RU" version="2.0">
 <context>
     <name>AddPluginDialog</name>
     <message>
@@ -42,7 +42,7 @@
     </message>
     <message>
         <source>LxQt Session Suspend</source>
-        <translation>Paзор Ждущий режим</translation>
+        <translation>Ждущий режим</translation>
     </message>
     <message>
         <source>Do you want to really suspend your computer?&lt;p&gt;Suspends the computer into a low power state. System state is not preserved if the power is lost.</source>
@@ -50,7 +50,7 @@
     </message>
     <message>
         <source>LxQt Session Hibernate</source>
-        <translation>Paзор Спящий режим</translation>
+        <translation>Спящий режим</translation>
     </message>
     <message>
         <source>Do you want to really hibernate your computer?&lt;p&gt;Hibernates the computer into a low power state. System state is preserved if the power is lost.</source>
@@ -58,7 +58,7 @@
     </message>
     <message>
         <source>LxQt Session Reboot</source>
-        <translation>Paзор Перезагрузка</translation>
+        <translation>Перезагрузка</translation>
     </message>
     <message>
         <source>Do you want to really restart your computer? All unsaved work will be lost...</source>
@@ -66,7 +66,7 @@
     </message>
     <message>
         <source>LxQt Session Shutdown</source>
-        <translation>Paзор Выключение</translation>
+        <translation>Выключение компьютера</translation>
     </message>
     <message>
         <source>Do you want to really switch off your computer? All unsaved work will be lost...</source>
@@ -74,7 +74,7 @@
     </message>
     <message>
         <source>LxQt Session Logout</source>
-        <translation>Paзор Завершение сеанса</translation>
+        <translation>Завершение сеанса</translation>
     </message>
     <message>
         <source>Do you want to really logout? All unsaved work will be lost...</source>
@@ -82,7 +82,7 @@
     </message>
     <message>
         <source>LxQt Power Manager Error</source>
-        <translation>Ошибка Paзор менеджер  электроэнергии  </translation>
+        <translation>Ошибка LxQt Power Manager</translation>
     </message>
     <message>
         <source>Hibernate failed.</source>
@@ -116,11 +116,11 @@
     </message>
     <message>
         <source>Advanced, easy-to-use, and fast desktop environment based on Qt technologies.</source>
-        <translation>Передовая, простая в использовании и быстрая среда рабочего стола, базирующаяся на технологиях Qt.</translation>
+        <translation>Современная, быстрая, и простая в использовании среда рабочего стола на основе технологий Qt.</translation>
     </message>
     <message>
         <source>Copyright: %1-%2 %3</source>
-        <translation>Лицензия: %1-%2 %3</translation>
+        <translation>Авторские права: %1-%2 %3</translation>
     </message>
     <message>
         <source>Homepage: %1</source>
@@ -132,7 +132,7 @@
     </message>
     <message>
         <source>LxQt-qt is translated into many languages thanks to the work of the translation teams all over the world.</source>
-        <translation>LxQt-Qt переведена на множество языков благодаря работе команд переводчиков по всему миру.</translation>
+        <translation>LxQt-Qt переведена на многие языки благодаря работе команд переводчиков по всему миру.</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -144,7 +144,7 @@
     </message>
     <message>
         <source>&lt;b&gt;LxQt Desktop Toolbox - Technical Info&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Инструментарий рабочего стола LXDE-Qt - Техническая Информация&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;LxQt Desktop Toolbox - Техническая информация&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Version</source>
@@ -152,55 +152,55 @@
     </message>
     <message>
         <source>Qt</source>
-        <translation>Qt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Debug Build</source>
-        <translation>Отладочная версия</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>System Configuration</source>
-        <translation>Настройки системы</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share Directory</source>
-        <translation>Открыть общий доступ к папке</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Translations</source>
-        <translation>Переводы</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;b&gt;User Directories&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Папки пользователя&lt;/b&gt;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Xdg Data Home</source>
-        <translation>Расположение данных Xdg</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Xdg Config Home</source>
-        <translation>Расположение настроек Xdg</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Xdg Data Dirs</source>
-        <translation>Папки данных Xdg</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Xdg Cache Home</source>
-        <translation>Расположение кеша Xdg</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Xdg Runtime Home</source>
-        <translation>Расположение среды времени выполнения Xdg</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Xdg Autostart Dirs</source>
-        <translation>Папки автозапуска Xdg</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Xdg Autostart Home</source>
-        <translation>Расположение автозапуска Xdg</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -264,7 +264,7 @@
     </message>
     <message>
         <source>An error occurred starting screensaver. Unknown error - undocumented return value from xdg-screensaver=%1.</source>
-        <translation>Ошибка при запуске хранителя экрана. Неизвестная ошибка - команда xdg-screensaver=%1 вернула недокументированное значение.</translation>
+        <translation>При запуске заставки произвошла ошибка. Неизвестная ошибка - недокументированное значение возвращено из xdg-screensaver=%1.</translation>
     </message>
 </context>
 <context>
@@ -275,7 +275,7 @@
     </message>
     <message>
         <source>About</source>
-        <translation>O программе</translation>
+        <translation>О программе</translation>
     </message>
     <message>
         <source>Authors</source>
@@ -287,7 +287,7 @@
     </message>
     <message>
         <source>Translations</source>
-        <translation>Переводы</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Technical Info</source>
