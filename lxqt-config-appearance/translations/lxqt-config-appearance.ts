@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0" language="en_US">
+<context>
+    <name>IconThemeConfig</name>
+    <message>
+        <source>LXQt Appearance Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Icons Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QObject</name>
+    <message>
+        <source>LXQt Appearance Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Icons Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LXQt Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>LXQtThemeConfig</name>
+    <message>
+        <source>LXQt Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+</TS>
