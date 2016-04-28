@@ -8,12 +8,12 @@
         <translation type="vanished">Καθολική συντόμευση προφύλαξης οθόνης πίνακα: Η &apos;%1&apos; δεν μπορεί να εγγραφεί</translation>
     </message>
     <message>
-        <location filename="../panelscreensaver.cpp" line="52"/>
+        <location filename="../../../panelscreensaver.cpp" line="52"/>
         <source>Lock Screen</source>
         <translation>Κλείδωμα της οθόνης</translation>
     </message>
     <message>
-        <location filename="../panelscreensaver.cpp" line="67"/>
+        <location filename="../../../panelscreensaver.cpp" line="67"/>
         <source>Panel Screensaver: Global shortcut &apos;%1&apos; cannot be registered</source>
         <translation>Πίνακας προφύλαξης οθόνης: Η καθολική συντόμευση &apos;%1&apos; δεν μπορεί να καταχωρηθεί</translation>
     </message>

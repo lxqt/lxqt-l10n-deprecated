@@ -4,7 +4,7 @@
 <context>
     <name>FirstDayCombo</name>
     <message>
-        <location filename="../lxqtclockconfiguration.cpp" line="50"/>
+        <location filename="../../../lxqtclockconfiguration.cpp" line="50"/>
         <source>&lt;locale based&gt;</source>
         <translation>&lt;locale based&gt;</translation>
     </message>
@@ -16,67 +16,67 @@
         <translation type="vanished">Ρυθμίσεις ρολογιού LXQt</translation>
     </message>
     <message>
-        <location filename="../lxqtclockconfiguration.ui" line="14"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="14"/>
         <source>Clock Settings</source>
         <translation>Ρυθμίσεις του ρολογιού</translation>
     </message>
     <message>
-        <location filename="../lxqtclockconfiguration.ui" line="20"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="20"/>
         <source>Time</source>
         <translation>Ώρα</translation>
     </message>
     <message>
-        <location filename="../lxqtclockconfiguration.ui" line="26"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="26"/>
         <source>&amp;Show seconds</source>
         <translation>Εμ&amp;φάνιση δευτερολέπτων</translation>
     </message>
     <message>
-        <location filename="../lxqtclockconfiguration.ui" line="33"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="33"/>
         <source>12 &amp;hour style</source>
         <translation>12 &amp;ωρη μορφή</translation>
     </message>
     <message>
-        <location filename="../lxqtclockconfiguration.ui" line="40"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="40"/>
         <source>&amp;Use UTC</source>
         <translation>&amp;Χρήση της UTC</translation>
     </message>
     <message>
-        <location filename="../lxqtclockconfiguration.ui" line="59"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="59"/>
         <source>Date &amp;format</source>
         <translation>Μορφή &amp;ημερομηνίας</translation>
     </message>
     <message>
-        <location filename="../lxqtclockconfiguration.ui" line="76"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="76"/>
         <source>&amp;Do not show date</source>
         <translation>&amp;Να μην εμφανίζεται η ημερομηνία</translation>
     </message>
     <message>
-        <location filename="../lxqtclockconfiguration.ui" line="86"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="86"/>
         <source>Show date &amp;before time</source>
         <translation>Εμφάνιση της ημερομηνίας &amp;πριν την ώρα</translation>
     </message>
     <message>
-        <location filename="../lxqtclockconfiguration.ui" line="93"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="93"/>
         <source>Show date &amp;after time</source>
         <translation>Εμφάνιση της ημερομηνίας &amp;μετά την ώρα</translation>
     </message>
     <message>
-        <location filename="../lxqtclockconfiguration.ui" line="100"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="100"/>
         <source>Show date below time on new &amp;line</source>
         <translation>Εμφάνιση της ημερομηνίας κάτω από την ώρα σε νέα &amp;γραμμή</translation>
     </message>
     <message>
-        <location filename="../lxqtclockconfiguration.ui" line="107"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="107"/>
         <source>First day of week in calendar</source>
         <translation>Η πρώτη ημέρα της εβδομάδας στο ημερολόγιο</translation>
     </message>
     <message>
-        <location filename="../lxqtclockconfiguration.ui" line="124"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="124"/>
         <source>Orientation</source>
         <translation>Προσανατολισμός</translation>
     </message>
     <message>
-        <location filename="../lxqtclockconfiguration.ui" line="130"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="130"/>
         <source>Auto&amp;rotate when the panel is vertical</source>
         <translation>Αυτόματη περιστρο&amp;φή όταν ο πίνακας είναι τοποθετημένος κατακόρυφα</translation>
     </message>
@@ -89,7 +89,7 @@
         <translation type="vanished">Γραμματοσειρά</translation>
     </message>
     <message>
-        <location filename="../lxqtclockconfiguration.ui" line="50"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="50"/>
         <source>Date</source>
         <translation>Ημερομηνία</translation>
     </message>
@@ -150,12 +150,12 @@
         <translation type="vanished">Πλάγια</translation>
     </message>
     <message>
-        <location filename="../lxqtclockconfiguration.cpp" line="284"/>
+        <location filename="../../../lxqtclockconfiguration.cpp" line="284"/>
         <source>Input custom date format</source>
         <translation>Εισαγωγή προσαρμοσμένης μορφής ημερομηνίας</translation>
     </message>
     <message>
-        <location filename="../lxqtclockconfiguration.cpp" line="284"/>
+        <location filename="../../../lxqtclockconfiguration.cpp" line="284"/>
         <source>Interpreted sequences of date format are:
 
 d	the day as number without a leading zero (1 to 31)
