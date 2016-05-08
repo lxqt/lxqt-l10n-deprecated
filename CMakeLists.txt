@@ -1,0 +1,48 @@
+cmake_minimum_required(VERSION 3.0.2 FATAL_ERROR)
+
+project(translations)
+
+find_package(lxqt REQUIRED)
+include(LXQtTranslate)
+
+option(WITH_LXQT_SUDO "Build lxqt-sudo translations" ON)
+option(WITH_LXQT_PANEL "Build lxqt-panel translations" ON)
+
+macro(add_component VAR_OPTION VAR_SUBDIR)
+    if (${VAR_OPTION})
+        add_subdirectory("${VAR_SUBDIR}")
+        add_custom_target("install-${VAR_SUBDIR}"
+            "${CMAKE_COMMAND}"
+            -D "CMAKE_INSTALL_COMPONENT='${VAR_SUBDIR}'"
+            -P "'${CMAKE_CURRENT_BINARY_DIR}/${VAR_SUBDIR}'/cmake_install.cmake"
+        )
+    endif ()
+endmacro()
+
+macro(build_component VAR_TRANS_DIR)
+    message(STATUS "Will make translations from ${PROJECT_NAME}")
+    lxqt_translate_ts(QM_FILES
+        TRANSLATION_DIR "${VAR_TRANS_DIR}"
+        INSTALL_DIR "${LXQT_TRANSLATIONS_DIR}/${PROJECT_NAME}"
+        COMPONENT "${PROJECT_NAME}"
+    )
+
+    add_custom_target("${PROJECT_NAME}_ts" ALL DEPENDS ${QM_FILES})
+endmacro()
+
+macro(build_sub_component VAR_OPTION VAR_SUBDIR VAR_TEMPLATE)
+    if (${VAR_OPTION})
+        message(STATUS "Will make translations from ${PROJECT_NAME}/${VAR_SUBDIR}")
+        lxqt_translate_ts(QM_FILES
+            TRANSLATION_DIR "${VAR_SUBDIR}"
+            TEMPLATE "${VAR_TEMPLATE}"
+            INSTALL_DIR "${LXQT_TRANSLATIONS_DIR}/${PROJECT_NAME}/${VAR_TEMPLATE}"
+            COMPONENT "${PROJECT_NAME}"
+        )
+        add_custom_target("${PROJECT_NAME}_${VAR_SUBDIR}_ts" ALL DEPENDS ${QM_FILES})
+    endif ()
+endmacro()
+
+
+add_component(WITH_LXQT_SUDO lxqt-sudo)
+add_component(WITH_LXQT_PANEL lxqt-panel)
