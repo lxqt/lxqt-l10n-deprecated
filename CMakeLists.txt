@@ -5,8 +5,9 @@ project(translations)
 find_package(lxqt REQUIRED)
 include(LXQtTranslate)
 
-option(WITH_LXQT_SUDO "Build lxqt-sudo translations" ON)
+option(WITH_COMPTON_CONF "Build compton-conf translations" ON)
 option(WITH_LXQT_PANEL "Build lxqt-panel translations" ON)
+option(WITH_LXQT_SUDO "Build lxqt-sudo translations" ON)
 
 macro(add_component VAR_OPTION VAR_SUBDIR)
     if (${VAR_OPTION})
@@ -44,5 +45,6 @@ macro(build_sub_component VAR_OPTION VAR_SUBDIR VAR_TEMPLATE)
 endmacro()
 
 
-add_component(WITH_LXQT_SUDO lxqt-sudo)
+add_component(WITH_COMPTON_CONF compton-conf)
 add_component(WITH_LXQT_PANEL lxqt-panel)
+add_component(WITH_LXQT_SUDO lxqt-sudo)
