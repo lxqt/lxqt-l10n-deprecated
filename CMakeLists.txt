@@ -6,6 +6,7 @@ find_package(lxqt REQUIRED)
 include(LXQtTranslate)
 
 option(WITH_COMPTON_CONF "Build compton-conf translations" ON)
+option(WITH_LIBFM_QT "Build libfm-qt translations" ON)
 option(WITH_LXQT_PANEL "Build lxqt-panel translations" ON)
 option(WITH_LXQT_SUDO "Build lxqt-sudo translations" ON)
 
@@ -46,5 +47,6 @@ endmacro()
 
 
 add_component(WITH_COMPTON_CONF compton-conf)
+add_component(WITH_LIBFM_QT libfm-qt)
 add_component(WITH_LXQT_PANEL lxqt-panel)
 add_component(WITH_LXQT_SUDO lxqt-sudo)
