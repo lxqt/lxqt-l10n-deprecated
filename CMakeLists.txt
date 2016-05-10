@@ -12,6 +12,7 @@ option(WITH_LIBLXQT "Build liblxqt translations" ON)
 option(WITH_LXIMAGE_QT "Build lximage-qt translations" ON)
 option(WITH_LXQT_ABOUT "Build lxqt-about translations" ON)
 option(WITH_LXQT_ADMIN "Build lxqt-admin translations" ON)
+option(WITH_LXQT_CONFIG "Build lxqt-config translations" ON)
 
 option(WITH_LXQT_OPENSSH_ASKPASS "Build lxqt-openssh-askpass translations" ON)
 option(WITH_LXQT_PANEL "Build lxqt-panel translations" ON)
@@ -70,7 +71,7 @@ add_component(WITH_LIBLXQT liblxqt)
 add_component(WITH_LXIMAGE_QT lximage-qt)
 add_component(WITH_LXQT_ABOUT lxqt-about)
 add_component(WITH_LXQT_ADMIN lxqt-admin)
-
+add_component(WITH_LXQT_CONFIG lxqt-config)
 
 add_component(WITH_LXQT_OPENSSH_ASKPASS lxqt-openssh-askpass)
 add_component(WITH_LXQT_PANEL lxqt-panel)
