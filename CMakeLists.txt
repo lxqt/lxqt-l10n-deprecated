@@ -15,9 +15,10 @@ option(WITH_LXQT_ADMIN "Build lxqt-admin translations" ON)
 option(WITH_LXQT_CONFIG "Build lxqt-config translations" ON)
 option(WITH_LXQT_GLOBALKEYS "Build lxqt-globalkeys translations" ON)
 option(WITH_LXQT_NOTIFICATIOND "Build lxqt-notificationd translations" ON)
-
 option(WITH_LXQT_OPENSSH_ASKPASS "Build lxqt-openssh-askpass translations" ON)
 option(WITH_LXQT_PANEL "Build lxqt-panel translations" ON)
+option(WITH_LXQT_POLICYKIT "Build lxqt-policykit translations" ON)
+
 option(WITH_LXQT_RUNNER "Build lxqt-runner translations" ON)
 option(WITH_LXQT_SUDO "Build lxqt-sudo translations" ON)
 option(WITH_OBCONF_QT "Build obconf-qt translations" ON)
@@ -76,9 +77,10 @@ add_component(WITH_LXQT_ADMIN lxqt-admin)
 add_component(WITH_LXQT_CONFIG lxqt-config)
 add_component(WITH_LXQT_GLOBALKEYS lxqt-globalkeys)
 add_component(WITH_LXQT_NOTIFICATIOND lxqt-notificationd)
-
 add_component(WITH_LXQT_OPENSSH_ASKPASS lxqt-openssh-askpass)
 add_component(WITH_LXQT_PANEL lxqt-panel)
+add_component(WITH_LXQT_POLICYKIT lxqt-policykit)
+
 add_component(WITH_LXQT_RUNNER lxqt-runner)
 add_component(WITH_LXQT_SUDO lxqt-sudo)
 add_component(WITH_OBCONF_QT obconf-qt)
