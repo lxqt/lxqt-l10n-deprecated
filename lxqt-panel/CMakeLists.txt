@@ -26,7 +26,7 @@ option(WITH_LXQT_PANEL_WORLDCLOCK "Build lxqt-panel plugin-worldclock translatio
 
 
 #panel
-build_component("panel")
+build_component("panel" "")
 
 #plugins
 build_sub_component(WITH_LXQT_PANEL_CLOCK plugin-clock clock)

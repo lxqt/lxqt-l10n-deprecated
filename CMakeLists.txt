@@ -4,6 +4,7 @@ project(translations)
 
 find_package(lxqt REQUIRED)
 include(LXQtTranslate)
+include(GNUInstallDirs)
 
 option(WITH_COMPTON_CONF "Build compton-conf translations" ON)
 option(WITH_LIBFM_QT "Build libfm-qt translations" ON)
@@ -29,11 +30,17 @@ macro(add_component VAR_OPTION VAR_SUBDIR)
     endif ()
 endmacro()
 
-macro(build_component VAR_TRANS_DIR)
-    message(STATUS "Will make translations from ${PROJECT_NAME}")
+macro(build_component VAR_TRANS_DIR VAR_INSTALL_DIR)
+    if ("${VAR_INSTALL_DIR}" STREQUAL "")
+        set(QM_INSTALL_DIR "${LXQT_TRANSLATIONS_DIR}/${PROJECT_NAME}")
+    else ()
+        set(QM_INSTALL_DIR "${VAR_INSTALL_DIR}")
+    endif ()
+
+    message(STATUS "Will make translations from ${PROJECT_NAME}, install path ${QM_INSTALL_DIR}")
     lxqt_translate_ts(QM_FILES
         TRANSLATION_DIR "${VAR_TRANS_DIR}"
-        INSTALL_DIR "${LXQT_TRANSLATIONS_DIR}/${PROJECT_NAME}"
+        INSTALL_DIR "${QM_INSTALL_DIR}"
         COMPONENT "${PROJECT_NAME}"
     )
 
@@ -42,11 +49,12 @@ endmacro()
 
 macro(build_sub_component VAR_OPTION VAR_SUBDIR VAR_TEMPLATE)
     if (${VAR_OPTION})
-        message(STATUS "Will make translations from ${PROJECT_NAME}/${VAR_SUBDIR}")
+        set(QM_INSTALL_DIR "${LXQT_TRANSLATIONS_DIR}/${PROJECT_NAME}/${VAR_TEMPLATE}")
+        message(STATUS "Will make translations from ${PROJECT_NAME}/${VAR_SUBDIR}, install path ${QM_INSTALL_DIR}")
         lxqt_translate_ts(QM_FILES
             TRANSLATION_DIR "${VAR_SUBDIR}"
             TEMPLATE "${VAR_TEMPLATE}"
-            INSTALL_DIR "${LXQT_TRANSLATIONS_DIR}/${PROJECT_NAME}/${VAR_TEMPLATE}"
+            INSTALL_DIR "${QM_INSTALL_DIR}"
             COMPONENT "${PROJECT_NAME}"
         )
         add_custom_target("${PROJECT_NAME}_${VAR_SUBDIR}_ts" ALL DEPENDS ${QM_FILES})
