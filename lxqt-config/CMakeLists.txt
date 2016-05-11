@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.0.2 FATAL_ERROR)
 project(lxqt-config)
 
 option(WITH_LIBLXQT_CONFIG_CURSOR "Build liblxqt-config-cursor translations" ON)
-option(WITH_LXQT_CONFIG_APPREARANCE "Build lxqt-config-appearance translations" ON)
+option(WITH_LXQT_CONFIG_APPEARANCE "Build lxqt-config-appearance translations" ON)
 option(WITH_LXQT_CONFIG_BRIGHTNESS "Build lxqt-config-brightness translations" ON)
 option(WITH_LXQT_CONFIG_FILE_ASSOCIATIONS "Build lxqt-config-file-associations translations" ON)
 option(WITH_LXQT_CONFIG_INPUT "Build lxqt-config-input translations" ON)
