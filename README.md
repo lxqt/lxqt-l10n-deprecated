@@ -1,15 +1,24 @@
-LXQt - translations
-===
+# LXQt - translations
 
-## About this repository
-This is repository with translations of all **LXQt** components (like lxqt-panel, lxqt-runner etc.). All these translations can be build on their own (for downstream packaging) or can be pulled (and built) into component's source directory during the cmake phase of component's build (cmake's *PULL\_TRANSLATIONS* parameter).
+## Overview
 
-## Build example (e.g. install just panel's translations)
+This repository is providing translations of all components maintained by the LXQt project. The transfer from the components' repositories to this repository was made in order to ease handling the translations by systems like Pootle or Transifex.
 
-    git clone https://github.com/lxde/translations.git
-    cd translations
-    mkdir build
-    cd build
-    cmake ..
-    make
-    make install-lxqt-panel
+There are two ways to use this repository. Components can pull their translations at build time and the repository can get built itself.
+
+## Pulling translations at build time
+
+Components will be able to pull their translations from this repository during the CMake invocation.
+
+This will be handled by a boolean CMake variable `PULL_TRANSLATIONS` which will probably be enabled by default.
+
+Note this variable isn't implemented in all components yet.
+
+## Building the repository itself
+
+The repository can get built itself as well. This can be useful to avoid downloading translations at build time which in turn can mitigate restrictions of build systems.   
+CMake variable `PULL_TRANSLATIONS` has to be disabled as file conflicts will result otherwise.
+
+Aside from [CMake](https://cmake.org) LXQt component [liblxqt](https://github.com/lxde/liblxqt), its dependency [libqtxdg](https://github.com/lxde/libqtxdg) and qttools are needed.   
+Once these requirements are met the repository can be built by running the usual trias `cmake`, `make` and `make install` where the latter accepts a variable `DESTDIR=<path>`.   
+A selection which components shall be considered can be made by a boolean CMake variable `WITH_<component>`, e. g. `WITH_LXQT_PANEL`.
