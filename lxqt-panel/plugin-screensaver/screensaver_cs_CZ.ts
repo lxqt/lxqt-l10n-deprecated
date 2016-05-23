@@ -8,12 +8,12 @@
         <translation type="vanished">Klávesovou zkratku pro modul &quot;Šetřič obrazovky&quot; &apos;%1&apos; nelze zapsat</translation>
     </message>
     <message>
-        <location filename="../../../panelscreensaver.cpp" line="52"/>
+        <location filename="../../../panelscreensaver.cpp" line="53"/>
         <source>Lock Screen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../panelscreensaver.cpp" line="67"/>
+        <location filename="../../../panelscreensaver.cpp" line="68"/>
         <source>Panel Screensaver: Global shortcut &apos;%1&apos; cannot be registered</source>
         <translation type="unfinished"></translation>
     </message>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="hu">
+<TS version="2.1" language="hu">
 <context>
     <name>FirstDayCombo</name>
     <message>
-        <location filename="../../../lxqtclockconfiguration.cpp" line="50"/>
+        <location filename="../../../lxqtclockconfiguration.cpp" line="49"/>
         <source>&lt;locale based&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -82,12 +82,12 @@
         <translation>Dá&amp;tumalak</translation>
     </message>
     <message>
-        <location filename="../../../lxqtclockconfiguration.cpp" line="284"/>
+        <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
         <source>Input custom date format</source>
         <translation>Egyéni dátumalak</translation>
     </message>
     <message>
-        <location filename="../../../lxqtclockconfiguration.cpp" line="284"/>
+        <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
         <source>Interpreted sequences of date format are:
 
 d	the day as number without a leading zero (1 to 31)

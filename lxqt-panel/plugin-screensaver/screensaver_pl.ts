@@ -8,12 +8,12 @@
         <translation type="vanished">Ogólny skrót panelu wygaszacza ekranu: „%1” nie może zostać zarejestrowany</translation>
     </message>
     <message>
-        <location filename="../../../panelscreensaver.cpp" line="52"/>
+        <location filename="../../../panelscreensaver.cpp" line="53"/>
         <source>Lock Screen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../panelscreensaver.cpp" line="67"/>
+        <location filename="../../../panelscreensaver.cpp" line="68"/>
         <source>Panel Screensaver: Global shortcut &apos;%1&apos; cannot be registered</source>
         <translation type="unfinished"></translation>
     </message>

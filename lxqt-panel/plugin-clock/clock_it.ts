@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="it">
+<TS version="2.1" language="it">
 <context>
     <name>FirstDayCombo</name>
     <message>
-        <location filename="../../../lxqtclockconfiguration.cpp" line="50"/>
+        <location filename="../../../lxqtclockconfiguration.cpp" line="49"/>
         <source>&lt;locale based&gt;</source>
         <translation>&lt;basato su locale&gt;</translation>
     </message>
@@ -13,7 +13,7 @@
     <name>LXQtClockConfiguration</name>
     <message>
         <source>LXQt Clock Settings</source>
-        <translation>Impostazioni dell&apos;orologio di LXQt</translation>
+        <translation type="vanished">Impostazioni dell&apos;orologio di LXQt</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="14"/>
@@ -82,11 +82,11 @@
     </message>
     <message>
         <source>&amp;Font</source>
-        <translation>&amp;Carattere</translation>
+        <translation type="vanished">&amp;Carattere</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Carattere</translation>
+        <translation type="vanished">Carattere</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="50"/>
@@ -95,67 +95,67 @@
     </message>
     <message>
         <source>Show &amp;date</source>
-        <translation>Mostra la &amp;data</translation>
+        <translation type="vanished">Mostra la &amp;data</translation>
     </message>
     <message>
         <source>D&amp;ate format</source>
-        <translation>&amp;Formato della data</translation>
+        <translation type="vanished">&amp;Formato della data</translation>
     </message>
     <message>
         <source>Fon&amp;t</source>
-        <translation>Cara&amp;ttere</translation>
+        <translation type="vanished">Cara&amp;ttere</translation>
     </message>
     <message>
         <source>Show date in &amp;new line</source>
-        <translation>Mostra la data in una &amp;nuova riga</translation>
+        <translation type="vanished">Mostra la data in una &amp;nuova riga</translation>
     </message>
     <message>
         <source>&amp;Use theme fonts</source>
-        <translation>&amp;Utilizza i caratteri del tema</translation>
+        <translation type="vanished">&amp;Utilizza i caratteri del tema</translation>
     </message>
     <message>
         <source>Time font</source>
-        <translation>Carattere dell&apos;ora</translation>
+        <translation type="vanished">Carattere dell&apos;ora</translation>
     </message>
     <message>
         <source>Date font</source>
-        <translation>Carattere della data</translation>
+        <translation type="vanished">Carattere della data</translation>
     </message>
     <message>
         <source>Ultra light</source>
-        <translation>Chiarissimo</translation>
+        <translation type="vanished">Chiarissimo</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation>Chiaro</translation>
+        <translation type="vanished">Chiaro</translation>
     </message>
     <message>
         <source>Ultra black</source>
-        <translation>Nerissimo</translation>
+        <translation type="vanished">Nerissimo</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Nero</translation>
+        <translation type="vanished">Nero</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation>Grassetto</translation>
+        <translation type="vanished">Grassetto</translation>
     </message>
     <message>
         <source>Demi bold</source>
-        <translation>Neretto</translation>
+        <translation type="vanished">Neretto</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation>Corsivo</translation>
+        <translation type="vanished">Corsivo</translation>
     </message>
     <message>
-        <location filename="../../../lxqtclockconfiguration.cpp" line="284"/>
+        <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
         <source>Input custom date format</source>
         <translation>Formato personalizzato</translation>
     </message>
     <message>
-        <location filename="../../../lxqtclockconfiguration.cpp" line="284"/>
+        <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
         <source>Interpreted sequences of date format are:
 
 d	the day as number without a leading zero (1 to 31)

@@ -4,7 +4,7 @@
 <context>
     <name>FirstDayCombo</name>
     <message>
-        <location filename="../../../lxqtclockconfiguration.cpp" line="50"/>
+        <location filename="../../../lxqtclockconfiguration.cpp" line="49"/>
         <source>&lt;locale based&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -82,12 +82,12 @@
         <translation>日付</translation>
     </message>
     <message>
-        <location filename="../../../lxqtclockconfiguration.cpp" line="284"/>
+        <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
         <source>Input custom date format</source>
         <translation>日付の表示形式を指定</translation>
     </message>
     <message>
-        <location filename="../../../lxqtclockconfiguration.cpp" line="284"/>
+        <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
         <source>Interpreted sequences of date format are:
 
 d	the day as number without a leading zero (1 to 31)
