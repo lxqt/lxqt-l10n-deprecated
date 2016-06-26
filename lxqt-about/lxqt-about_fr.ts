@@ -18,7 +18,7 @@
         <location filename="../../aboutdialog/lxqtaboutdialog.cpp" line="98"/>
         <source>LXQt would not have been possible without the &lt;a %1&gt;Razor-qt&lt;/a&gt; project and its many contributors.</source>
         <comment>About dialog, &apos;About&apos; tab text</comment>
-        <translation>LXQt n&apos;aurait pu être réalisé sant le projet &lt;a %1&gt;Razor-qt&lt;/a&gt; et ses nombreux collaborateurs.</translation>
+        <translation>LXQt n&apos;aurait pu être réalisé sans le projet &lt;a %1&gt;Razor-qt&lt;/a&gt; et ses nombreux collaborateurs.</translation>
     </message>
     <message>
         <source>Copyright: %1-%2 %3</source>
