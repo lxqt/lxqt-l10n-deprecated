@@ -30,7 +30,11 @@ LXDE Project: http://lxde.org/
 
 Authors:
 Hong Jen Yee (PCMan) &lt;pcman.tw@gmail.com&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>LXImage - une simple et rapide visionneuse d'image
+Copyright (C) 2013
+Projet LXDE : http://lxde.org/
+Auteur :
+Hong Jen Yee (PCMan) &lt;pcman.tw@gmail.com&gt;</translation>
     </message>
     <message>
         <location filename="../../mainwindow.cpp" line="242"/>
