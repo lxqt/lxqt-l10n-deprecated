@@ -4,18 +4,14 @@
 <context>
     <name>PanelScreenSaver</name>
     <message>
-        <source>Panel Screensaver Global shortcut: &apos;%1&apos; cannot be registered</source>
-        <translation type="vanished">ﻻ يمكن تسجيل الاختصار الشَّامل %1 لحافظ الشَّاشة!</translation>
-    </message>
-    <message>
         <location filename="../../../panelscreensaver.cpp" line="53"/>
         <source>Lock Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>اقفل الشّاشة</translation>
     </message>
     <message>
         <location filename="../../../panelscreensaver.cpp" line="68"/>
         <source>Panel Screensaver: Global shortcut &apos;%1&apos; cannot be registered</source>
-        <translation type="unfinished"></translation>
+        <translation>حافظ الشّاشة للوحة: تعذّر تسجيل الاختصار العموميّ &apos;%1&apos;</translation>
     </message>
 </context>
 </TS>
