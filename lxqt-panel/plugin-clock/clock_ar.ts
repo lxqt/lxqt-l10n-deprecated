@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ar">
+<TS version="2.1" language="en_US">
 <context>
     <name>FirstDayCombo</name>
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="49"/>
         <source>&lt;locale based&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;حسب المحليّة&gt;</translation>
     </message>
 </context>
 <context>
     <name>LXQtClockConfiguration</name>
     <message>
-        <source>LXQt Clock Settings</source>
-        <translation type="vanished">إعدادات ساعة ريزر</translation>
-    </message>
-    <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="14"/>
         <source>Clock Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات السّاعة</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="20"/>
@@ -28,131 +24,67 @@
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="26"/>
         <source>&amp;Show seconds</source>
-        <translation>إ&amp;ظهار الثَّواني</translation>
+        <translation>أ&amp;ظهر الثّواني</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="33"/>
         <source>12 &amp;hour style</source>
-        <translation>عرض 12 سا&amp;عة</translation>
+        <translation>نمط 12 &amp;ساعة</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="40"/>
         <source>&amp;Use UTC</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../lxqtclockconfiguration.ui" line="59"/>
-        <source>Date &amp;format</source>
-        <translation type="unfinished"></translation>
+        <translation>ا&amp;ستخدم التّوقيت العاليميّ UTC</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="76"/>
         <source>&amp;Do not show date</source>
-        <translation type="unfinished"></translation>
+        <translation>لا تعر&amp;ض التّاريخ</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="86"/>
         <source>Show date &amp;before time</source>
-        <translation type="unfinished"></translation>
+        <translation>أظهر التّاريخ &amp;قبل الوقت</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="93"/>
         <source>Show date &amp;after time</source>
-        <translation type="unfinished"></translation>
+        <translation>أظهر التّاريخ ب&amp;عد الوقت</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="100"/>
         <source>Show date below time on new &amp;line</source>
-        <translation type="unfinished"></translation>
+        <translation>أظهر التّاريخ أسفل الوقت في سطر &amp;جديد</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="107"/>
         <source>First day of week in calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>أوّل يوم في الأسبوع</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="124"/>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>الاتّجاه</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="130"/>
         <source>Auto&amp;rotate when the panel is vertical</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Font</source>
-        <translation type="vanished">ال&amp;خطُّ</translation>
-    </message>
-    <message>
-        <source>Font</source>
-        <translation type="vanished">الخطُّ</translation>
+        <translation>&amp;دوّر آليًّا إن كانت اللوحة رأسيّة</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="50"/>
         <source>Date</source>
-        <translation>التَّاريخ</translation>
+        <translation>التّاريخ</translation>
     </message>
     <message>
-        <source>Show &amp;date</source>
-        <translation type="vanished">إظهار ال&amp;تَّاريخ</translation>
-    </message>
-    <message>
-        <source>D&amp;ate format</source>
-        <translation type="vanished">تنسيق التَّ&amp;أريخ</translation>
-    </message>
-    <message>
-        <source>Fon&amp;t</source>
-        <translation type="vanished">الخ&amp;طُّ</translation>
-    </message>
-    <message>
-        <source>Show date in &amp;new line</source>
-        <translation type="vanished">إظهار التَّارخ في سطرٍ &amp;جديدٍ</translation>
-    </message>
-    <message>
-        <source>&amp;Use theme fonts</source>
-        <translation type="vanished">استخد&amp;م خطوط الواجهة المخصَّصة</translation>
-    </message>
-    <message>
-        <source>Time font</source>
-        <translation type="vanished">الخطُّ المستخدم للوقت</translation>
-    </message>
-    <message>
-        <source>Date font</source>
-        <translation type="vanished">الخطُّ المستخدم للتَّاريخ</translation>
-    </message>
-    <message>
-        <source>Ultra light</source>
-        <translation type="vanished">فاتحٌ زيادة</translation>
-    </message>
-    <message>
-        <source>Light</source>
-        <translation type="vanished">فاتح</translation>
-    </message>
-    <message>
-        <source>Ultra black</source>
-        <translation type="vanished">أسود دامس</translation>
-    </message>
-    <message>
-        <source>Black</source>
-        <translation type="vanished">أسود</translation>
-    </message>
-    <message>
-        <source>Bold</source>
-        <translation type="vanished">ثخين</translation>
-    </message>
-    <message>
-        <source>Demi bold</source>
-        <translation type="vanished">نصف ثخين</translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation type="vanished">مائل</translation>
+        <location filename="../../../lxqtclockconfiguration.ui" line="59"/>
+        <source>Date &amp;format</source>
+        <translation>&amp;نسق التّاريخ</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
         <source>Input custom date format</source>
-        <translation type="unfinished"></translation>
+        <translation>إدخال نسق التّاريخ المخصّص</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
@@ -175,7 +107,25 @@ will also be treated as text and not be used as an expression.
 
 
 Custom date format:</source>
-        <translation type="unfinished"></translation>
+        <translation>الرموز المعتمدة لنسق التّاريخ هي:
+
+d	اليوم كعدد بدون صفر بادئ (1 إلى 31)‏
+dd	اليوم كعدد مع صفر بادئ (01 إلى 31)‏
+ddd	الاسم الموطّن المختصر لليوم (مثلًا &apos;سبت&apos; إلى &apos;جمع&apos;).‏
+dddd	الاسم الموطّن الطّويل لليوم (مثلًا &apos;السّبت&apos; إلى &apos;الجمعة&apos;).‏
+M	الشّهر كعدد بدون صفر بادئ (1-12)‏
+MM	الشّهر كعدد مع صفر بادئ (01-12)‏
+MMM	الاسم الموطّن المختصر للشّهر (مثلًا &apos;ينا&apos; إلى &apos;ديس&apos;).‏
+MMMM	الاسم الموطّن الطّويل للشّهر (مثلًا &apos;يناير&apos; إلى &apos;ديسمبر&apos;).‏
+yy	العام كخانتين عشريّتين (00-99)‏
+yyyy	العام كأربع خانات عشريّة
+
+ستُعتبر كلّ المحارف الأخرى نصًّا عاديًّا.
+أيّة محارف موجودة داخل علامات اقتباس مفردة (&apos;)
+ستُعتبر أيضًا نصًّا عاديًّا ولن تُستخدم كتعبير.
+
+
+نسق التّاريخ المخصّص:</translation>
     </message>
 </context>
 </TS>
