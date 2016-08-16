@@ -6,19 +6,19 @@
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="49"/>
         <source>&lt;locale based&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;založeno na místním nastavení data&gt;</translation>
     </message>
 </context>
 <context>
     <name>LXQtClockConfiguration</name>
     <message>
         <source>LXQt Clock Settings</source>
-        <translation type="vanished">Nastavení hodin</translation>
+        <translation>Nastavení hodin</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="14"/>
         <source>Clock Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavení hodin</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="20"/>
@@ -38,55 +38,55 @@
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="40"/>
         <source>&amp;Use UTC</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Použít světový čas (UTC)</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="59"/>
         <source>Date &amp;format</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Formát data</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="76"/>
         <source>&amp;Do not show date</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Neukazovat datum</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="86"/>
         <source>Show date &amp;before time</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukázat datum &amp;před časem</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="93"/>
         <source>Show date &amp;after time</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukázat datum &amp;za časem</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="100"/>
         <source>Show date below time on new &amp;line</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukázat datum pod časem na novém řá&amp;dku</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="107"/>
         <source>First day of week in calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>První den týdne v kalendáři</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="124"/>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Natočení</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="130"/>
         <source>Auto&amp;rotate when the panel is vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Natočit automaticky, když je panel svisle</translation>
     </message>
     <message>
         <source>&amp;Font</source>
-        <translation type="vanished">&amp;Písmo</translation>
+        <translation>&amp;Písmo</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="vanished">Písmo</translation>
+        <translation>Písmo</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="50"/>
@@ -95,64 +95,64 @@
     </message>
     <message>
         <source>Show &amp;date</source>
-        <translation type="vanished">Ukázat &amp;datum</translation>
+        <translation>Ukázat &amp;datum</translation>
     </message>
     <message>
         <source>D&amp;ate format</source>
-        <translation type="vanished">Formát d&amp;ata</translation>
+        <translation>Formát d&amp;ata</translation>
     </message>
     <message>
         <source>Fon&amp;t</source>
-        <translation type="vanished">Pí&amp;smo</translation>
+        <translation>Pí&amp;smo</translation>
     </message>
     <message>
         <source>Show date in &amp;new line</source>
-        <translation type="vanished">Ukázat datum na &amp;novém řádku</translation>
+        <translation>Ukázat datum na &amp;novém řádku</translation>
     </message>
     <message>
         <source>&amp;Use theme fonts</source>
-        <translation type="vanished">&amp;Použít písma motivu</translation>
+        <translation>&amp;Použít písma motivu</translation>
     </message>
     <message>
         <source>Time font</source>
-        <translation type="vanished">Písmo pro čas</translation>
+        <translation>Písmo pro čas</translation>
     </message>
     <message>
         <source>Date font</source>
-        <translation type="vanished">Písmo pro datum</translation>
+        <translation>Písmo pro datum</translation>
     </message>
     <message>
         <source>Ultra light</source>
-        <translation type="vanished">Hodně světlé</translation>
+        <translation>Hodně světlé</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="vanished">Světlé</translation>
+        <translation>Světlé</translation>
     </message>
     <message>
         <source>Ultra black</source>
-        <translation type="vanished">Hodně černé</translation>
+        <translation>Hodně černé</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation type="vanished">Černé</translation>
+        <translation>Černé</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="vanished">Tučné</translation>
+        <translation>Tučné</translation>
     </message>
     <message>
         <source>Demi bold</source>
-        <translation type="vanished">Polotučné</translation>
+        <translation>Polotučné</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="vanished">Kurzíva</translation>
+        <translation>Kurzíva</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
         <source>Input custom date format</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadat vlastní formát data</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
