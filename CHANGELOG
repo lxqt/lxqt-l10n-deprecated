@@ -1,0 +1,1771 @@
+
+lxqt-l10n-0.11.0 / 2016-09-24
+=============================
+
+  * pavucontrol-qt: Fix syntax errors (#81)
+  * Update README.md
+  * Update German translation (#33)
+  * Fix translations of pavucontrol-qt.
+  * Add translations for pavucontrol-qt.
+  * Add/Update Czech translations
+  * Update Greek translation
+  * Update README.md
+  * lxqt-powermanagement: Add Catalan translations
+  * lxqt-panel: Add/update Catalan translations
+  * Update italian translations
+  * Add lxqt-panel_ca.ts (Catalan)
+  * Add lxqt-sudo_ca.ts (Catalan)
+  * Add lxqt-policykit-agent_ca.ts (Catalan)
+  * Add lxqt-config-globalkeyshortcuts_ca.ts (Catalan)
+  * Add lxqt-admin-user_ca.ts (Catalan)
+  * Add lxqt-admin-time_ca.ts (Catalan)
+  * Add lxqt-notificationd_ca.ts (Catalan)
+  * Add lxqt-config-notificationd_ca.ts (Catalan)
+  * Translate lximage-qt_ca.ts (Catalan)
+  * Translate lxqt-session_ca.ts (Catalan)
+  * Add lxqt-leave_ca.ts (Catalan)
+  * Translate lxqt-config-session_ca.ts (Catalan)
+  * Add liblxqt_ca.ts (Catalan)
+  * Add lxqt-about_ca.ts (Catalan)
+  * lxqt-panel: Remove Screensaver translations
+  * Add lxqt-config-brightness_ca.ts (Catalan)
+  * Add lxqt-config-monitor_ca.ts (Catalan)
+  * Add lxqt-config-locale_ca.ts (Catalan)
+  * Translate lxqt-config-input_ca.ts (Catalan)
+  * Add lxqt-config-file-associations_ca.ts (Catalan)
+  * Add lxqt-config-appearance_ca.ts (Catalan)
+  * Add lxqt-config_ca.ts (Catalan)
+  * Fix newline in arabic translation
+  * Update Arabic translation of dom Plugin (#32)
+  * Create obconf-qt_it.ts
+  * Fix some files language from en_US to ar
+  * Update Arabic translations
+  * Danish: Typos fixed for libfm-qt and pcmanfm-qt.
+  * lximage-qt: Update translations (ui_*.h -> *.ui)
+  * Danish. Typos checked and corrected. (for libfm-qt and pcmanfm-qt)
+  * Update pcmanfm-qt_it.ts
+  * Update lxqt-runner_it.ts
+  * Update taskbar_it.ts
+  * Danish translation of libfm-qt and pcmanfm-qt.
+  * Update lxqt-config-monitor_de.ts
+  * Update desktopswitch_de.ts (#19)
+  * Add lxqt-config-brightness_de.ts
+  * Delete librazorqt_ru.ts
+  * Update kbindicator_it.ts
+  * Update all translations to current sources
+  * Adjust README.md
+  * Delete compton-conf_ru_RU.ts
+  * Update qterminal_it.ts
+  * Improve README.md (#9)
+
+0.10.95 / 2016-05-13
+====================
+
+  * AUTHORS and COPYING added (#7)
+  * lxqt-panel: Fix name of Croatian translation file (#8)
+  * Fixed two typos in CMakeLists.txt
+  * Added CMake$foo for lxqt-session
+  * Some renaming
+  * Added CMake$foo for lxqt-powermanagement
+  * Some renaming
+  * Added CMake$foo for lxqt-policykit
+  * Renamed translations to lxqt-policykit-agent
+  * Added CMake$foo for lxqt-notificationd
+  * Some renaming
+  * Added CMake$foo for lxqt-globalkeys
+  * Renamed config/translations into lxqt-globalkeys/lxqt-config-globalkeyshortcuts
+  * Added CMake$foo for lxqt-config
+  * Added CMake$foo for lxqt-admin
+  * Moved all directories to lxqt-config
+  * moved translations to .
+  * remamed src/translations into lxqt-config
+  * move translation dirs to lxqt-admin
+  * Renamed */translations/* to */*
+  * build: Add installation dir for component
+  * Added CMake$foo for qterminal
+  * Renamed src/translations into qterminal
+  * Added CMake$foo for pcmanfm-qt
+  * Renamed pcmanfm/translations into pcmanfm-qt
+  *  Added CMake$foo for obconf-qt
+  * Renamed src/translations into obconf-qt
+  * Added CMake$foo for lxqt-runner
+  * Renamed translations into lxqt-runner
+  * Added CMake$foo for lxqt-openssh-askpass
+  * Renamed translations into lxqt-openssh-askpass
+  * Added CMake$foo for lxqt-about
+  * Renamed translations into lxqt-about
+  * Added CMake$foo for lximage-qt
+  * Renamed src/translations into lxqtimage-qt
+  * Added CMake$foo for liblxqt
+  * Renamed translations into liblxqt
+  * Added CMake$foo for libfm-qt
+  * Renamed src/translations into libfm-qt
+  * Added CMake$foo for compton-conf
+  * rename translations
+  * Add README for short info
+  * Add build system for translations
+  * kbindicator: (Re)Add .ts translations
+  * Update desktopswitch_it.ts
+  * Fix typo in German translation (#18)
+  * lxqt-sudo: Update file paths
+  * lxqt-panel: Update file paths
+  * Update lxqt-panel_it.ts
+  * translations: updated german translation (#323)
+  * plugin-mainmenu: update mainmenu_it.ts (#337)
+  * Russian translation update
+  * Added new translated strings.
+  * Updated german translation.
+  * plugin-taskbar: fix German translation of configuration dialogue
+  * Fix untranslated string in French translation
+  * Add pt_BR (Brazilian Portuguese) translation (#215)
+  * translations: russian translation update (#85)
+  * translations: fix four typos in messages (#23)
+  * Removed not needed LICENSE
+  * Rename from lxqt-config-brightness-settings to  lxqt-config-brightness.
+  * lxqt-config-brightness-settings added.
+  * Update czech translation (by Petr Balíček <pbalicek@seznam.cz>)
+  * Update czech translation (by Petr Balíček <pbalicek@seznam.cz>)
+  * Improve french translation
+  * lxqt-panel: Move panel's translations
+  * lxqt-panel: Move worldclock's translations
+  * lxqt-panel: Move volume's translations
+  * lxqt-panel: Move tray's translations
+  * lxqt-panel: Move taskbar's translations
+  * lxqt-panel: Move sysstat's translations
+  * lxqt-panel: Move statusnotifier's translations
+  * lxqt-panel: Move spacer's translations
+  * lxqt-panel: Move showdesktop's translations
+  * lxqt-panel: Move sensors's translations
+  * lxqt-panel: Move screensaver's translations
+  * lxqt-panel: Move quicklaunch's translations
+  * lxqt-panel: Move networkmonitor's translations
+  * lxqt-panel: Move mount's translations
+  * lxqt-panel: Move mainmenu's translations
+  * lxqt-panel: Move kbindicator's translations
+  * lxqt-panel: Move dom's translations
+  * lxqt-panel: Move directorymenu's translations
+  * lxqt-panel: Move desktopswitch's translations
+  * lxqt-panel: Move cpuload's translations
+  * lxqt-panel: Move colorpicker's translations
+  * lxqt-panel: Move clock's translations
+  * Update pcmanfm-qt_it.ts
+  * lxqt-sudo: Add existing translations
+  * turkiash translate files added
+  * Add Greek (el) translation
+  * Updated german translation.
+  * Russian translation update
+  * Fix source language in Italian translation file
+  * Fix target language in Lithuanian translation file
+  * Update italian translation, remove country-specific variant
+  * Italian translation update
+  * Italian translation update
+  * Italian translation update
+  * Italian translation update
+  * Italian translation update
+  * Italian translation update
+  * Italian translation update
+  * Update german translation
+  * Japanese translation update
+  * Update lxqt-panel_fr_FR.ts
+  * Add HR translations
+  * Update italian translation
+  * Italian translation update
+  * Create HR translations for panel and plugins
+  * Create HR translations for panel and plugins
+  * Create HR translations for panel and plugins
+  * Create HR translations for panel and plugins
+  * Create HR translations for panel and plugins
+  * Create HR translations for panel and plugins
+  * Create HR translations for panel and plugins
+  * plugin-kbindicator: remove ru_RU translations
+  * plugin-kbindicator: add russian translations
+  * Update Russian translations for the panel and plugins
+  * Update Russian translations for the panel and plugins
+  * Update Russian translations for the panel and plugins
+  * Update Russian translations for the panel and plugins
+  * Update Russian translations for the panel and plugins
+  * Update Russian translations for the panel and plugins
+  * Update Russian translations for the panel and plugins
+  * Update Russian translations for the panel and plugins
+  * Update Russian translations for the panel and plugins
+  * Update Russian translations for the panel and plugins
+  * Update Russian translations for the panel and plugins
+  * Update Russian translations for the panel and plugins
+  * Update Russian translations for the panel and plugins
+  * Update Russian translations for the panel and plugins
+  * Update Russian translations for the panel and plugins
+  * Update Russian translations for the panel and plugins
+  * Update Russian translations for the panel and plugins
+  * Update Russian translations for the panel and plugins
+  * Update Russian translations for the panel and plugins
+  * Update Russian translations for the panel and plugins
+  * Italian translation update
+  * Italian translation update
+  * Italian translation update
+  * Italian translation update
+  * Italian translation update
+  * Italian translation update
+  * Italian translation update
+  * Italian translation update
+  * Italian translation update
+  * Italian translation update
+  * Italian translation update
+  * Italian translation update
+  * Italian translation update
+  * Italian translation update
+  * Italian translation update
+  * Updated german translation.
+  * Updated german translation.
+  * Fix --wallpaper-mode description in translations
+  * Polish translation updated
+  * Polish translation updated
+  * Update German translation
+  * Polish translation updated
+  * Polish translation updated
+  * Polish translation updated
+  * Improved Russian translation - thanks to uazure
+  * Fix typo
+  * Add Russian translation
+  * Italian translation update
+  * Updated Russian translation Removed ru_RU file
+  * Updated Russian translation Removed ru_RU files
+  * Updated Russian translation Removed ru_RU file
+  * Fix target language in translation file template
+  * Updated Russian translations Removed ru_RU files
+  * Update Russian translation Remove ru_RU files
+  * Remove ru_RU translation file
+  * Replace slang with a more traditional wording
+  * Russian translation update
+  * Updated Russian translation Removed ru_RU files
+  * Update Russian translation Remove ru_RU files
+  * Updated Russian translation Removed ru_RU file
+  * Update Russian translations
+  * Fix typo in Greek translation
+  * Russian translations update Remove duplicated ru_RU translations
+  * Russian translation update
+  * Updated german translation.
+  * Move libfm-qt to its own repository.
+  * Split pcmanfm-qt into two parts and move libfm-qt to its own repository.
+  * Update French translation
+  * Update French translation
+  * Italian translation updates
+  * Italian translation updates
+  * Italian translation update
+  * French translation:
+  * Update French translation of GPL license
+  * Update French translation
+  * Italian translation update
+  * hu translations updated
+  * hu translations updated
+  *_hu.ts files updated, *hu_HU.ts files deleted
+  * hu translations fixed
+  * hu translations fixed
+  * hu translations fixed
+  * hu translations fixed
+  * hu translations fixed
+  * hu translations fixed
+  * hu translations fixed
+  * hu translations fixed
+  * hu translations fixed
+  * hu translations fixed
+  * hu translations fixed
+  * hu translations fixed
+  * hu translations fixed
+  * hu translations fixed
+  * hu translations fixed
+  * hu translations fixed
+  * hu translations fixed
+  * hu translations fixed
+  * hu translations fixed
+  * hu translations fixed
+  * update: lxqt-powermanagement_hu.ts
+  * update lxqt-config-notificationd_hu.ts
+  * new: lxqt-openssh-askpass_hu.ts
+  * updated: *_hu.ts
+  * update: lxqt-policykit-agent_hu.ts
+  * upd: lxqt-config-globalkeyshortcuts_hu.ts
+  * upd: lxqt-runner_hu.ts
+  * upd: lxqt-config-session_hu.ts del: lxt-config-session_hu_HU.ts
+  * plugin-sysstat: translations fix
+  * Update lxqt-config-notificationd_it.ts
+  * Delete country specific files
+  * Update lxqt-runner_it.ts
+  * Fix language tag
+  * Add German translation
+  * Update translations
+  * Update zh_TW translations.
+  * Update translations.
+  * Update translations.
+  * Fix license file
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Fix Japanese translations.
+  * CPU count begins with 0 not with 1.
+  * Updated german translation.
+  * Updated german translation.
+  * Added missing cpu10, updated translation template.
+  * Added some translateable strings, tooltips.
+  * Fix typos in translations/liblxqt_fr_FR.ts
+  * Russian translation update
+  * Russian translation update
+  * Update cs_CZ translation with the strings provided by petrbal in pull request #218.
+  * Update cs_CZ translation with the strings provided by petrbal in pull request #218.
+  * Initial support for locale config, based on formats KCMS.
+  * Updated german translation.
+  * Removed country variant, improved and corrected italian translation
+  * Transition LxQt --> LXQt: remnants in TS files
+  * Transition LxQt --> LXQt: remnants in TS files
+  * Transition LxQt --> LXQt: remnants in TS files
+  * Italian translation: remove country-specific translation "_IT", several updates
+  * Italian translation: remove country-specific translation "_IT", several updates
+  * Italian translation: remove country-specific translation "_IT", several updates
+  * Italian translation: remove country-specific translation "_IT", several updates
+  * Italian translation: remove country-specific translation "_IT", several updates
+  * Italian translation: remove country-specific translation "_IT", several updates
+  * Italian translation: remove country-specific translation "_IT", several updates
+  * Italian translation: remove country-specific translation "_IT", several updates
+  * Italian translation: remove country-specific translation "_IT", several updates
+  * Italian translation: remove country-specific translation "_IT", several updates
+  * Italian translation: remove country-specific translation "_IT", several updates
+  * Italian translation: remove country-specific translation "_IT", several updates
+  * Italian translation: remove country-specific translation "_IT", several updates
+  * Italian translation: remove country-specific translation "_IT", several updates
+  * Italian translation: remove country-specific translation "_IT", several updates
+  * Italian translation: remove country-specific translation "_IT", several updates
+  * Italian translation: remove country-specific translation "_IT", several updates
+  * Italian translation: remove country-specific translation "_IT", several updates
+  * Italian translation: remove country-specific translation "_IT", several updates
+  * Italian translation: remove country-specific translation "_IT", several updates
+  * Italian translation: remove country-specific translation "_IT", several updates
+  * Russian translation: update
+  * Russian translation: update
+  * Italian translation: add desktop entry files, adjust TS files
+  * Italian translation: add desktop entry files, adjust TS files
+  * libfm-qt: updated german translation
+  * libfm-qt: updated german translation
+  * libfm-qt: lupdated translation files
+  * libfm-qt: lupdated translation files
+  * Fix Simplified Chinese(zh_CN)
+  * Update japanese translation
+  * Add Greek (el) translation
+  * Add Greek (el) translation
+  * Add few missing Polish translations and modify few existing.
+  * Updated german translation, made common for all regions.
+  * Add Greek (el) translation Add the 'Comment' key in desktop file
+  * Removed country variant _IT
+  * Add Greek (el) translation Remove country variant from language code Update translator info in translators_el.info
+  * Add Greek (el) translation
+  * Update Greek (el) translation Remove country variant from language code
+  * Add Greek (el) translation
+  * Add Greek (el) translation
+  * Rename LxQt to LXQt everywhere
+  * Rename LxQt to LXQt everywhere
+  * Rename LxQt to LXQt everywhere
+  * Rename LxQt to LXQt everywhere
+  * Rename LxQt to LXQt everywhere
+  * Rename LxQt to LXQt everywhere
+  * Rename LxQt to LXQt everywhere
+  * Rename LxQt to LXQt everywhere
+  * Rename LxQt to LXQt everywhere
+  * Rename LxQt to LXQt everywhere
+  * Rename LxQt to LXQt everywhere
+  * Rename LxQt to LXQt everywhere
+  * Rename LxQt to LXQt everywhere
+  * Rename LxQt to LXQt everywhere
+  * Rename LxQt to LXQt everywhere
+  * Rename LxQt to LXQt everywhere
+  * Rename LxQt to LXQt everywhere
+  * Rename LxQt to LXQt everywhere
+  * Rename LxQt to LXQt everywhere
+  * Rename LxQt to LXQt everywhere
+  * Rename LxQt to LXQt everywhere
+  * Rename LxQt to LXQt everywhere
+  * Rename LxQt to LXQt everywhere
+  * Rename LxQt to LXQt everywhere
+  * Remove country variant from language code
+  * Update Greek (el) translation Remove country variant from language code
+  * Update Greek translation Remove country variant from language code
+  * Update Greek translation Remove country variant from language code
+  * Update Greek translation Remove country variant from language code
+  * Update Greek translation Remove country variant from language code
+  * Update Greek translation Remove country variant from language code
+  * Update Greek translation Remove country variant from language code
+  * Update Greek translation Remove country variant from language code
+  * Update Greek translation Remove country variant from language code
+  * Update Greek translation Remove country variant from language code
+  * Update Greek translation Remove country variant from language code
+  * Update Greek translation Remove country variant from language code
+  * Update Greek translation Remove country variant from language code
+  * Update Greek translation Remove country variant from language code
+  * Update Greek translation Remove country variant from language code
+  * Update Greek translation Remove country variant from language code
+  * Update Greek translation Remove country variant from language code
+  * Update Greek translation Remove country variant from language code
+  * Update Greek translation Remove country variant from language code
+  * Update Greek translation Remove country variant from language code
+  * Update Greek translation Remove country variant from language code
+  * Update Greek translation Remove country variant from language code
+  * Update Greek translation Remove country variant from language code
+  * Update Greek translation Remove country variant from language code
+  * Update Greek translation Remove country variant from language code
+  * Add Greek (el) translation Remove needless country variant from language code
+  * Update Greek (el) translation Remove country variant in language code
+  * Update German translation
+  * fixed paths in .ts files +  lupdate
+  * Drop country-specific Italian translations
+  * Updated and created italian .desktop files
+  * Update Greek (el) translation
+  * Rename LxQt to LXQt everywhere
+  * Rename LxQt to LXQt everywhere
+  * Rename LxQt to LXQt everywhere
+  * Corrected language code (de_DE -> de) of german translation, marked translations as done.
+  * Hungarian translations added
+  * Removed invisible dialog titles. Updated template. Added german translation.
+  * Added german translation.
+  * Added missing tr() call.
+  * Add chinese translation
+  * Require Qt 5.2 or higher
+  * Updated german translation, make it common for all german speaking regions.
+  * Updated template.
+  * Update German translation
+  * Update German translation
+  * Update Russian translation
+  * Update Russian translation
+  * Fix japanese translation
+  * Updated german translations.
+  * Better title of leave dialog. Updated template for modified leave strings.
+  * Russian translation update
+  * Add Japanese translation
+  * Updates translations sources
+  * Update Russian translation
+  * Fixes for Portuguese language
+  * minor fix in German translation of plugin-kbindicator
+  * Re-added german translation.
+  * Updated translation template for tooltips.
+  * Updated german translation.
+  * Update German translation
+  * Update translations.
+  * Add placeholders to fr translation
+  * Add french translation
+  * Remove faulty lithuanian translation
+  * Complete dutch translation
+  * Fix romanian translation
+  * Remove country specific Italian
+  * Complete italian translation
+  * Update hungarian translation
+  * Remove faulty lithaunian
+  * Update slovenian
+  * Delte incomplete arabian translations
+  * Update romanian translations for the desktopswitch plugin
+  * Update romanian translations for the cpuload plugin
+  * Update romanian translations for the clock plugin
+  * Update romanian translations for the main panel ui
+  * Add missing romanian translation for the network monitor
+  * Update romanian desktop file for the cpuload plugin
+  * Update romanian translation for the clock desktop file
+  * Update romanian translations for the network monitor desktop file
+  * Removed obsolete contexts from liblxqt.
+  * Fixes an translation regression
+  * Fixes an translation regression
+  * Updates translations
+  * Updates translations
+  * kbindicator: depend on xkbcommon & show lang flag
+  * Updated german translation.
+  * Updated template for new translations.
+  * Finish networkmonitor turkish translation
+  * Updated german translation.
+  * Updated italian translation, discarding it_IT
+  * Fix lxde/lxqt#447 - missing actions in Places' context menus
+  *  Removes .tx transaction dir artifact
+  * Removes .tx transaction dir artifact
+  * Added missing german translation, updated template.
+  * fixes in French and German translation
+  * fixes in French and German translation
+  * German translation
+  * Updated template and german translation after moving about dialog.
+  * Replace LXDE-Qt with LXQt in desktop file
+  * polishing German translation
+  * polishing German translation
+  * Replace LXDE-Qt with LXQt
+  * Delete faulty indonesian translation
+  * Rename greek and french translation file to be country independant
+  * Delete duplicate russian translation
+  * Delete duplicate hungary translation
+  * Delete duplicate danks files
+  * Delete czech country specific files
+  * Add polish translation
+  * Moved croatian translations to the correct directories.
+  * Moved croatian translations to the correct directories.
+  * Moved croatian translations to the correct directories.
+  * Moved croatian translations to the correct directories.
+  * Added german translation for the spacer plugin.
+  * Updated german translations for the showdesktop plugin.
+  * Updated german translations for the sensors plugin.
+  * Updated german translations for the taskbar plugin.
+  * Delete Venezuela specific translations
+  * Correct dutch translations for networkmonitor desktop file
+  * Improved network monitor Spanish translations
+  * Provide esperanto translation for networkmonitor
+  * Correct translation for esperanto desktop file
+  * Add turkish translation
+  * Added german translation for statusnotifier.
+  * Added german translation for sysstat plugin.
+  * Updated / unified german translation for taskbar plugin.
+  * Updated template by removing old file and trigger an update.
+  * Updated german translation for the screensaver plugin.
+  * Updated german translation for the quicklaunch plugin.
+  * Updated german translation for the networkmonitor plugin.
+  * Updated template for mount plugin.
+  * Updated german translation for mainmenu plugin.
+  * Added german translation for kbindicator plugin.
+  * Updated german translation for mount plugin.
+  * Added german translation for DOM.
+  * Added german translation for DOM.
+  * Moved croatian translation to correct directory.
+  * Updated german translation.
+  * Updated german translation for directorymenu.
+  * Updated german translation for cpuload plugin.
+  * Updated german translation for colorpicker plugin.
+  * Updated german translation for volume plugin.
+  * Added german translation for worldclock plugin.
+  * Cleaned german desktop file for tray plugin.
+  * plugin-spacer: slovak translation
+  * plugin-spacer: translatable type texts
+  * Updates translations
+  * Updates translations
+  * Translations: Removes LxQt namespace
+  * Adds .ts translation build infrastructure
+  * Updated german translation for clock plugin.
+  * Added new string to template and german translation.
+  * Updated german translation, removed now obsolete _de_DE.ts.
+  * Updated template, sorted line numbers and contexts - like created from scratch by 'lupdate'.
+  * config-nototification_hu.ts modified
+  * More german translation
+  * Update lxqt-config-input_it.ts
+  *_hu.ts added
+  * Hungarian translation added
+  * Added italian translations
+  * Create lxqt-config-notificationd_it.ts
+  * Create desktopswitch_hr.ts
+  * Create cpuload_hr.ts
+  * Hungarian translations added, modified
+  * Hungarian translations added, modified
+  * Hungarian translations added, modified
+  * Hungarian translations added, modified
+  * Hungarian translations added, modified
+  * Hungarian translations added, modified
+  * Hungarian translations added, modified
+  * Hungarian translations added, modified
+  * Hungarian translations added, modified
+  * Hungarian translations added, modified
+  * Hungarian translations added, modified
+  * Hungarian translations added, modified
+  * Hungarian translations added, modified
+  * Hungarian translations added, modified
+  * Hungarian translations added, modified
+  * Hungarian translations added, modified
+  * Hungarian translations added, modified
+  * Hungarian translations added, modified
+  * Hungarian translations added, modified
+  * Hungarian translations added, modified
+  * Create lxqt-admin-time_hr.ts
+  * Create lxqt-config-notificationd_hr.ts
+  * Update pcmanfm-qt_it.ts
+  * Update networkmonitor_it.desktop
+  * Update networkmonitor_it_IT.desktop
+  * Update networkmonitor_it_IT.desktop
+  * Update networkmonitor_it.desktop
+  * Update networkmonitor_it_IT.desktop
+  * Update networkmonitor_it.desktop
+  * Hungarian translations update, lxqt-config-monitor.desktop.in fixed
+  * Hungarian translation update
+  * Hungarian translations added
+  * Hungarian translations update
+  * Hungarian translation
+  * Hungarian translation
+  * Hungarian translation added
+  * Create lxqt-admin-user_hr.ts
+  * Hungarian translations added
+  * Hungarian translations added
+  * Hungarian translation
+  * Hungarian translation
+  * Update Russian translation
+  * plugin-networkmonitor: fix faulty French translation
+  * Fix German translation of panel context menu (addendum).
+  * Fix German translation of panel context menu.
+  * Update Russian translation
+  * Update lxqt-panel_es.ts
+  * Fix #627 - long startup time. (This blocking is caused by checking the availability of "network:///".)
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Fixes #168 - qunsetenv("QT_NO_GLIB"); required before constructing the application.
+  * Typos: fix "Idle" capitalization and misspelling
+  * Update lxqt-config-cursor_it_IT.ts
+  * Update qterminal_tr.ts
+  * Create qterminal_tr.ts
+  * Polish translation update
+  * Polish translation updated
+  * Updates translations sources
+  * new plugin - directorymenu
+  * Fix lxde/lxqt#512 - pcmanfm-qt: cannot delete to trash.
+  * Initial Polish translation
+  * Update mainmenu_it_IT.ts
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Create kbindicator_it.ts
+  * Update clock_it_IT.ts
+  * Update taskbar_it_IT.ts
+  * Update lxqt-panel_it_IT.ts
+  * Updated german translation.
+  * Update lxqt-panel_it.ts
+  * Polish translations added
+  * Polish translations added
+  * Update german translation.
+  * plugin-networkmonitor: fixed Czech translation
+  * Portuguese update
+  * Updated polish translations
+  * Updated polish translations
+  * Updated polish translations
+  * Updated polish translations
+  * Updated polish translations
+  * Updated polish translations
+  * Updated polish translations
+  * Add instructions to disable system qxt when building with Qt5.
+  * Initial Polish translation
+  * Create lximage-qt_it.ts
+  * Updated german translation
+  * Remove empty file
+  * Updated german translation
+  * Added german translation.
+  * Fix #130 - Remember width of side panel.
+  * Portuguese update
+  * Portuguese update
+  * Fix lxde/pcmanfm-qt#120 - Foucs "Rename" button when file name changed.
+  * Remove unnecessary '\n' charactor from the translated strings.
+  * Remove unnecessary '\n' charactor from the translated strings.
+  * Fix translations (the newly added string comes from the translation of libfm).
+  * Fix translations (the newly added string comes from the translation of libfm).
+  * Improve trash can handling: provide an option to delete the files if moving to trashcan fails.
+  * Improve trash can handling: provide an option to delete the files if moving to trashcan fails.
+  * Fix broken filenames of translation files.
+  * Fix broken filenames of translation files.
+  * Completely remove dependency on libqtxdg.
+  * Migrade to new Qt5 signal/slot syntax for better type safety and speed.
+  * Portuguese update
+  * Create lxqt-config-monitor_it_IT.ts
+  * Added german translation for file association dialogue
+  * Added german translation for input device settings.
+  * Create lxqt-config-file-associations_it.ts
+  * Update lxqt-config-appearance_it.ts
+  * Fix broken rememberWindowSize settings.
+  * Portuguese update
+  * fix networkmonitor_de_DE.desktop for the time being
+  * Fix some translation keys
+  * Update lxqt-config-appearance_it_IT.ts
+  * Update Russian translation
+  * Create lxqt-admin-user_it.ts
+  * Create lxqt-admin-time_it.ts
+  * Added german translation.
+  * Corrected language code (de_DE -> de) of german translation, marked translations as done.
+  * Added german translation for monitor settings.
+  * Avoid using Qt 5.4 API if compiled with older Qt versions. Fix #121.
+  * Open folders in new tabs by middle clicking on items in the side pane.
+  * Support reordering of tabs using drag and drop.
+  * Portuguese update
+  * Portuguese update
+  * Portuguese update
+  * Portuguese update
+  * Add Japanese translation
+  * Save the result of "Edit bookmarks" to gtk+3 bookmarks file instead of the deprecated ~/.gtkbookmarks file. This fixes bug #112 partially.
+  * File name was ok but language name wasn´t. My mistake.
+  * File name was ok but language name wasn´t. My mistake.
+  * Portuguese update
+  * Portuguese update
+  * Portuguese update
+  * Portuguese update
+  * Portuguese update
+  * Makes filename match translation language
+  * Makes translation filename  match language="pt_PT"
+  * Portuguese language update
+  * Portuguese update
+  * Enhance Portuguese translations
+  * Portuguese update with fixes
+  * Added german translation, re-generated all other .ts files.
+  * Update Japanese translation.
+  * Update Japanese translation
+  * Update Japanese translation
+  * Update Japanese translation
+  * Update Japanese translation
+  * Update Japanese translation
+  * Update Japanese translation
+  * Update Japanese translation
+  * Update Japanese translation
+  * Update Japanese translation
+  * Update Japanese translation
+  * Update Japanese translation
+  * Update Japanese translation
+  * Update Japanese translation
+  * Update Japanese translation
+  * Update Japanese translation
+  * Update Japanese translation
+  * Update Japanese translation
+  * Update Japanese translation
+  * Update Japanese translation
+  * Update all translations
+  * Update all translations
+  * Update all translations
+  * Update all translations
+  * Update all translations
+  * Portuguese language update
+  * Add Portuguese language
+  * Add Portuguese language to GUI
+  * Added german translation.
+  * Update spanish translation
+  * Add spanish translations
+  * Add spanish translations
+  * Update Japanese translation
+  * Portuguese language update
+  * Portuguese language update
+  * Portuguese language update
+  * Portuguese language update
+  * Portuguese language update
+  * Portuguese language update
+  * Portuguese language update
+  * Portuguese language update
+  * Portuguese language update
+  * Portuguese language update
+  * Portuguese language update
+  * Portuguese language update
+  * Portuguese language update
+  * Portuguese language update
+  * Portuguese language update
+  * Portuguese language update
+  * Portuguese language update
+  * Portuguese language update
+  * Added Japanese translation
+  * Update Japanese translation
+  * Update Japanese translation
+  * add Japanese translation
+  * Update Japanese translation.
+  * Add German translation
+  * Add German translation
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Updates translations sources
+  * Unify plugin files naming
+  * Unify plugin files naming
+  * Unify plugin files naming
+  * Unify plugin files naming
+  * Add Portuguese translation
+  * add Japanese translation
+  * add Japanese translation
+  * Portuguese language update
+  * Updates translations sources
+  * Portuguese update
+  * Portuguese update
+  * Portuguese update
+  * german translation
+  * - Reverse wrong placed translations.
+  * - Update brazilian portuguese desktop translation
+  * Update lxqt-config-cursor_ja.ts
+  * Handle command line arguments with QCommandLineParser instead of using glib. Requires Qt >= 5.2.
+  * Update Russian translation
+  * Updates translations sources
+  * Network Monitor plugin: fix faulty German translation
+  * Revert "Commit from LXDE Pootle server by user LStranger.: 391 of 391 strings translated (0 need review)."
+  * Revert "Commit from LXDE Pootle server by user LStranger.: 391 of 391 strings translated (0 need review)."
+  * Revert "Commit from LXDE Pootle server by user LStranger.: 391 of 391 strings translated (0 need review)."
+  * Revert "Commit from LXDE Pootle server by user LStranger.: 391 of 391 strings translated (0 need review)."
+  * Revert "Commit from LXDE Pootle server by user LStranger.: 391 of 391 strings translated (0 need review)."
+  * Revert "Commit from LXDE Pootle server by user LStranger.: 391 of 391 strings translated (0 need review)."
+  * Revert "Commit from LXDE Pootle server by user LStranger.: 391 of 391 strings translated (0 need review)."
+  * Revert "Commit from LXDE Pootle server by user LStranger.: 391 of 391 strings translated (0 need review)."
+  * Revert "Commit from LXDE Pootle server by user LStranger.: 391 of 391 strings translated (0 need review)."
+  * Revert "Commit from LXDE Pootle server by user LStranger.: 391 of 391 strings translated (0 need review)."
+  * Revert "Commit from LXDE Pootle server by user LStranger.: 391 of 391 strings translated (0 need review)."
+  * Revert "Commit from LXDE Pootle server by user LStranger.: 391 of 391 strings translated (0 need review)."
+  * Revert "Commit from LXDE Pootle server by user LStranger.: 391 of 391 strings translated (0 need review)."
+  * Commit from LXDE Pootle server by user vgezer.: 320 of 320 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user vgezer.: 320 of 320 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user vgezer.: 320 of 320 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user vgezer.: 320 of 320 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user vgezer.: 320 of 320 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user vgezer.: 320 of 320 strings translated (0 need review).
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Commit from LXDE Pootle server by user LStranger.: 391 of 391 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user LStranger.: 391 of 391 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user LStranger.: 391 of 391 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user LStranger.: 391 of 391 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user LStranger.: 391 of 391 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user LStranger.: 391 of 391 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user LStranger.: 391 of 391 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user LStranger.: 391 of 391 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user LStranger.: 391 of 391 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user LStranger.: 391 of 391 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user LStranger.: 391 of 391 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user LStranger.: 391 of 391 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user LStranger.: 391 of 391 strings translated (0 need review).
+  * Update Russian translation
+  * Commit from LXDE Pootle server by user flywheel.: 262 of 264 strings translated (2 need review).
+  * Commit from LXDE Pootle server by user flywheel.: 262 of 264 strings translated (2 need review).
+  * Commit from LXDE Pootle server by user flywheel.: 262 of 264 strings translated (2 need review).
+  * Commit from LXDE Pootle server by user flywheel.: 262 of 264 strings translated (2 need review).
+  * Commit from LXDE Pootle server by user flywheel.: 262 of 264 strings translated (2 need review).
+  * Commit from LXDE Pootle server by user flywheel.: 262 of 264 strings translated (2 need review).
+  * Commit from LXDE Pootle server by user flywheel.: 262 of 264 strings translated (2 need review).
+  * Commit from LXDE Pootle server by user flywheel.: 262 of 264 strings translated (2 need review).
+  * Commit from LXDE Pootle server by user flywheel.: 262 of 264 strings translated (2 need review).
+  * Commit from LXDE Pootle server by user DanWin.: 305 of 305 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user DanWin.: 305 of 305 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user DanWin.: 305 of 305 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user DanWin.: 294 of 305 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user DanWin.: 294 of 305 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user DanWin.: 294 of 305 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user DanWin.: 294 of 305 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user DanWin.: 294 of 305 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user DanWin.: 294 of 305 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user DanWin.: 294 of 305 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user DanWin.: 294 of 305 strings translated (0 need review).
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Renames .ts files that used _template in their name
+  * Update lxqt-runner_pl_PL.ts
+  * Updates translations
+  * Use the new LXQtTranslate modules
+  * Use the new LXQtTranslate modules.
+  * Renames translations sources template from .ts.src to .ts
+  * Uses the new translations cmake modules
+  * Uses the new translations cmake modules
+  * Moves translations from the local to the translations dir
+  * Moves translations from the local to the translations dir
+  * Moves translations from the local to the translations dir
+  * Moves translations from the local to the translations dir
+  * Moves translations from the local to the translations dir
+  * Moves translations from the local to the translations dir
+  * Moves translations from the local to the translations dir
+  * Moves translations from the local to the translations dir
+  * Moves translations from the local to the translations dir
+  * Moves translations from the local to the translations dir
+  * Moves and renames translations files around
+  * Renames the translations source files
+  * Renames the translations source files
+  * Renames the translations source files
+  * Renames the translations source files
+  * Renames the translations source files
+  * Renames the translations source files
+  * Renames the translations source files
+  * Renames the translations source files
+  * Renames the translations source files
+  * Renames the translations source files
+  * Renames the translations source files
+  * Renames the translations source files
+  * Renames the translations source files
+  * Renames the translations source files
+  * Renames the translations source files
+  * Uses the new translations cmake modules
+  * Add Russian translation
+  * Updates translations
+  * Update translation a little more
+  * Add Russian translation
+  * updates Translations
+  * Update translations
+  * Renames the translations files to their proper names
+  * Commit from LXDE Pootle server by user H.Humpel.: 124 of 305 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user H.Humpel.: 124 of 305 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user H.Humpel.: 124 of 305 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user H.Humpel.: 124 of 305 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user H.Humpel.: 124 of 305 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user H.Humpel.: 124 of 305 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user H.Humpel.: 124 of 305 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user H.Humpel.: 124 of 305 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user H.Humpel.: 124 of 305 strings translated (0 need review).
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Makes the UPDATE_TRANSLATIONS option actually work.
+  * Commit from LXDE Pootle server by user rago1975.: 65 of 65 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user JSonic.: 391 of 391 strings translated (0 need review).
+  * Fix typo Zoomo -> Zoom
+  * Add Russian translation
+  * Commit from LXDE Pootle server by user rago1975.: 10 of 10 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user rago1975.: 24 of 24 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user andika.: 611 of 611 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user rago1975.: 21 of 25 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user rago1975.: 57 of 57 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user rago1975.: 611 of 611 strings translated (0 need review).
+  * Moves lxqt_runner_sr_BA.ts to the translations dir.
+  * Commit from LXDE Pootle server by user rago1975.: 39 of 39 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user KlemenKosir.: 360 of 356 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user KlemenKosir.: 360 of 356 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user KlemenKosir.: 360 of 356 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user KlemenKosir.: 360 of 356 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user KlemenKosir.: 360 of 356 strings translated (0 need review).
+  * Add Russian translation
+  * Add Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Update Russian translation
+  * Add Russian translation
+  * Fixed translation (added tr() for some combo boxes in properties dialog).
+  * Add an INSTALL file
+  * Russian translation improvements.
+  * Updated translation.
+  * Updates translations
+  * Add Russian translation
+  * Update Russian translation
+  * Add Russian translation
+  * Update Russian translation
+  * Drop Qt4 support in code
+  * Drop support for very old xdg-utils
+  * Remove unused startrazor binary
+  * Use proper naming conventions for translations
+  * Commit from LXDE Pootle server by user H.Humpel.: 78 of 305 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user H.Humpel.: 78 of 305 strings translated (0 need review).
+  * New files added from LXDE Pootle server based on templates
+  * New files added from LXDE Pootle server based on templates
+  * Updates translations
+  * Commit from LXDE Pootle server by user Julius22.: 1007 of 1008 strings translated (2 need review).
+  * Commit from LXDE Pootle server by user Julius22.: 1007 of 1008 strings translated (2 need review).
+  * Commit from LXDE Pootle server by user Julius22.: 709 of 1008 strings translated (2 need review).
+  * Commit from LXDE Pootle server by user Julius22.: 709 of 1008 strings translated (2 need review).
+  * Commit from LXDE Pootle server by user mbouzada.: 1008 of 1008 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user mbouzada.: 891 of 1008 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user mbouzada.: 615 of 1008 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user mbouzada.: 364 of 364 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user mbouzada.: 364 of 364 strings translated (0 need review).
+  * New files added from LXDE Pootle server based on templates
+  * New files added from LXDE Pootle server based on templates
+  * Commit from LXDE Pootle server by user Pjotr.: 356 of 356 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user Pjotr.: 356 of 356 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user Pjotr.: 356 of 356 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user Pjotr.: 356 of 356 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user Pjotr.: 356 of 356 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user Pjotr.: 356 of 356 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user Pjotr.: 356 of 356 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user Pjotr.: 356 of 356 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user Pjotr.: 356 of 356 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user Pjotr.: 356 of 356 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user Pjotr.: 356 of 356 strings translated (0 need review).
+  * fixed translation (some spelling, some inconsistencies, some bad wording) used other applications to determine common practice for some of the terms
+  * Fix broken *.ts files and update to the latest strings.
+  * Replace LXDE-Qt with LXQt.
+  * Fix incorrect namespace in the *.ts files.
+  * Fix context names which uses C++ namespaces in all of the *.ts files.
+  * fix translation of termwidget context menu
+  * add german translation
+  * Update ts files.
+  * Add cs_CZ translation for libfm-qt.
+  * Add cs_CZ translation for libfm-qt.
+  * Commit from LXDE Pootle server by user dforsi.: 520 of 644 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user dforsi.: 364 of 364 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user dforsi.: 364 of 364 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user dforsi.: 358 of 364 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user dforsi.: 358 of 364 strings translated (0 need review).
+  * fixed #65 Typo in QTerminal Properties window
+  * Commit from LXDE Pootle server by user KlemenKosir.: 285 of 356 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user KlemenKosir.: 285 of 356 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user dforsi.: 57 of 57 strings translated (0 need review).
+  * Commit from LXDE Pootle server by user psokol.: 16 of 32 strings translated (0 need review).
+  * Change version number to 0.8 and update the info in the about dialog.
+  * Add initial translation support and an incomplete zh_TW locale to lxqt-config-monitor.
+  * Move lxqt-config-monitor into a subdirectory.
+  * queue relayout of desktop items when the desktop window is resized.
+  * Add cs_CZ translation for pcmanfm-qt.
+  * Fix broken Qt4 build.
+  * Fix bugs in multihead support and also add workaround for Qt5 bug #40681. * Handle switches between virtual desktop mode and non-virtual mode correctly. * Disable desktop wallpaper cache for non-primary screens.
+  * Correctly reposition desktop items when the icon size, font, or Qt style is changed.
+  * Slight improvement of the preference dialog for the newly added "remember window size" option.
+  * Hide UI elements that are not usable and disable trash can when gvfs is not available. * Add new API Fm::isUriSchemeSupported().
+  * Avoid showing the popup menu when moving desktop items.
+  * Use a new way to optimize the size of filename display based on current view mode and font size. This also fixes lxde/lxde-qt #198 - PCmanFM-qt incorrectly displays 256x256 Thumbnails.
+  * Replace the very broken QDesktopWidget with QScreen in Qt 5 when handling multihead support.
+  * Fully support single click activation and auto-selection with associated options added to the preference dialog.
+  * Initial commit
+  * Re-layout desktop icons properly on QEvent::StyleChange and QEvent::FontChange.
+  * Try to support multihead setup in virtual screen mode (used by XRandR).
+  * Handle QEvent::WinIdChange event and reset X11 window properties correctly.
+  * New files added from LXDE Pootle server based on templates
+  * New files added from LXDE Pootle server based on templates
+  * New files added from LXDE Pootle server based on templates
+  * New files added from LXDE Pootle server based on templates
+  * Support forced deletion of files which bypasses the trash can with "Shift+Delete" shortcut key. * Simplify shortcut setup code a little.
+  * Add proper keyboard shortcuts to the desktop window. This closes bug #67.
+  * Add an option to go to home directory when the currently shown folder is deleted or unmounted.
+  * Improve update of translations to avoid unnecessary regeneration of ts files.
+  * Improve handling of fallback icons. This closes bug #57.
+  * Improve handling of fallback icons. This closes bug #57.
+  * Fix the mark for current history item in the popup menu of forward and backward buttons.
+  * Translations are lost accidentally in a previous commit. Restore them all.
+  * Translations are lost accidentally in a previous commit. Restore them all.
+  * Rename lxqt-config-cursor to liblxqt-config-cursor since it's a library.
+  * estonian translation
+  * Add Spanish translation
+  * Update clock_pl_PL.ts
+  * Update lxqt-panel_pl_PL.ts
+  * Update liblxqt_pl_PL.ts
+  * Initial commit.
+  * Update Turkish tranlations
+  * Update the shipped xdg-tools
+  * Mention lxqt-config-cursor in AUTHORS
+  * Remove duplicate COPYING file
+  * String changes LxQt -> LXQt and LXDE-Qt -> LXQt without refactoring classes, namespaces and so on
+  * Commit from LXDE Pootle server by user knedlyk.: 72 of 108 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user knedlyk.: 54 of 108 strings translated (1 fuzzy).
+  * Commit from LXDE Pootle server by user strebski.: 108 of 108 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user yinghua_wang.: 70 of 70 strings translated (0 fuzzy).
+  * Update Russian translation
+  * Fix zh_TW translation for networkmonitor.
+  * Rename lxqt-config-mouse to lxqt-config-cursor to reflect what it does. Remove unnecessary desktop entry files and do some makefile cleanup.
+  * Total redesign of lxqt-config-input using LxQt::ConfigDialog and integrate lxqt-config-mouse.
+  * Fix icons in configure-powermanager
+  * Commit from LXDE Pootle server by user strebski.: 105 of 108 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user strebski.: 102 of 108 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user strebski.: 95 of 108 strings translated (1 fuzzy).
+  * Commit from LXDE Pootle server by user strebski.: 89 of 108 strings translated (1 fuzzy).
+  * Commit from LXDE Pootle server by user adrianoh2.: 70 of 70 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user zvacet.: 73 of 108 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user Fitoschido.: 70 of 70 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user hirkmt.: 108 of 108 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user hirkmt.: 70 of 70 strings translated (0 fuzzy).
+  * Remove xsettings support and add an option in the preference dialog to set a fallback icon theme instead.
+  * Remove xsettings support. Use a cleaner way to detect config changes by monitor StyleChange events. * Add Fm::IconTheme::changed() signal which is emitted when the icon theme name is changed. * Replace nested Fm::PlacesModel::Item and related classes with their own separate toplevel classes.
+  * New files added from LXDE Pootle server based on templates
+  * New files added from LXDE Pootle server based on templates
+  * New files added from LXDE Pootle server based on templates
+  * Rename razor(qt) to lxqt and fix broken build.
+  * Commit from LXDE Pootle server by user zvacet.: 65 of 70 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user zvacet.: 72 of 108 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user zvacet.: 50 of 70 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user wwycheuk.: 65 of 70 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user Fitoschido.: 107 of 108 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user strebski.: 83 of 108 strings translated (1 fuzzy).
+  * Commit from LXDE Pootle server by user Fitoschido.: 103 of 108 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user mbouzada.: 108 of 108 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user mbouzada.: 70 of 70 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user Fitoschido.: 98 of 108 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user zvacet.: 64 of 108 strings translated (0 fuzzy).
+  * New files added from LXDE Pootle server based on templates
+  * New files added from LXDE Pootle server based on templates
+  * New files added from LXDE Pootle server based on templates
+  * New files added from LXDE Pootle server based on templates
+  * Commit from LXDE Pootle server by user strebski.: 82 of 108 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user smarquespt.: 106 of 108 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user andika.: 108 of 108 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user andika.: 65 of 108 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user Fitoschido.: 87 of 108 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user Fitoschido.: 68 of 70 strings translated (0 fuzzy).
+  * New files added from LXDE Pootle server based on templates
+  * New files added from LXDE Pootle server based on templates
+  * Added Russian translation
+  * Commit from LXDE Pootle server by user smarquespt.: 56 of 108 strings translated (0 fuzzy).
+  * New files added from LXDE Pootle server based on templates
+  * New files added from LXDE Pootle server based on templates
+  * Commit from LXDE Pootle server by user smarquespt.: 70 of 70 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user brother.: 24 of 24 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user strebski.: 63 of 108 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user strebski.: 54 of 108 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user andika.: 70 of 70 strings translated (0 fuzzy).
+  * New files added from LXDE Pootle server based on templates
+  * New files added from LXDE Pootle server based on templates
+  * Commit from LXDE Pootle server by user strebski.: 70 of 70 strings translated (0 fuzzy).
+  * New files added from LXDE Pootle server based on templates
+  * New files added from LXDE Pootle server based on templates
+  * New files added from LXDE Pootle server based on templates
+  * New files added from LXDE Pootle server based on templates
+  * New files added from LXDE Pootle server based on templates
+  * New files added from LXDE Pootle server based on templates
+  * New files added from LXDE Pootle server based on templates
+  * New files added from LXDE Pootle server based on templates
+  * New files added from LXDE Pootle server based on templates
+  * New files added from LXDE Pootle server based on templates
+  * New files added from LXDE Pootle server based on templates
+  * New files added from LXDE Pootle server based on templates
+  * Commit from LXDE Pootle server by user brother.: 108 of 108 strings translated (0 fuzzy).
+  * Initial commit.
+  * Fix renaming bugs, replacing lxqt-qt with lxde-qt
+  * Fix renaming bugs, replacing lxqt-qt with lxde-qt
+  * Fix renaming bugs, replacing lxqt-qt with lxde-qt
+  * Finish the crazy razor=>lxqt renaming tasks.
+  * Finish the crazy razor=>lxqt renaming tasks.
+  * Finish the crazy razor=>lxqt renaming tasks.
+  * Finish the crazy razor=>lxqt renaming tasks.
+  * Finish the crazy razor=>lxqt renaming tasks.
+  * Finish the crazy razor=>lxqt renaming tasks.
+  * Finish the crazy razor=>lxqt renaming tasks.
+  * Finish the crazy razor=>lxqt renaming tasks.
+  * Finish the crazy razor=>lxqt renaming tasks.
+  * Finish the crazy razor=>lxqt renaming tasks.
+  * Finish the crazy razor=>lxqt renaming tasks.
+  * Finish the crazy razor=>lxqt renaming tasks.
+  * Finish the crazy razor=>lxqt renaming tasks.
+  * Finish the crazy razor=>lxqt renaming tasks.
+  * Finish the crazy razor=>lxqt renaming tasks.
+  * Finish the crazy razor=>lxqt renaming tasks.
+  * Finish the crazy razor=>lxqt renaming tasks.
+  * Finish the crazy razor=>lxqt renaming tasks.
+  * Finish the crazy razor=>lxqt renaming tasks.
+  * Finish the crazy razor=>lxqt renaming tasks.
+  * Finish the crazy razor=>lxqt renaming tasks.
+  * New files added from LXDE Pootle server based on templates
+  * Commit from LXDE Pootle server by user LStranger.: 70 of 70 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user brother.: 70 of 70 strings translated (0 fuzzy).
+  * Commit from LXDE Pootle server by user LStranger.: 2 of 70 strings translated (0 fuzzy).
+  * New files added from LXDE Pootle server based on templates
+  * New files added from LXDE Pootle server based on templates
+  * New files added from LXDE Pootle server based on templates
+  * Fix broken build and rename binaries to lxqt-config-*.
+  * Make use of the latest liblxqt & liblxqt-globalkeys. * Rename to lxqt-runnder.
+  * Fix broken build and rename binary to lxqt-globalshortcutsd.
+  * Descriptions for translators
+  * Buildable with liblxqt
+  * Simplify translations script
+  * All public files has lxqt prefix
+  * RazorAboutDlg => LxQt::AboutDialog
+  * Cleanup of old razor-autosuspend code
+  * Cmake find_package files
+  * Initial commit
+  * Add COPYING file for razor-config-mouse since it's GPL'd rather than using LGPL.
+  * Renames and cleanup in config
+  * Renames and cleanup in battery
+  * Fix signal/slot auto-connection problems. Add contents for README and AUTHORS.
+  * Remove unnecessary files.
+  * Implement theme configuration.
+  * Fix text labels. Replace _ with & for keyboard shortcuts.
+  * Fix move & resize page.
+  * Partially handle combobox.
+  * Little UI polishing.
+  * Partially implement config options.
+  * Add zh_TW translation and a template ts file.
+  * Detect icon theme name automatically using Xsettings or other desktop-specific way. * Rename "IconThemeName" key in the config file to "FallbackIconThemeName". * Hide the icon theme selection combo box if an icon theme name is detected automatically.
+  * Use new "automoc" feature of cmake 2.8.6 and remove cumbersome #include "*.moc" code.
+  * Use new "automoc" feature of cmake 2.8.6 and remove cumbersome #include "*.moc" code.
+  * Fix work area problems of desktop window.
+  * trivial shortcuts in a terminal-menu are a no-go because they ineterfere with several usual ncurses programs like nano, or weechat, even bash is interfered.
+  * Add Xdg::DesktopSettings for detecting desktop-specific settings. Get icon theme name via XSettings or config files when available.
+  * Initial import into git
+  * Add some keyboard shortcuts to the main window
+  * Initial import into git repo.
+  * Fix some memory leaks.
+  * Fix some memory leaks.
+  * TODO file removed (github issues to be used)
+  * Todo list updated
+  * Todo list updated
+  * Todo list updated
+  * Todo list updated
+  * Todo list updated
+  * Todo updated
+  * Todo file added
+  * Fix some compiler errors and update translations.
+  * Fix some compiler errors and update translations.
+  * fix "shorcut" typo
+  * fix "shorcut" typo
+  * added italian translations
+  * Fix crashes caused by incorrect deletion of dialog objects.
+  * Fix crashes caused by incorrect deletion of dialog objects.
+  * Enable thumbnail related settings.
+  * Update zh_TW translations and translation templates.
+  * Update zh_TW translations and translation templates.
+  * Add Portuguese translation (pt).
+  * Add Portuguese translation (pt).
+  * Add Lithuanian translation (lt_LT).
+  * Add Lithuanian translation (lt_LT).
+  * Adopt the latest thumbnail API in libfm (thumbnail branch) to speed up loading.
+  * Adopt the latest thumbnail API in libfm (thumbnail branch) to speed up loading.
+  * Add basic thumbnail support (need the latest thumbnail branch of libfm).
+  * Add basic thumbnail support (need the latest thumbnail branch of libfm).
+  * Add archiver integration to file context menus.
+  * Add archiver integration to file context menus.
+  * Add mnemonics for menu items. Make confirm dialog before delete and trash can optional.
+  * Add mnemonics for menu items. Make confirm dialog before delete and trash can optional.
+  * Update side pane according to current dir. Little fix.
+  * Update side pane according to current dir. Little fix.
+  * Implement "Open in Terminal" and "Open as Root".
+  * Implement "Open in Terminal" and "Open as Root".
+  * Enable auto-run related options in preferences dialog.
+  * Implement "Auto Run" for newly inserted removable devices.
+  * Implement "Auto Run" for newly inserted removable devices.
+  * Add "Edit Bookmarks" dialog.
+  * Add "Edit Bookmarks" dialog.
+  * Implement "Invert Selection". Little fix of UI, add a Tool menu to main window.
+  * Implement "Invert Selection". Little fix of UI, add a Tool menu to main window.
+  * Implement "Create New" menu in the folder popup menu.
+  * Implement "Create New" menu in the folder popup menu.
+  * Modify make rules for translations. Avoid deleting generated ts files when "make clean". Fix a small error in zh_TW translation.
+  * Rename Fm::Application to Fm::LibFmQt to decrease confusion. Set required Qt version to 4.6.
+  * Rename Fm::Application to Fm::LibFmQt to decrease confusion. Set required Qt version to 4.6.
+  * Add basic skeleton for i18n (using Qt QTranslator & Qt Linguist).
+  * Add basic skeleton for i18n (using Qt QTranslator & Qt Linguist).
+  * Replace QCommandLine with glib GOptionContext for command line parsing. * Improve IPC.
+  * Try to use QCommandLine for command line parsing.
+  * Move files for libfm-qt and pcmanfm-qt to separate subdirs.
+  * Reorganize menus (mostly fixes issue 8)
+  * Trtanslations
+  * Trtanslations
+  * Trtanslations
+  * Trtanslations
+  * Trtanslations
+  * New, dynamically generated battery icon for razor-autosuspend
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations
+  * Translations
+  * Translations
+  * Translations
+  * Delete bad en_GB translations
+  * Delete bad en_GB translations
+  * Delete bad en_GB translations
+  * Delete bad en_GB translations
+  * Delete bad en_GB translations
+  * Delete bad en_GB translations
+  * Delete bad en_GB translations
+  * Delete bad en_GB translations
+  * Delete bad en_GB translations
+  * Delete bad en_GB translations
+  * Delete bad en_GB translations
+  * Delete bad en_GB translations
+  * Delete bad en_GB translations
+  * Delete bad en_GB translations
+  * Delete bad en_GB translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Update translations
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Removed line num from TS files.
+  * Removed line num from TS files.
+  * Removed line num from TS files.
+  * Removed line num from TS files.
+  * Removed line num from TS files.
+  * Removed line num from TS files.
+  * Removed line num from TS files.
+  * Removed line num from TS files.
+  * Removed line num from TS files.
+  * Removed line num from TS files.
+  * Removed line num from TS files.
+  * Removed line num from TS files.
+  * Removed line num from TS files.
+  * Translations
+  * Translations
+  * Translations
+  * Translations
+  * Translations
+  * Translations
+  * Translations
+  * Translations
+  * Translations
+  * Translations
+  * Translations
+  * Translations
+  * Translations
+  * Translations
+  * Translations
+  * Translations
+  * Translations
+  * Translations for librazorqt
+  * Translations for librazorqt
+  * New translation infrastructure
+  * razor-session and razor-config-session now have a separate CMakeLists files.
+  * Updated .ts.src files
+  * Updated .ts.src files
+  * Translation for razor-config-sesion
+  * Translation for razor-sesion 2
+  * Translation for razor-sesion
+  * Initial import, an attempt to create qt4 support for libfm.
+  * New translations for razor-panel plugins
+  * New translations for razor-panel plugins
+  * New translations for razor-panel plugins
+  * New translations for razor-panel plugins
+  * New translations for razor-panel plugins
+  * New translations for razor-panel plugins
+  * New translations for razor-panel plugins
+  * New translations for razor-panel plugins
+  * New translations for razor-panel plugins
+  * New translations for razor-panel plugins
+  * New translations for razor-panel plugins
+  * New translations for razor-panel plugins
+  * New translations for razor-panel
+  * Updated ts.src files
+  * Updated ts.src files
+  * Updated ts.src files
+  * Updated ts.src files
+  * Updated ts.src files
+  * Added config app for razor-autosuspend
+  * Moved razor-autosuspend sourcefiles to src-dir
+  * Moved razor-autosuspend to toplevel as it is not really a part of razorqt-power
+  * global keyobard shortcuts: initial import from Aaron's repo. Astyle-d. License added where required. Renamed to be more descriptive.
+  * extended "razor-about" implementation. Resolves #253
+  * new module "ssh-askpass helper"
+  * new notification solution (initial import)
+  * Ts.src files updated.
+  * Ts.src files updated.
+  * Ts.src files updated.
+  * Ts.src files updated.
+  * Ts.src files updated.
+  * Language name zh_CN.GB2312 braked cmake process.
+  * Language name zh_CN.GB2312 braked cmake process.
+  * Language name zh_CN.GB2312 braked cmake process.
+  * Language name zh_CN.GB2312 braked cmake process.
+  * Language name zh_CN.GB2312 braked cmake process.
+  * Language name zh_CN.GB2312 braked cmake process.
+  * Language name zh_CN.GB2312 braked cmake process.
+  * Language name zh_CN.GB2312 braked cmake process.
+  * Language name zh_CN.GB2312 braked cmake process.
+  * Language name zh_CN.GB2312 braked cmake process.
+  * Language name zh_CN.GB2312 braked cmake process.
+  * Language name zh_CN.GB2312 braked cmake process.
+  * Language name zh_CN.GB2312 braked cmake process.
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Translations updated
+  * Transifex desktop: sr_BA.ts should be a local
+  * Transifex desktop: sr_BA.ts should be a local
+  * Transifex desktop: sr_BA.ts should be a local
+  * Transifex desktop: sr_BA.ts should be a local
+  * Transifex desktop: sr_BA.ts should be a local
+  * Transifex desktop: sr_BA.ts should be a local
+  * Transifex desktop: sr_BA.ts should be a local
+  * Transifex desktop: sr_BA.ts should be a local
+  * Transifex desktop: sr_BA.ts should be a local
+  * Transifex desktop: sr_BA.ts should be a local
+  * Transifex desktop: sr_BA.ts should be a local
+  * Transifex desktop: sr_BA.ts should be a local
+  * Transifex desktop: sr_BA.ts should be a local
+  * Transifex desktop: local translations
+  * Transifex desktop: local translations
+  * Transifex desktop: local translations
+  * Transifex desktop: local translations
+  * Transifex desktop: local translations
+  * Transifex desktop: local translations
+  * Transifex desktop: local translations
+  * Transifex desktop: local translations
+  * Transifex desktop: local translations
+  * Transifex desktop: local translations
+  * Transifex desktop: local translations
+  * Transifex desktop: local translations
+  * Transifex desktop: local translations
+  * Transifex desktop: local translations
+  * Transifex desktop: cmake files
+  * Transifex desktop: Translations pulled
+  * Transifex desktop: Translations pulled
+  * Transifex desktop: Translations pulled
+  * Transifex desktop: Translations pulled
+  * Transifex desktop: Translations pulled
+  * Transifex desktop: Translations pulled
+  * Transifex desktop: Translations pulled
+  * Transifex desktop: Translations pulled
+  * Transifex desktop: Translations pulled
+  * Transifex desktop: Translations pulled
+  * Transifex desktop: Translations pulled
+  * Transifex desktop: Translations pulled
+  * Transifex desktop: Translations pulled
+  * Transifex desktop: Translations pulled
+  * Update Tradidtional Chinese Translations
+  * Update Tradidtional Chinese Translations
+  * Update Tradidtional Chinese Translations
+  * Update Tradidtional Chinese Translations
+  *  Committer:stuarch 	modified:   razorqt-desktop/config/razor-config-desktop.desktop 	modified:   razorqt-desktop/desktop-razor/plugin-analogclock/resources/analogclock.desktop 	new file:   razorqt-desktop/desktop-razor/plugin-analogclock/translations/analogclock_zh_TW.ts 	modified:   razorqt-desktop/desktop-razor/plugin-helloworld/resources/helloworld.desktop 	modified:   razorqt-desktop/desktop-razor/plugin-iconview/resources/iconview.desktop 	modified:   razorqt-desktop/desktop-razor/plugin-notepad/resources/notepad.desktop 	new file:   razorqt-panel/panel/translations/razor-panel_zh_TW.ts 	modified:   razorqt-panel/plugin-clock/resources/clock.desktop 	new file:   razorqt-panel/plugin-clock/translations/clock_zh_TW.ts 	modified:   razorqt-panel/plugin-desktopswitch/resources/desktopswitch.desktop 	new file:   razorqt-panel/plugin-desktopswitch/translations/desktopswitch_zh_TW.ts 	modified:   razorqt-panel/plugin-helloworld/resources/panelhelloworld.desktop 	modified:   razorqt-panel/plugin-mainmenu/resources/mainmenu.desktop 	new file:   razorqt-panel/plugin-mainmenu/translations/mainmenu_zh_TW.ts 	modified:   razorqt-panel/plugin-mount/resources/mount.desktop 	new file:   razorqt-panel/plugin-mount/translations/mount_zh_TW.ts 	modified:   razorqt-panel/plugin-quicklaunch/resources/quicklaunch.desktop 	new file:   razorqt-panel/plugin-quicklaunch/translations/quicklaunch_zh_TW.ts 	new file:   razorqt-panel/plugin-screensaver/translations/screensaver_zh_TW.ts
+  *  Committer:stuarch 	modified:   razorqt-desktop/config/razor-config-desktop.desktop 	modified:   razorqt-desktop/desktop-razor/plugin-analogclock/resources/analogclock.desktop 	new file:   razorqt-desktop/desktop-razor/plugin-analogclock/translations/analogclock_zh_TW.ts 	modified:   razorqt-desktop/desktop-razor/plugin-helloworld/resources/helloworld.desktop 	modified:   razorqt-desktop/desktop-razor/plugin-iconview/resources/iconview.desktop 	modified:   razorqt-desktop/desktop-razor/plugin-notepad/resources/notepad.desktop 	new file:   razorqt-panel/panel/translations/razor-panel_zh_TW.ts 	modified:   razorqt-panel/plugin-clock/resources/clock.desktop 	new file:   razorqt-panel/plugin-clock/translations/clock_zh_TW.ts 	modified:   razorqt-panel/plugin-desktopswitch/resources/desktopswitch.desktop 	new file:   razorqt-panel/plugin-desktopswitch/translations/desktopswitch_zh_TW.ts 	modified:   razorqt-panel/plugin-helloworld/resources/panelhelloworld.desktop 	modified:   razorqt-panel/plugin-mainmenu/resources/mainmenu.desktop 	new file:   razorqt-panel/plugin-mainmenu/translations/mainmenu_zh_TW.ts 	modified:   razorqt-panel/plugin-mount/resources/mount.desktop 	new file:   razorqt-panel/plugin-mount/translations/mount_zh_TW.ts 	modified:   razorqt-panel/plugin-quicklaunch/resources/quicklaunch.desktop 	new file:   razorqt-panel/plugin-quicklaunch/translations/quicklaunch_zh_TW.ts 	new file:   razorqt-panel/plugin-screensaver/translations/screensaver_zh_TW.ts
+  *  Committer:stuarch 	modified:   razorqt-desktop/config/razor-config-desktop.desktop 	modified:   razorqt-desktop/desktop-razor/plugin-analogclock/resources/analogclock.desktop 	new file:   razorqt-desktop/desktop-razor/plugin-analogclock/translations/analogclock_zh_TW.ts 	modified:   razorqt-desktop/desktop-razor/plugin-helloworld/resources/helloworld.desktop 	modified:   razorqt-desktop/desktop-razor/plugin-iconview/resources/iconview.desktop 	modified:   razorqt-desktop/desktop-razor/plugin-notepad/resources/notepad.desktop 	new file:   razorqt-panel/panel/translations/razor-panel_zh_TW.ts 	modified:   razorqt-panel/plugin-clock/resources/clock.desktop 	new file:   razorqt-panel/plugin-clock/translations/clock_zh_TW.ts 	modified:   razorqt-panel/plugin-desktopswitch/resources/desktopswitch.desktop 	new file:   razorqt-panel/plugin-desktopswitch/translations/desktopswitch_zh_TW.ts 	modified:   razorqt-panel/plugin-helloworld/resources/panelhelloworld.desktop 	modified:   razorqt-panel/plugin-mainmenu/resources/mainmenu.desktop 	new file:   razorqt-panel/plugin-mainmenu/translations/mainmenu_zh_TW.ts 	modified:   razorqt-panel/plugin-mount/resources/mount.desktop 	new file:   razorqt-panel/plugin-mount/translations/mount_zh_TW.ts 	modified:   razorqt-panel/plugin-quicklaunch/resources/quicklaunch.desktop 	new file:   razorqt-panel/plugin-quicklaunch/translations/quicklaunch_zh_TW.ts 	new file:   razorqt-panel/plugin-screensaver/translations/screensaver_zh_TW.ts
+  *  Committer:stuarch 	modified:   razorqt-desktop/config/razor-config-desktop.desktop 	modified:   razorqt-desktop/desktop-razor/plugin-analogclock/resources/analogclock.desktop 	new file:   razorqt-desktop/desktop-razor/plugin-analogclock/translations/analogclock_zh_TW.ts 	modified:   razorqt-desktop/desktop-razor/plugin-helloworld/resources/helloworld.desktop 	modified:   razorqt-desktop/desktop-razor/plugin-iconview/resources/iconview.desktop 	modified:   razorqt-desktop/desktop-razor/plugin-notepad/resources/notepad.desktop 	new file:   razorqt-panel/panel/translations/razor-panel_zh_TW.ts 	modified:   razorqt-panel/plugin-clock/resources/clock.desktop 	new file:   razorqt-panel/plugin-clock/translations/clock_zh_TW.ts 	modified:   razorqt-panel/plugin-desktopswitch/resources/desktopswitch.desktop 	new file:   razorqt-panel/plugin-desktopswitch/translations/desktopswitch_zh_TW.ts 	modified:   razorqt-panel/plugin-helloworld/resources/panelhelloworld.desktop 	modified:   razorqt-panel/plugin-mainmenu/resources/mainmenu.desktop 	new file:   razorqt-panel/plugin-mainmenu/translations/mainmenu_zh_TW.ts 	modified:   razorqt-panel/plugin-mount/resources/mount.desktop 	new file:   razorqt-panel/plugin-mount/translations/mount_zh_TW.ts 	modified:   razorqt-panel/plugin-quicklaunch/resources/quicklaunch.desktop 	new file:   razorqt-panel/plugin-quicklaunch/translations/quicklaunch_zh_TW.ts 	new file:   razorqt-panel/plugin-screensaver/translations/screensaver_zh_TW.ts
+  *  Committer:stuarch 	modified:   razorqt-desktop/config/razor-config-desktop.desktop 	modified:   razorqt-desktop/desktop-razor/plugin-analogclock/resources/analogclock.desktop 	new file:   razorqt-desktop/desktop-razor/plugin-analogclock/translations/analogclock_zh_TW.ts 	modified:   razorqt-desktop/desktop-razor/plugin-helloworld/resources/helloworld.desktop 	modified:   razorqt-desktop/desktop-razor/plugin-iconview/resources/iconview.desktop 	modified:   razorqt-desktop/desktop-razor/plugin-notepad/resources/notepad.desktop 	new file:   razorqt-panel/panel/translations/razor-panel_zh_TW.ts 	modified:   razorqt-panel/plugin-clock/resources/clock.desktop 	new file:   razorqt-panel/plugin-clock/translations/clock_zh_TW.ts 	modified:   razorqt-panel/plugin-desktopswitch/resources/desktopswitch.desktop 	new file:   razorqt-panel/plugin-desktopswitch/translations/desktopswitch_zh_TW.ts 	modified:   razorqt-panel/plugin-helloworld/resources/panelhelloworld.desktop 	modified:   razorqt-panel/plugin-mainmenu/resources/mainmenu.desktop 	new file:   razorqt-panel/plugin-mainmenu/translations/mainmenu_zh_TW.ts 	modified:   razorqt-panel/plugin-mount/resources/mount.desktop 	new file:   razorqt-panel/plugin-mount/translations/mount_zh_TW.ts 	modified:   razorqt-panel/plugin-quicklaunch/resources/quicklaunch.desktop 	new file:   razorqt-panel/plugin-quicklaunch/translations/quicklaunch_zh_TW.ts 	new file:   razorqt-panel/plugin-screensaver/translations/screensaver_zh_TW.ts
+  *  Committer:stuarch 	modified:   razorqt-desktop/config/razor-config-desktop.desktop 	modified:   razorqt-desktop/desktop-razor/plugin-analogclock/resources/analogclock.desktop 	new file:   razorqt-desktop/desktop-razor/plugin-analogclock/translations/analogclock_zh_TW.ts 	modified:   razorqt-desktop/desktop-razor/plugin-helloworld/resources/helloworld.desktop 	modified:   razorqt-desktop/desktop-razor/plugin-iconview/resources/iconview.desktop 	modified:   razorqt-desktop/desktop-razor/plugin-notepad/resources/notepad.desktop 	new file:   razorqt-panel/panel/translations/razor-panel_zh_TW.ts 	modified:   razorqt-panel/plugin-clock/resources/clock.desktop 	new file:   razorqt-panel/plugin-clock/translations/clock_zh_TW.ts 	modified:   razorqt-panel/plugin-desktopswitch/resources/desktopswitch.desktop 	new file:   razorqt-panel/plugin-desktopswitch/translations/desktopswitch_zh_TW.ts 	modified:   razorqt-panel/plugin-helloworld/resources/panelhelloworld.desktop 	modified:   razorqt-panel/plugin-mainmenu/resources/mainmenu.desktop 	new file:   razorqt-panel/plugin-mainmenu/translations/mainmenu_zh_TW.ts 	modified:   razorqt-panel/plugin-mount/resources/mount.desktop 	new file:   razorqt-panel/plugin-mount/translations/mount_zh_TW.ts 	modified:   razorqt-panel/plugin-quicklaunch/resources/quicklaunch.desktop 	new file:   razorqt-panel/plugin-quicklaunch/translations/quicklaunch_zh_TW.ts 	new file:   razorqt-panel/plugin-screensaver/translations/screensaver_zh_TW.ts
+  *  Committer:stuarch 	modified:   razorqt-desktop/config/razor-config-desktop.desktop 	modified:   razorqt-desktop/desktop-razor/plugin-analogclock/resources/analogclock.desktop 	new file:   razorqt-desktop/desktop-razor/plugin-analogclock/translations/analogclock_zh_TW.ts 	modified:   razorqt-desktop/desktop-razor/plugin-helloworld/resources/helloworld.desktop 	modified:   razorqt-desktop/desktop-razor/plugin-iconview/resources/iconview.desktop 	modified:   razorqt-desktop/desktop-razor/plugin-notepad/resources/notepad.desktop 	new file:   razorqt-panel/panel/translations/razor-panel_zh_TW.ts 	modified:   razorqt-panel/plugin-clock/resources/clock.desktop 	new file:   razorqt-panel/plugin-clock/translations/clock_zh_TW.ts 	modified:   razorqt-panel/plugin-desktopswitch/resources/desktopswitch.desktop 	new file:   razorqt-panel/plugin-desktopswitch/translations/desktopswitch_zh_TW.ts 	modified:   razorqt-panel/plugin-helloworld/resources/panelhelloworld.desktop 	modified:   razorqt-panel/plugin-mainmenu/resources/mainmenu.desktop 	new file:   razorqt-panel/plugin-mainmenu/translations/mainmenu_zh_TW.ts 	modified:   razorqt-panel/plugin-mount/resources/mount.desktop 	new file:   razorqt-panel/plugin-mount/translations/mount_zh_TW.ts 	modified:   razorqt-panel/plugin-quicklaunch/resources/quicklaunch.desktop 	new file:   razorqt-panel/plugin-quicklaunch/translations/quicklaunch_zh_TW.ts 	new file:   razorqt-panel/plugin-screensaver/translations/screensaver_zh_TW.ts
+  * Add Traditional Chinese Translations
+  * Add Traditional Chinese Translations
+  * Translations update
+  * Translations update
+  * Translations update
+  * Translations update
+  * Translations update
+  * Translations update
+  * Translations update
+  * Translations update
+  * Translations update
+  * Translations update
+  * Translations update
+  * Translations update
+  * Translations update
+  * Added support for the online translation service. www.transifex.net
+  * Added support for the online translation service. www.transifex.net
+  * Added support for the online translation service. www.transifex.net
+  * Added support for the online translation service. www.transifex.net
+  * Added support for the online translation service. www.transifex.net
+  * Added support for the online translation service. www.transifex.net
+  * Added support for the online translation service. www.transifex.net
+  * Added support for the online translation service. www.transifex.net
+  * Added support for the online translation service. www.transifex.net
+  * Added support for the online translation service. www.transifex.net
+  * Update razorqt-session/translations/razor-session_it_IT.ts
+  * Update razorqt-panel/panel/translations/razor-panel_it_IT.ts
+  * Serbian translation files
+  * Serbian translation files
+  * Serbian translation files
+  * Serbian translation files
+  * Serbian translation files
+  * Serbian translation files
+  * Serbian translation files
+  * Serbian translation files
+  * Serbian translation files
+  * Serbian translation files
+  * Serbian translation files
+  * Serbian translation files
+  * Serbian translation files
+  * Serbian translation files
+  * Greek translation by iosifidis
+  * Greek translation by iosifidis
+  * Greek translation by iosifidis
+  * Greek translation by iosifidis
+  * Greek translation by iosifidis
+  * Greek translation by iosifidis
+  * Greek translation by iosifidis
+  * Greek translation by iosifidis
+  * Greek translation by iosifidis
+  * Greek translation by iosifidis
+  * Greek translation by iosifidis
+  * Greek translation by iosifidis
+  * Greek translation by iosifidis
+  * Greek translation by iosifidis
+  * Added danish translations
+  * Added danish translations
+  * Added danish translations
+  * Added danish translations
+  * Added danish translations
+  * Added danish translations
+  * Added danish translations
+  * Added danish translations
+  * Added danish translations
+  * Added danish translations
+  * Added danish translations
+  * Added danish translations
+  * Added danish translations
+  * Added danish translations
+  * Make xdg scripts use bash
+  * Russian translation
+  * Russian translation
+  * Russian translation
+  * Russian translation
+  * Russian translation
+  * Russian translation
+  * Russian translation
+  * Russian translation
+  * Russian translation
+  * Russian translation
+  * Russian translation
+  * Russian translation
+  * Russian translation
+  * Panel plugins not found .ts files
+  * Panel plugins not found .ts files
+  * Panel plugins not found .ts files
+  * Panel plugins not found .ts files
+  * Panel plugins not found .ts files
+  * Panel plugins not found .ts files
+  * Panel plugins not found .ts files
+  * Panel plugins not found .ts files
+  * RAZOR -> X-RAZOR
+  * Fix a typo
+  * fix #169: italian translation
+  * fix #169: italian translation
+  * fix #169: italian translation
+  * fix #169: italian translation
+  * fix #169: italian translation
+  * fix #169: italian translation
+  * fix #169: italian translation
+  * fix #169: italian translation
+  * fix #169: italian translation
+  * fix #169: italian translation
+  * fix #169: italian translation
+  * fix #169: italian translation
+  * fix #169: italian translation
+  * "make lupdate" implemented; do ot delete ts files on "make clean"; fix translator loading
+  * allow translations
+  * initial revision of the policykit integration (non-functional)
+  * menus are adopted to the new backends; old code removed; check for running razor-session to allow/disallow "logout" item
+  * Czech translations (cs_CZ)
+  * Update german [de] translation
+  * SVK translation finalized
+  * SVK translation finalized
+  * SVK translation finalized
+  * Initial german [de] translation
+  * SVK translation finalized
+  * More translation to german
+  * SVK translation finalized
+  * Initial german release, only a tiny part
+  * SVK translation finalized
+  * More translation to german
+  * SVK translation finalized
+  * More translation to german
+  * SVK translation finalized
+  * More translation to german
+  * SVK translation finalized
+  * more work done
+  * SVK translation finalized
+  * More translation to german
+  * SVK translation finalized
+  * More translation to german
+  * SVK translation finalized
+  * More translation to german
+  * SVK translation finalized
+  * SVK translation finalized
+  * Initial german [de] translation
+  * Close Issue #120
+  * Add Chinese(simplified) translation files.
+  * Add Chinese(simplified) translation files.
+  * Add Chinese(simplified) translation files.
+  * Add Chinese(simplified) translation files.
+  * Add Chinese(simplified) translation files.
+  * Add Chinese(simplified) translation files.
+  * Add Chinese(simplified) translation files.
+  * Add Chinese(simplified) translation files.
+  * Add Chinese(simplified) translation files.
+  * Add Chinese(simplified) translation files.
+  * Add Chinese(simplified) translation files.
+  * Add Chinese(simplified) translation files.
+  * Add Chinese(simplified) translation files.
+  * Apply previous typo fix to newly-added translations
+  * HU translation by Kristóf Kiszel
+  * HU translation by Kristóf Kiszel
+  * HU translation by Kristóf Kiszel
+  * HU translation by Kristóf Kiszel
+  * HU translation by Kristóf Kiszel
+  * HU translation by Kristóf Kiszel
+  * HU translation by Kristóf Kiszel
+  * HU translation by Kristóf Kiszel
+  * HU translation by Kristóf Kiszel
+  * HU translation by Kristóf Kiszel
+  * HU translation by Kristóf Kiszel
+  * Fix another typo
+  * Fix typo
+  * Initial spanish translation
+  * Initial spanish translation
+  * Initial spanish translation
+  * Initial spanish translation
+  * Initial spanish translation
+  * Initial spanish translation
+  * Add Slovak (sk) translation
+  * Add Slovak (sk) translation
+  * Add Slovak (sk) translation
+  * Add Slovak (sk) translation
+  * Add Slovak (sk) translation
+  * Add Slovak (sk) translation
+  * Add Slovak (sk) translation
+  * Add Slovak (sk) translation
+  * Add Slovak (sk) translation
+  * Add Slovak (sk) translation
+  * Add Slovak (sk) translation
+  * Add Slovak (sk) translation
+  * Add Slovak (sk) translation
+  * Add Slovak (sk) translation
+  * initial. added ability to change panel height
+  * Typo in russian translation
+  * Czech translations (cs_CZ)
+  * Czech translations (cs_CZ)
+  * Czech translations (cs_CZ)
+  * Czech translations (cs_CZ)
+  * Czech translations (cs_CZ)
+  * Czech translations (cs_CZ)
+  * Czech translations (cs_CZ)
+  * Czech translations (cs_CZ)
+  * Czech translations (cs_CZ)
+  * Czech translations (cs_CZ)
+  * Czech translations (cs_CZ)
+  * Czech translations (cs_CZ)
+  * huge refactoring of the libraries build organization
+  * Fix russian translation
+  * Fix russian translation
+  * Razor-config: New razor-config-appearance
+  * Razor-session: Added startrazor script
+  * Plugins translations
+  * Russian translation for razorqt-session
+  * Translation for session
+  * Polish translation part X
+  * Russian translations.
+  * Russian translations.
+  * Russian translations.
+  * Russian translations.
+  * Russian translations.
+  * Fixes in polish translation
+  * Polish translation. Closes #46
+  * Polish translation. Closes #46
+  * Polish translation. Closes #46
+  * Polish translation. Closes #46
+  * Polish translation. Closes #46
+  * Polish translation. Closes #46
+  * Translation for mount plugin
+  * Configure dialog for mount plugin
+  * razor-config-mousetheme -> razor-config-mouse rename
+  * mouse theme configurator
+  * initial revision of "config tool". Very simple but functional.
+  * Translation
+  * new panel plugin: "show desktop"
+  * Polish translation
+  * Polish translation
+  * Polish translation
+  * Polish translation
+  * Polish translation
+  * Panel plugins: clock, mainmenu and taskbar translate.h fix.
+  * Panel plugins: clock, mainmenu and taskbar translate.h fix.
+  * Panel plugins: clock, mainmenu and taskbar translate.h fix.
+  * Razor-runner program
+  * initial support for screensaver/screen locking
+  * initial support for screensaver/screen locking
+  * sync with experimental "bundle" repository
+  * Plugin config dialogs infrastructure. Instead, RazorPanelPlugin::preferredAlignment() introduced RazorPanelPlugin::flags method.
+  * Plugin config dialogs infrastructure. Instead, RazorPanelPlugin::preferredAlignment() introduced RazorPanelPlugin::flags method.
+  * set default razor icon for all apps
+  * our own (temporary) xdg scripts to handle mime/files directly
+  * removed obsolete/generated files
+  * New /usr/share & ~/razor directory structure.
+  * Added: Add plugin dialog.
+  * Translations.
+  * Translations.
+  * In the thene you can specify the tray icon size.
+  * RazorPanel2 now is main panel.
+  * RazorPanel2 now is main panel.
+  * RazorPanel2 now is main panel.
+  * RazorPanel2 now is main panel.
+  * RazorPanel2 now is main panel.
+  * RazorPanel2 now is main panel.
+  * forgotten paths
+  * 
+  * 
+  * 
+  * macosx port; cmake support
+  * initial import
