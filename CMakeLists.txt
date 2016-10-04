@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.0.2 FATAL_ERROR)
 project(translations)
 
 find_package(lxqt REQUIRED)
-include(LXQtTranslate)
+include(LXQtTranslateTs)
 include(GNUInstallDirs)
 
 option(WITH_COMPTON_CONF "Build compton-conf translations" ON)
