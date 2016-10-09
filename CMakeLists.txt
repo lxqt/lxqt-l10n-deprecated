@@ -1,10 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2 FATAL_ERROR)
-
 project(translations)
-
-find_package(lxqt REQUIRED)
-include(LXQtTranslateTs)
-include(GNUInstallDirs)
 
 option(WITH_COMPTON_CONF "Build compton-conf translations" ON)
 option(WITH_LIBFM_QT "Build libfm-qt translations" ON)
@@ -26,6 +21,17 @@ option(WITH_OBCONF_QT "Build obconf-qt translations" ON)
 option(WITH_PAVUCONTROL_QT "Build pavucontrol-qt translations" ON)
 option(WITH_PCMANFM_QT "Build pcmanfm-qt translations" ON)
 option(WITH_QTERMINAL "Build qterminal translations" ON)
+
+set(LXQTBT_MINIMUM_VERSION "0.1.0")
+
+find_package(lxqt REQUIRED)
+find_package(lxqt-build-tools ${LXQTBT_MINIMUM_VERSION} REQUIRED)
+include(LXQtTranslateTs)
+include(GNUInstallDirs)
+
+if(NOT CMAKE_BUILD_TYPE)
+    set(CMAKE_BUILD_TYPE Release)
+endif()
 
 macro(add_component VAR_OPTION VAR_SUBDIR)
     if (${VAR_OPTION})
