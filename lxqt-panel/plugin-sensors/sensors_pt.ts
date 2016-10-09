@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="pt">
+<TS version="2.0" language="pt_PT">
 <context>
     <name>LXQtSensorsConfiguration</name>
     <message>
         <source>LXQt Sensors Settings</source>
-        <translation type="vanished">Definições dos sensores do LXQt</translation>
+        <translation>Definições dos sensores do LXQt</translation>
     </message>
     <message>
         <location filename="../../../lxqtsensorsconfiguration.ui" line="14"/>
         <source>Sensors Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Definições dos sensores</translation>
     </message>
     <message>
         <location filename="../../../lxqtsensorsconfiguration.ui" line="30"/>

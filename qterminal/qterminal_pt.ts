@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="pt">
+<TS version="2.0" language="pt_PT">
 <context>
     <name>BookmarksWidget</name>
     <message>
@@ -255,7 +255,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="515"/>
         <source>A lightweight multiplatform terminal emulator</source>
-        <translation>Um emulador de terminal multiplataforma</translation>
+        <translation>Um emulador de terminal multi-plataforma</translation>
     </message>
 </context>
 <context>
@@ -460,7 +460,7 @@
     <message>
         <location filename="../forms/propertiesdialog.ui" line="570"/>
         <source>You can specify your own bookmarks file location. It allows easy bookmark sharing with tools like OwnCloud or Dropbox.</source>
-        <translation>Pode especificar a localização do ficheiro de marcadores. Permite a partilha de marcadores através  do Own Cloud, Dropbox e mais serviços.</translation>
+        <translation>Pode especificar a localização do ficheiro de marcadores. Permite a partilha de marcadores através  do OwnCloud e/ou Dropbox.</translation>
     </message>
     <message>
         <location filename="../forms/propertiesdialog.ui" line="161"/>
@@ -513,7 +513,7 @@
     <message>
         <location filename="../propertiesdialog.cpp" line="63"/>
         <source>Move start</source>
-        <translation>Mover para o inicio</translation>
+        <translation>Mover para o início</translation>
     </message>
     <message>
         <location filename="../propertiesdialog.cpp" line="63"/>
@@ -524,7 +524,7 @@
         <location filename="../propertiesdialog.cpp" line="68"/>
         <location filename="../propertiesdialog.cpp" line="122"/>
         <source>System Default</source>
-        <translation>Predefinições</translation>
+        <translation>Definições do sistema</translation>
     </message>
     <message>
         <location filename="../propertiesdialog.cpp" line="252"/>

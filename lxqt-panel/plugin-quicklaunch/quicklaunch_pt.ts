@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="pt">
+<TS version="2.0" language="pt_PT">
 <context>
     <name>LXQtQuickLaunch</name>
     <message>
@@ -11,13 +11,14 @@
     <message>
         <location filename="../../../lxqtquicklaunch.cpp" line="214"/>
         <source>File/URL &apos;%1&apos; cannot be embedded into QuickLaunch for now</source>
-        <translation>Neste momento, não pode incluir o ficheiro/url &apos;%1&apos; no inicio rápido.</translation>
+        <translation>Neste momento, não pode incluir o ficheiro/url &apos;%1&apos; no inicio rápido</translation>
     </message>
     <message>
         <location filename="../../../lxqtquicklaunch.cpp" line="320"/>
         <source>Drop application
 icons here</source>
-        <translation type="unfinished"></translation>
+        <translation>Largueaqui os ícones
+das aplicações</translation>
     </message>
 </context>
 <context>

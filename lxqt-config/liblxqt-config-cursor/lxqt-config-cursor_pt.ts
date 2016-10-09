@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="pt">
+<TS version="2.0" language="pt_PT">
 <context>
     <name>SelectWnd</name>
     <message>
@@ -20,7 +20,7 @@
     </message>
     <message>
         <source>&amp;Set Theme</source>
-        <translation type="vanished">&amp;Definir tema</translation>
+        <translation>&amp;Definir tema</translation>
     </message>
     <message>
         <location filename="../../../selectwnd.ui" line="88"/>
@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="vanished">Fe&amp;char</translation>
+        <translation>Fe&amp;char</translation>
     </message>
     <message>
         <location filename="../../../selectwnd.cpp" line="208"/>

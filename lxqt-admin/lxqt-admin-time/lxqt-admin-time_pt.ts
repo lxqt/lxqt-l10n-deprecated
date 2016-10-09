@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="pt">
+<TS version="2.0" language="pt_PT">
 <context>
     <name>DateTime</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Formulário</translation>
+        <translation>Formulário</translation>
     </message>
     <message>
         <source>Time and date setup</source>
-        <translation type="vanished">Configuração de data e hora</translation>
+        <translation>Configuração de data e hora</translation>
     </message>
     <message>
         <location filename="../../../datetime.ui" line="23"/>
@@ -59,11 +59,11 @@
     <name>Timezone</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Formulário</translation>
+        <translation>Formulário</translation>
     </message>
     <message>
         <source>Timezone setup</source>
-        <translation type="vanished">Configuração de fuso horário</translation>
+        <translation>Configuração de fuso horário</translation>
     </message>
     <message>
         <location filename="../../../timezone.ui" line="19"/>

@@ -49,7 +49,7 @@ Arguments:
   arguments        Optional arguments for command.
 
 </source>
-        <translation>Utilizaçãoe: %1 opção [comando [argumentos...]]
+        <translation>Utilização: %1 opção [comando [argumentos...]]
 
 Interface para %2/%3
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="pt">
+<TS version="2.0" language="pt_PT">
 <context>
     <name>Battery</name>
     <message>
@@ -92,12 +92,12 @@
     <message>
         <location filename="../../../batteryhelper.cpp" line="80"/>
         <source>Personal Digital Assistant&apos;s battery</source>
-        <translation type="unfinished"></translation>
+        <translation>Bateria &apos;Personal Digital Assistant&apos; (PDA)</translation>
     </message>
     <message>
         <location filename="../../../batteryhelper.cpp" line="82"/>
         <source>Uninterruptible Power Supply&apos;s battery</source>
-        <translation type="unfinished"></translation>
+        <translation>Bateria &apos;Uninterruptible Power Supply&apos; (UPS)</translation>
     </message>
     <message>
         <location filename="../../../batteryhelper.cpp" line="84"/>

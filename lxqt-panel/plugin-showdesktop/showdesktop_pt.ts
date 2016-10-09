@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="pt">
+<TS version="2.0" language="pt_PT">
 <context>
     <name>ShowDesktop</name>
     <message>
         <location filename="../../../showdesktop.cpp" line="48"/>
         <source>Show desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar área de trabalho</translation>
     </message>
     <message>
         <location filename="../../../showdesktop.cpp" line="70"/>
