@@ -1,7 +1,8 @@
 language: cpp
 os:
     - linux
-
+sudo: required
+dist: trusty
 addons:
     apt:
         sources:
@@ -9,14 +10,11 @@ addons:
         packages:
             - cmake
             - cmake-data
-sudo: true
 before_install:
-    - yes | sudo sudo add-apt-repository ppa:beineri/opt-qt561
-    - sudo apt-get update
-    - sudo apt-get install qt56base qt56tools --force-yes
+    - sudo apt-get install qttools5-dev qttools5-dev-tools -yq --no-install-suggests --no-install-recommends --force-yes
 # pulling just needed translation parts from liblxqt
-    - wget https://raw.githubusercontent.com/lxde/liblxqt/master/cmake/modules/LXQtTranslateTs.cmake
-    - wget https://raw.githubusercontent.com/lxde/liblxqt/master/cmake/modules/Qt5PatchedLinguistToolsMacros.cmake
+    - wget https://raw.githubusercontent.com/lxde/lxqt-build-tools/master/cmake/modules/LXQtTranslateTs.cmake
+    - wget https://raw.githubusercontent.com/lxde/lxqt-build-tools/master/cmake/modules/Qt5PatchedLinguistToolsMacros.cmake
 # ...and modifying the CMakeLists.txt to not require whole liblxqt
     - sed -i'' -re '/^find_package\(lxqt / s/find_package\(lxqt/find_package(Qt5LinguistTools/' CMakeLists.txt
 script: cmake -DCMAKE_MODULE_PATH=. -DCMAKE_PREFIX_PATH=/opt/qt56 . && make
