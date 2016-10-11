@@ -1,97 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="pt">
+<TS version="2.1" language="nl">
 <context>
     <name>LocaleConfig</name>
     <message>
         <location filename="../../../localeconfig.ui" line="47"/>
         <source>Re&amp;gion:</source>
-        <translation>Re&amp;gião:</translation>
+        <translation>Re&amp;gio:</translation>
     </message>
     <message>
         <location filename="../../../localeconfig.ui" line="76"/>
         <source>De&amp;tailed Settings</source>
-        <translation>Definições de&amp;talhadas</translation>
+        <translation>Gede&amp;tailleerde instellingen</translation>
     </message>
     <message>
         <location filename="../../../localeconfig.ui" line="83"/>
         <source>&amp;Numbers:</source>
-        <translation>&amp;Números:</translation>
+        <translation>Ge&amp;tallen:</translation>
     </message>
     <message>
         <location filename="../../../localeconfig.ui" line="112"/>
         <source>&amp;Time:</source>
-        <translation>&amp;Hora:</translation>
+        <translation>&amp;Tijd:</translation>
     </message>
     <message>
         <location filename="../../../localeconfig.ui" line="141"/>
         <source>Currenc&amp;y:</source>
-        <translation>&amp;Moeda:</translation>
+        <translation>&amp;Valuta:</translation>
     </message>
     <message>
         <location filename="../../../localeconfig.ui" line="170"/>
         <source>Measurement &amp;Units:</source>
-        <translation>&amp;Unidades de medida:</translation>
+        <translation>&amp;Meeteenheden:</translation>
     </message>
     <message>
         <location filename="../../../localeconfig.ui" line="199"/>
         <source>Co&amp;llation and Sorting:</source>
-        <translation>Verificação e &amp;organização:</translation>
+        <translation>Verge&amp;lijking en ragnschikking:</translation>
     </message>
     <message>
         <location filename="../../../localeconfig.ui" line="238"/>
         <source>&lt;b&gt;Examples&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Exemplos&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Voorbeelden&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../../localeconfig.ui" line="248"/>
         <source>Numbers:</source>
-        <translation>Números:</translation>
+        <translation>Getallen:</translation>
     </message>
     <message>
         <location filename="../../../localeconfig.ui" line="268"/>
         <source>Time:</source>
-        <translation>Hora:</translation>
+        <translation>Tijd:</translation>
     </message>
     <message>
         <location filename="../../../localeconfig.ui" line="288"/>
         <source>Currency:</source>
-        <translation>Moeda:</translation>
+        <translation>Valuta:</translation>
     </message>
     <message>
         <location filename="../../../localeconfig.ui" line="308"/>
         <source>Measurement Units:</source>
-        <translation>Unidades de medida:</translation>
+        <translation>Meeteenheden:</translation>
     </message>
     <message>
         <location filename="../../../localeconfig.cpp" line="119"/>
         <source>No change</source>
-        <translation>Sem alterações</translation>
+        <translation>Geen verandering</translation>
     </message>
     <message>
         <location filename="../../../localeconfig.cpp" line="308"/>
         <source>Format Settings Changed</source>
-        <translation>Definições alteradas</translation>
+        <translation>De instellingen zijn veranderd</translation>
     </message>
     <message>
         <location filename="../../../localeconfig.cpp" line="309"/>
         <source>Save the settings ? (they will take effect the next time you log in)</source>
-        <translation>Guardar definições? (Serão aplicadas na próxima sessão)</translation>
+        <translation>Instellingen opslaan? Ze zullen van kracht worden nadat u zich opnieuw hebt aangemeld.</translation>
     </message>
     <message>
         <location filename="../../../localeconfig.cpp" line="430"/>
         <source>Imperial UK</source>
-        <translation>Imperial RU</translation>
+        <translation>Imperial GB</translation>
     </message>
     <message>
         <location filename="../../../localeconfig.cpp" line="434"/>
         <source>Imperial US</source>
-        <translation>Imperial EUA</translation>
+        <translation>Imperial US</translation>
     </message>
     <message>
         <location filename="../../../localeconfig.cpp" line="438"/>
         <source>Metric</source>
-        <translation>Métrico</translation>
+        <translation>Metrisch</translation>
     </message>
 </context>
 <context>
@@ -99,12 +99,12 @@
     <message>
         <location filename="../../../main.cpp" line="38"/>
         <source>LXQt Locale Configuration</source>
-        <translation>Configurações regionais do LXQt</translation>
+        <translation>LXQt regionale instellingen</translation>
     </message>
     <message>
         <location filename="../../../main.cpp" line="43"/>
         <source>Locale Settings</source>
-        <translation>Definições regionais</translation>
+        <translation>Regionale instellingen</translation>
     </message>
 </context>
 </TS>

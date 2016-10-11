@@ -1,179 +1,180 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="pt">
+<TS version="2.1" language="it">
 <context>
     <name>MainDialog</name>
     <message>
         <location filename="../../maindialog.ui" line="14"/>
         <source>Special Effect Settings</source>
-        <translation>Definições de efeitos especiais</translation>
+        <translation>Impostazioni effetti delle finestre</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="24"/>
         <source>Shadow</source>
-        <translation>Sombra</translation>
+        <translation>Ombra</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="30"/>
         <source>The blur radius for shadows</source>
-        <translation>Raio de desfocagem da sombra</translation>
+        <translation>Ampiezza di sfocatura per le ombre</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="40"/>
         <source>The left offset for shadows</source>
-        <translation>Desvio da margem esquerda da sombra</translation>
+        <translation>Estensione verso l&apos;alto delle ombre</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="54"/>
         <source>The top offset for shadows</source>
-        <translation>Desvio da margem superior da sombra</translation>
+        <translation>Estensione verso sinistra delle ombre</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="68"/>
         <source>The translucency for shadows</source>
-        <translation>Translucência das janelas</translation>
+        <translation>Trasparenza delle ombre</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="75"/>
         <source>Color of shadow</source>
-        <translation>Cor da sombra</translation>
+        <translation>Colore dell&apos;ombra</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="89"/>
         <source>Fix some weirdness with ARGB windows</source>
-        <translation>Corrigir imperfeições das janelas ARGB</translation>
+        <translation>Correggi problemi con lo standard ARGB delle finestre</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="92"/>
         <source>Zero the part of the shadow&apos;s mask behind the window</source>
-        <translation type="unfinished"></translation>
+        <translation>Ometti la parte della maschera di ombra dietro la finestra</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="99"/>
         <source>Don&apos;t draw shadows on DND windows</source>
-        <translation>Não criar sombras ao arrastar e largar janelas</translation>
+        <translatorcomment>drag&amp;drop windows?</translatorcomment>
+        <translation>Nessuna ombra per finestre in spostamento</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="106"/>
         <source>Avoid drawing shadows on dock/panel windows</source>
-        <translation>Não criar sombras nas janelas da doca/painel</translation>
+        <translation>Nessuna ombra per dock e pannelli</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="113"/>
         <source>Enabled client-side shadows on windows</source>
-        <translation>Ativar sombras &quot;client-side&quot; nas janelas</translation>
+        <translation>Permetti ombre proprie delle finestre</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="120"/>
         <source>Avoid drawing shadow on all shaped windows</source>
-        <translation>Não criar sombras nas janelas enroladas</translation>
+        <translation>Non disegnare ombre per tutte le finestre disegnate</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="138"/>
         <source>Opacity</source>
-        <translation>Opacidade</translation>
+        <translation>Trasparenza</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="147"/>
         <source>The opacity for menus</source>
-        <translation>Opacidade dos menus</translation>
+        <translation>Trasparenza dei menu</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="154"/>
         <source>Default opacity of inactive windows</source>
-        <translation>Opacidade padrão das janelas inativas</translation>
+        <translation>Trasparenza delle finestre inattive</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="161"/>
         <source>Default opacity for active windows</source>
-        <translation>Opacidade padrão das janelas ativas</translation>
+        <translation>Trasparenza delle finestre attive</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="168"/>
         <source>Opacity of window titlebars and borders</source>
-        <translation>Opacidade da barra de título e dos contornos</translation>
+        <translation>Trasparenza delle barre del titolo e dei bordi</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="175"/>
         <source>XRender backend: Step size for alpha pictures
 (Increasing it may result in less X resource usage)</source>
-        <translation>Infraestrutura XRender: etapa para imagens alfa
-(Valores mais altos podem reduzir a utilização do X)</translation>
+        <translation>Intervallo della trasparenza del backend XRender (Aumentare il valore
+potrebbe comportare un uso maggiore di risorse per il server grafico X)</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="183"/>
         <source>Dim inactive windows</source>
-        <translation>Escurecimento das janelas inativas</translation>
+        <translation>Offuscare finestre inattive</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="190"/>
         <source>Do not let dimness adjust based on window opacity</source>
-        <translation>Não escurecer tendo como base a opacidade da janela</translation>
+        <translation>Grado di offuscamento indipendente dall&apos;opacità</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="197"/>
         <source>Blur background of transparent windows</source>
-        <translation>Desfocar fundo das janelas transparentes</translation>
+        <translation>Sfumare lo sfondo delle finestre trasparenti</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="204"/>
         <source>Blur background of opaque windows with transparent frames as well</source>
-        <translation>Desfocar fundo das janelas opacas com molduras transparentes</translation>
+        <translation>Sfumare anche lo sfondo delle finestre trasparenti con bordo trasparente</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="211"/>
         <source>Do not let blur radius adjust based on window opacity</source>
-        <translation>Não ajustar o raio de desfocagem tendo como base a opacidade da janela</translation>
+        <translation>Grado di sfumatura indipendente dall&apos;opacità</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="279"/>
         <source>Fade</source>
-        <translation>Desvanecimento</translation>
+        <translation>Dissolvenza</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="285"/>
         <source>Fade windows during opacity changes</source>
-        <translation>Desvanecer janelas durante as mudanças de opacidade</translation>
+        <translation>Dissolvere le finestre durante il cambio di opacità</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="292"/>
         <source>The time between steps in a fade in milliseconds</source>
-        <translation>Duração das etapas de desvanecimento em milissegundos</translation>
+        <translation>Tempo tra i gradi della dissolvenza in millisecondi</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="299"/>
         <source>Opacity change between steps while fading in</source>
-        <translation>Mudanças de opacidade entre etapas ao aparecer</translation>
+        <translation>Cambio di opacità della dissolvenza in apertura</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="306"/>
         <source>Opacity change between steps while fading out</source>
-        <translation>Mudanças de opacidade entre etapas ao desaparecer</translation>
+        <translation>Cambio di opacità della dissolvenza in chiusura</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="313"/>
         <source>Avoid fade windows in/out when opening/closing</source>
-        <translation>Não desvanecer ao abrir e fechar janelas</translation>
+        <translation>Nessuna dissolvenza delle finestre in apertura e chiusura</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="356"/>
         <source>Other</source>
-        <translation>Outras</translation>
+        <translation>Altro</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="362"/>
         <source>Not implemented yet</source>
-        <translation>Ainda não implementadas</translation>
+        <translation>Non ancora implementato</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="375"/>
         <source>About</source>
-        <translation>Sobre</translation>
+        <translation>Informazioni</translation>
     </message>
     <message>
         <location filename="../../maindialog.cpp" line="179"/>
         <source>About ComptonConf</source>
-        <translation>Sobre ComptomConf</translation>
+        <translation>Informazioni su ComptonConf</translation>
     </message>
     <message>
         <location filename="../../maindialog.cpp" line="180"/>
@@ -181,10 +182,10 @@
 
 Copyright (C) 2013
 Author: Hong Jen Yee (PCMan) &lt;pcman.tw@gmail.com&gt;</source>
-        <translation>ComptonConf - ferramenta de configuração para o compton
+        <translation>ComptonConf - Strumento di configurazione per Compton
 
-Copyright (C) 2013-2016
-Autor: Hong Jen Yee (PCMan) &lt;pcman.tw@gmail.com&gt;</translation>
+Copyright (C) 2013
+Author: Hong Jen Yee (PCMan) &lt;pcman.tw@gmail.com&gt;</translation>
     </message>
 </context>
 </TS>

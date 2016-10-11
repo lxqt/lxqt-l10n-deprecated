@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="pt">
+<TS version="2.1" language="nl">
 <context>
     <name>GroupDialog</name>
     <message>
         <location filename="../../../groupdialog.ui" line="14"/>
         <source>Group Settings</source>
-        <translation>Definições do grupo</translation>
+        <translation>Groepsinstellingen</translation>
     </message>
     <message>
         <location filename="../../../groupdialog.ui" line="20"/>
         <source>Group name:</source>
-        <translation>Nome do grupo:</translation>
+        <translation>Groepsnaam:</translation>
     </message>
     <message>
         <location filename="../../../groupdialog.ui" line="37"/>
         <source>Group ID:</source>
-        <translation>ID do grupo:</translation>
+        <translation>Groeps-ID:</translation>
     </message>
     <message>
         <location filename="../../../groupdialog.ui" line="44"/>
         <source>Users belong to this group:</source>
-        <translation>Utilizadores pertencentes a este grupo:</translation>
+        <translation>Gebruikers behoren tot deze groep:</translation>
     </message>
     <message>
         <location filename="../../../groupdialog.cpp" line="86"/>
         <location filename="../../../groupdialog.cpp" line="95"/>
         <location filename="../../../groupdialog.cpp" line="100"/>
         <source>Error</source>
-        <translation>Erro</translation>
+        <translation>Fout</translation>
     </message>
     <message>
         <location filename="../../../groupdialog.cpp" line="86"/>
         <source>The group ID is in use.</source>
-        <translation>O ID do grupo já está em utilização.</translation>
+        <translation>Het groeps-ID is reeds in gebruik.</translation>
     </message>
     <message>
         <location filename="../../../groupdialog.cpp" line="95"/>
         <source>The group name cannot be empty.</source>
-        <translation>O nome do grupo não pode estar vazio.</translation>
+        <translation>De groepsnaam kan niet leeg zijn.</translation>
     </message>
     <message>
         <location filename="../../../groupdialog.cpp" line="100"/>
         <source>The group name is in use.</source>
-        <translation>O nome do grupo já está em utilização.</translation>
+        <translation>De groepsnaam is reeds in gebruik.</translation>
     </message>
 </context>
 <context>
@@ -51,123 +51,123 @@
     <message>
         <location filename="../../../mainwindow.ui" line="14"/>
         <source>User and Group Settings</source>
-        <translation>Definições de grupo e utilizador</translation>
+        <translation>Instellingen voor gebruikers en groepen</translation>
     </message>
     <message>
         <location filename="../../../mainwindow.ui" line="31"/>
         <source>&amp;Users</source>
-        <translation>&amp;Utilizadores</translation>
+        <translation>&amp;Gebruikers</translation>
     </message>
     <message>
         <location filename="../../../mainwindow.ui" line="50"/>
         <source>Login Name</source>
-        <translation>Nome de acesso</translation>
+        <translation>Aanmeldnaam</translation>
     </message>
     <message>
         <location filename="../../../mainwindow.ui" line="55"/>
         <source>User ID</source>
-        <translation>ID de utilizador</translation>
+        <translation>Gebruikers-ID</translation>
     </message>
     <message>
         <location filename="../../../mainwindow.ui" line="60"/>
         <source>Full Name</source>
-        <translation>Nome completo</translation>
+        <translation>Volledige naam</translation>
     </message>
     <message>
         <location filename="../../../mainwindow.ui" line="65"/>
         <source>Group</source>
-        <translation>Grupo</translation>
+        <translation>Groep</translation>
     </message>
     <message>
         <location filename="../../../mainwindow.ui" line="70"/>
         <source>Home Directory</source>
-        <translation>Pasta pessoal</translation>
+        <translation>Thuismap</translation>
     </message>
     <message>
         <location filename="../../../mainwindow.ui" line="81"/>
         <source>Show system users (for advanced users only)</source>
-        <translation>Mostrar utilizadores de sistema (utilizadores avançados)</translation>
+        <translation>Toon systeemgebruikers (alleen voor gevorderden)</translation>
     </message>
     <message>
         <location filename="../../../mainwindow.ui" line="89"/>
         <source>&amp;Groups</source>
-        <translation>&amp;Grupos</translation>
+        <translation>&amp;Groepen</translation>
     </message>
     <message>
         <location filename="../../../mainwindow.ui" line="102"/>
         <source>Name</source>
-        <translation>Nome</translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <location filename="../../../mainwindow.ui" line="107"/>
         <source>Group ID</source>
-        <translation>ID do grupo</translation>
+        <translation>Groeps-ID</translation>
     </message>
     <message>
         <location filename="../../../mainwindow.ui" line="120"/>
         <source>toolBar</source>
-        <translation>Barra de ferramentas</translation>
+        <translation>Werkbalk</translation>
     </message>
     <message>
         <location filename="../../../mainwindow.ui" line="147"/>
         <source>Add</source>
-        <translation>Adicionar</translation>
+        <translation>Toevoegen</translation>
     </message>
     <message>
         <location filename="../../../mainwindow.ui" line="150"/>
         <source>Add new users or groups</source>
-        <translation>Adicionar utilizadores ou grupos</translation>
+        <translation>Nieuwe gebruikers of groepen toevoegen</translation>
     </message>
     <message>
         <location filename="../../../mainwindow.ui" line="160"/>
         <source>Delete</source>
-        <translation>Apagar</translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <location filename="../../../mainwindow.ui" line="163"/>
         <source>Delete selected item</source>
-        <translation>Apagar o item selecionado</translation>
+        <translation>Verwijder gekozen element</translation>
     </message>
     <message>
         <location filename="../../../mainwindow.ui" line="173"/>
         <source>Properties</source>
-        <translation>Propriedades</translation>
+        <translation>Eigenschappen</translation>
     </message>
     <message>
         <location filename="../../../mainwindow.ui" line="176"/>
         <source>edit properties of the selected item</source>
-        <translation>Editar as propriedades do item selecionado</translation>
+        <translation>bewerk eigenschappen van het gekozen element</translation>
     </message>
     <message>
         <location filename="../../../mainwindow.ui" line="186"/>
         <source>Refresh</source>
-        <translation>Atualizar</translation>
+        <translation>Verversen</translation>
     </message>
     <message>
         <location filename="../../../mainwindow.ui" line="189"/>
         <source>Refresh the lists</source>
-        <translation>Atualizar as listas</translation>
+        <translation>Ververs de lijsten</translation>
     </message>
     <message>
         <location filename="../../../mainwindow.cpp" line="145"/>
         <source>Error</source>
-        <translation>Erro</translation>
+        <translation>Fout</translation>
     </message>
     <message>
         <location filename="../../../mainwindow.cpp" line="191"/>
         <location filename="../../../mainwindow.cpp" line="204"/>
         <source>Confirm</source>
-        <translation>Confirmação</translation>
+        <translation>Bevestigen</translation>
     </message>
     <message>
         <location filename="../../../mainwindow.cpp" line="191"/>
         <source>Are you sure you want to delete the selected user?</source>
-        <translation>Tem a certeza de que deseja apagar o utilizador selecionado?</translation>
+        <translation>Wilt u de gekozen gebruiker werkelijk verwijderen?</translation>
     </message>
     <message>
         <location filename="../../../mainwindow.cpp" line="204"/>
         <source>Are you sure you want to delete the selected group?</source>
-        <translation>Tem a certeza de que deseja apagar o grupo selecionado?</translation>
+        <translation>Wilt u de gekozen groep werkelijk verwijderen?</translation>
     </message>
 </context>
 <context>
@@ -175,89 +175,89 @@
     <message>
         <location filename="../../../userdialog.ui" line="14"/>
         <source>User Settings</source>
-        <translation>Definições de utilizador</translation>
+        <translation>Gebruikersinstellingen</translation>
     </message>
     <message>
         <location filename="../../../userdialog.ui" line="24"/>
         <source>General</source>
-        <translation>Geral</translation>
+        <translation>Algemeen</translation>
     </message>
     <message>
         <location filename="../../../userdialog.ui" line="33"/>
         <source>Full name:</source>
-        <translation>Nome completo:</translation>
+        <translation>Volledige naam:</translation>
     </message>
     <message>
         <location filename="../../../userdialog.ui" line="43"/>
         <source>Login name:</source>
-        <translation>Nome de acesso:</translation>
+        <translation>Aanmeldnaam:</translation>
     </message>
     <message>
         <location filename="../../../userdialog.ui" line="53"/>
         <source>Set password:</source>
-        <translation>Definir palavra-passe:</translation>
+        <translation>Wachtwoord instellen:</translation>
     </message>
     <message>
         <location filename="../../../userdialog.ui" line="77"/>
         <source>User ID:</source>
-        <translation>ID de utilizador:</translation>
+        <translation>Gebruikers-ID:</translation>
     </message>
     <message>
         <location filename="../../../userdialog.ui" line="84"/>
         <source>Main group:</source>
-        <translation>Grupo principal:</translation>
+        <translation>Hoofdgroep:</translation>
     </message>
     <message>
         <location filename="../../../userdialog.ui" line="99"/>
         <source>Advanced</source>
-        <translation>Avançado</translation>
+        <translation>Geavanceerd</translation>
     </message>
     <message>
         <location filename="../../../userdialog.ui" line="105"/>
         <source>Login shell:</source>
-        <translation>Consola de acesso:</translation>
+        <translation>Aanmeldschil:</translation>
     </message>
     <message>
         <location filename="../../../userdialog.ui" line="122"/>
         <source>Home directory:</source>
-        <translation>Pasta pessoal:</translation>
+        <translation>Thuismap:</translation>
     </message>
     <message>
         <location filename="../../../userdialog.cpp" line="67"/>
         <source>Change password:</source>
-        <translation>Alterar palavra-passe:</translation>
+        <translation>Wachtwoord veranderen:</translation>
     </message>
     <message>
         <location filename="../../../userdialog.cpp" line="128"/>
         <location filename="../../../userdialog.cpp" line="141"/>
         <location filename="../../../userdialog.cpp" line="146"/>
         <source>Error</source>
-        <translation>Erro</translation>
+        <translation>Fout</translation>
     </message>
     <message>
         <location filename="../../../userdialog.cpp" line="128"/>
         <source>The user ID is in use.</source>
-        <translation>O ID do utilizador já está em utilização.</translation>
+        <translation>Het gebruikers-ID is reeds in gebruik.</translation>
     </message>
     <message>
         <location filename="../../../userdialog.cpp" line="141"/>
         <source>The user name cannot be empty.</source>
-        <translation>O nome de utilizador não pode estar vazio.</translation>
+        <translation>De gebruikersnaam kan niet leeg zijn.</translation>
     </message>
     <message>
         <location filename="../../../userdialog.cpp" line="146"/>
         <source>The user name is in use.</source>
-        <translation>O nome de utilizador já está em utilização.</translation>
+        <translation>De gebruikersnaam is reeds in gebruik.</translation>
     </message>
     <message>
         <location filename="../../../userdialog.cpp" line="162"/>
         <source>Confirm</source>
-        <translation>Confirmação</translation>
+        <translation>Bevestigen</translation>
     </message>
     <message>
         <location filename="../../../userdialog.cpp" line="162"/>
         <source>Are you sure you want to use an &quot;empty password&quot; for the user?</source>
-        <translation>Tem a certeza de que deseja utilizar uma palavra-passe vazia para o utilizador?</translation>
+        <translation>Weet u heel zeker dat u een &quot;leeg wachtwoord&quot; voor de gebruiker wil instellen?</translation>
     </message>
 </context>
 </TS>
