@@ -6,19 +6,15 @@
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="49"/>
         <source>&lt;locale based&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Gebaseerd op regionale instellingen&gt;</translation>
     </message>
 </context>
 <context>
     <name>LXQtClockConfiguration</name>
     <message>
-        <source>LXQt Clock Settings</source>
-        <translation type="vanished">Instellingen van LXQt Klok</translation>
-    </message>
-    <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="14"/>
         <source>Clock Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Klokinstellingen</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="20"/>
@@ -33,60 +29,12 @@
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="33"/>
         <source>12 &amp;hour style</source>
-        <translation>12 &amp;uur stijl</translation>
+        <translation>12-uurs-&amp;klokstijl</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="40"/>
         <source>&amp;Use UTC</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../lxqtclockconfiguration.ui" line="59"/>
-        <source>Date &amp;format</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../lxqtclockconfiguration.ui" line="76"/>
-        <source>&amp;Do not show date</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../lxqtclockconfiguration.ui" line="86"/>
-        <source>Show date &amp;before time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../lxqtclockconfiguration.ui" line="93"/>
-        <source>Show date &amp;after time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../lxqtclockconfiguration.ui" line="100"/>
-        <source>Show date below time on new &amp;line</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../lxqtclockconfiguration.ui" line="107"/>
-        <source>First day of week in calendar</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../lxqtclockconfiguration.ui" line="124"/>
-        <source>Orientation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../lxqtclockconfiguration.ui" line="130"/>
-        <source>Auto&amp;rotate when the panel is vertical</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Font</source>
-        <translation type="vanished">&amp;Lettertype</translation>
-    </message>
-    <message>
-        <source>Font</source>
-        <translation type="vanished">Lettertype</translation>
+        <translation>&amp;Gebruik UTC</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="50"/>
@@ -94,65 +42,49 @@
         <translation>Datum</translation>
     </message>
     <message>
-        <source>Show &amp;date</source>
-        <translation type="vanished">Toon &amp;datum</translation>
+        <location filename="../../../lxqtclockconfiguration.ui" line="59"/>
+        <source>Date &amp;format</source>
+        <translation>Datums&amp;vormgeving</translation>
     </message>
     <message>
-        <source>D&amp;ate format</source>
-        <translation type="vanished">Datumnotatie</translation>
+        <location filename="../../../lxqtclockconfiguration.ui" line="76"/>
+        <source>&amp;Do not show date</source>
+        <translation>&amp;Toon datum niet</translation>
     </message>
     <message>
-        <source>Fon&amp;t</source>
-        <translation type="vanished">Lettertype</translation>
+        <location filename="../../../lxqtclockconfiguration.ui" line="86"/>
+        <source>Show date &amp;before time</source>
+        <translation>Datum &amp;vor Zeit anzeigen</translation>
     </message>
     <message>
-        <source>Show date in &amp;new line</source>
-        <translation type="vanished">Toon datum in &amp;nieuwe regel</translation>
+        <location filename="../../../lxqtclockconfiguration.ui" line="93"/>
+        <source>Show date &amp;after time</source>
+        <translation>Toon datum &amp;achter tijd</translation>
     </message>
     <message>
-        <source>&amp;Use theme fonts</source>
-        <translation type="vanished">&amp;Gebruik lettertypes van thema</translation>
+        <location filename="../../../lxqtclockconfiguration.ui" line="100"/>
+        <source>Show date below time on new &amp;line</source>
+        <translation>Toon datum &amp;onder tijd op nieuwe regel</translation>
     </message>
     <message>
-        <source>Time font</source>
-        <translation type="vanished">Lettertype voor de tijd</translation>
+        <location filename="../../../lxqtclockconfiguration.ui" line="107"/>
+        <source>First day of week in calendar</source>
+        <translation>Eerste weekdag in de kalender</translation>
     </message>
     <message>
-        <source>Date font</source>
-        <translation type="vanished">Lettertype voor de datum</translation>
+        <location filename="../../../lxqtclockconfiguration.ui" line="124"/>
+        <source>Orientation</source>
+        <translation>Oriëntatie</translation>
     </message>
     <message>
-        <source>Ultra light</source>
-        <translation type="vanished">Ultralicht</translation>
-    </message>
-    <message>
-        <source>Light</source>
-        <translation type="vanished">Licht</translation>
-    </message>
-    <message>
-        <source>Ultra black</source>
-        <translation type="vanished">Ultrazwart</translation>
-    </message>
-    <message>
-        <source>Black</source>
-        <translation type="vanished">Zwart</translation>
-    </message>
-    <message>
-        <source>Bold</source>
-        <translation type="vanished">Vet</translation>
-    </message>
-    <message>
-        <source>Demi bold</source>
-        <translation type="vanished">Halfvet</translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation type="vanished">Schuin</translation>
+        <location filename="../../../lxqtclockconfiguration.ui" line="130"/>
+        <source>Auto&amp;rotate when the panel is vertical</source>
+        <translation>Automatisch d&amp;raaien bij verticale werkbalk</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
         <source>Input custom date format</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepaste datumvormgeving</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
@@ -175,7 +107,25 @@ will also be treated as text and not be used as an expression.
 
 
 Custom date format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Toegestane soorten van datumvormgeving zijn:
+
+d	Dag als getal zonder voorafgaande nul (1 tot 31)
+dd	Dag als getal met voorafgaande nul (01 tot 31)
+ddd	Afgekorte regionale dagnaam (bijv. &apos;ma&apos; tot &apos;zon&apos;).
+dddd	Volledige regionale dagnaam (bijv. &apos;maandag&apos; tot &apos;zondag&apos;).
+M	Maand als getal zonder voorafgaande nul (1-12)
+MM	Maand als getal met voorafgaande nul (01-12)
+MMM	Afgekorte regionale maandnaam (bijv. &apos;jan&apos; tot &apos;dec&apos;).
+MMMM	Volledige regionale maandnaam (bijv. &apos;januari&apos; tot &apos;december&apos;).
+yy	Jaar als tweecijferig getal (00-99)
+yyyy	Jaar als viercijferig getal
+
+Alle andere ingevoerde tekens zullen worden behandeld als tekst.
+Elke volgorde van gegevens die tussen enkele aanhalingstekens (&apos;) staan,
+zal eveneens worden behandeld als tekst en niet worden gebruikt als een uitdrukking.
+
+
+Eigen datumvormgeving:</translation>
     </message>
 </context>
 </TS>
