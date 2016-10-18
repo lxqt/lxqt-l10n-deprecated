@@ -2,9 +2,13 @@ cmake_minimum_required(VERSION 3.0.2 FATAL_ERROR)
 
 project(translations)
 
-find_package(lxqt REQUIRED)
-include(LXQtTranslateTs)
+set(LXQTBT_MINIMUM_VERSION "0.1.0")
+
+find_package(Qt5LinguistTools REQUIRED)
+find_package(lxqt-build-tools ${LXQTBT_MINIMUM_VERSION} REQUIRED)
 include(GNUInstallDirs)
+include(LXQtTranslateTs)
+include(LXQtConfigVars)
 
 option(WITH_COMPTON_CONF "Build compton-conf translations" ON)
 option(WITH_LIBFM_QT "Build libfm-qt translations" ON)
