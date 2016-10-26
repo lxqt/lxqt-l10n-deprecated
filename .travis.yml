@@ -15,6 +15,6 @@ before_install:
 # pulling just needed translation parts from liblxqt
     - wget https://raw.githubusercontent.com/lxde/lxqt-build-tools/master/cmake/modules/LXQtTranslateTs.cmake
     - wget https://raw.githubusercontent.com/lxde/lxqt-build-tools/master/cmake/modules/Qt5PatchedLinguistToolsMacros.cmake
-# ...and modifying the CMakeLists.txt to not require whole liblxqt
-    - sed -i'' -re '/^find_package\(lxqt / s/find_package\(lxqt/find_package(Qt5LinguistTools/' CMakeLists.txt
+# ...and modifying the CMakeLists.txt to not require whole lxqt-build-tools
+    - sed -i'' -re '/^find_package\(lxqt-build-tools/ s/^/#/' -e '/^include\(LXQtConfigVars/ s/^/#/' CMakeLists.txt
 script: cmake -DCMAKE_MODULE_PATH=. -DCMAKE_PREFIX_PATH=/opt/qt56 -DBUILD_TESTING=ON . && make && make test CTEST_OUTPUT_ON_FAILURE=TRUE
