@@ -108,7 +108,7 @@
     <message>
         <location filename="../../maindialog.ui" line="190"/>
         <source>Do not let dimness adjust based on window opacity</source>
-        <translation>Ne pas laisse la luminosité se régler en fonction de l&apos;opacité de la fenêtre</translation>
+        <translation>Ne pas laisser la luminosité se régler en fonction de l&apos;opacité de la fenêtre</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="197"/>
@@ -153,7 +153,7 @@
     <message>
         <location filename="../../maindialog.ui" line="313"/>
         <source>Avoid fade windows in/out when opening/closing</source>
-        <translation>Éviter le dondu d&apos;entrée/sortie lors de l&apos;ouverture/fermeture des fenêtres</translation>
+        <translation>Éviter le fondu d&apos;entrée/sortie lors de l&apos;ouverture/fermeture des fenêtres</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="356"/>

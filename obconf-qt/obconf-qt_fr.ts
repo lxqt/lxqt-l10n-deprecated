@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="fr_FR">
+<TS version="2.1" language="fr">
 <context>
     <name>Fm::FontButton</name>
     <message>
@@ -90,7 +90,7 @@
     <message>
         <location filename="../../src/obconf.ui" line="137"/>
         <source>Window Titles</source>
-        <translation>Titres de fenêtre</translation>
+        <translation>Titres des fenêtres</translation>
     </message>
     <message>
         <location filename="../../src/obconf.ui" line="143"/>
@@ -111,7 +111,7 @@ L : Étiquette de fenêtre (Titre)
 I : Iconifier (Minimiser)
 M : Maximiser
 C : Fermer
-S : Ombre (Enroulé)
+S : Ombrer (Enrouler)
 D : Omniprésent (Sur tous les bureaux)</translation>
     </message>
     <message>
@@ -137,7 +137,7 @@ D : Omniprésent (Sur tous les bureaux)</translation>
     <message>
         <location filename="../../src/obconf.ui" line="271"/>
         <source>Active &amp;On-screen display: </source>
-        <translation>Affichage &amp;actif et à l&apos;écran :</translation>
+        <translation>A&amp;ffichage actif et à l&apos;écran :</translation>
     </message>
     <message>
         <location filename="../../src/obconf.ui" line="281"/>
@@ -162,7 +162,7 @@ D : Omniprésent (Sur tous les bureaux)</translation>
     <message>
         <location filename="../../src/obconf.ui" line="318"/>
         <source>Prefer to place new windows &amp;on:</source>
-        <translation>Préférez placer de nouvelles fenêtres et &amp;sur :</translation>
+        <translation>Placer de préférence les nouvelles fenêtres &amp;sur :</translation>
     </message>
     <message>
         <location filename="../../src/obconf.ui" line="329"/>
@@ -192,7 +192,7 @@ D : Omniprésent (Sur tous les bureaux)</translation>
     <message>
         <location filename="../../src/obconf.ui" line="360"/>
         <source>The primary monitor is where Openbox will place dialogs, such as the one used for cycling windows.</source>
-        <translation>Le moniteur principal est l&apos;endroit où Openbox va placer des dialogues, comme celui utilisé pour les fenêtres cycliques.</translation>
+        <translation>Le moniteur principal est l&apos;endroit où Openbox va placer des dialogues, comme celui utilisé pour parcourir les fenêtres.</translation>
     </message>
     <message>
         <location filename="../../src/obconf.ui" line="370"/>
@@ -263,7 +263,7 @@ D : Omniprésent (Sur tous les bureaux)</translation>
         <location filename="../../src/obconf.ui" line="549"/>
         <location filename="../../src/obconf.ui" line="578"/>
         <source>Centered</source>
-        <translation>Depuis le centre</translation>
+        <translation>Au centre</translation>
     </message>
     <message>
         <location filename="../../src/obconf.ui" line="554"/>
@@ -398,7 +398,7 @@ D : Omniprésent (Sur tous les bureaux)</translation>
     <message>
         <location filename="../../src/obconf.ui" line="845"/>
         <source>&amp;Amount of time to show the notification for:</source>
-        <translation>&amp;Délai avant affichage de la notification pour:</translation>
+        <translation>&amp;Durée d'affichage de la notification pour:</translation>
     </message>
     <message>
         <location filename="../../src/obconf.ui" line="868"/>

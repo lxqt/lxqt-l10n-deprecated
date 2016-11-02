@@ -701,7 +701,7 @@ exécuter start-pulseaudio-x11 manuellement.</translation>
     <message>
         <location filename="../../src/streamwidget.ui" line="66"/>
         <source>Mute audio</source>
-        <translation>Audio muet</translation>
+        <translation>Audio muette</translation>
     </message>
     <message>
         <location filename="../../src/streamwidget.ui" line="79"/>

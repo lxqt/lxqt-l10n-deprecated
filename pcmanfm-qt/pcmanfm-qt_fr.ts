@@ -107,7 +107,7 @@ Hong Jen Yee (PCMan) &lt;pcman.tw@gmail.com&gt;
     <message>
         <location filename="../../pcmanfm/desktop-folder.ui" line="14"/>
         <source>Form</source>
-        <translation>Formulaire</translation>
+        <translation>Dialogue</translation>
     </message>
     <message>
         <location filename="../../pcmanfm/desktop-folder.ui" line="23"/>
@@ -248,7 +248,7 @@ Un espace pour 3 lignes de texte est également réservé.</translation>
     <message>
         <location filename="../../pcmanfm/desktop-preferences.ui" line="278"/>
         <source>Lock</source>
-        <translation>Verrouillé</translation>
+        <translation>Verrouiller</translation>
     </message>
     <message>
         <location filename="../../pcmanfm/desktop-preferences.ui" line="321"/>
@@ -404,7 +404,7 @@ Un espace pour 3 lignes de texte est également réservé.</translation>
     <message>
         <location filename="../../pcmanfm/file-search.ui" line="340"/>
         <source>Later than:</source>
-        <translation>Après de :</translation>
+        <translation>Après le :</translation>
     </message>
 </context>
 <context>
@@ -587,7 +587,7 @@ Un espace pour 3 lignes de texte est également réservé.</translation>
     <message>
         <location filename="../../pcmanfm/main-win.ui" line="539"/>
         <source>&amp;Folder First</source>
-        <translation>&amp;Dossiers d&apos;abord</translation>
+        <translation>&amp;Répertoires d&apos;abord</translation>
     </message>
     <message>
         <location filename="../../pcmanfm/main-win.ui" line="547"/>
@@ -1357,7 +1357,7 @@ Un espace pour 3 lignes de texte est également réservé.</translation>
     <message>
         <location filename="../../pcmanfm/preferences.ui" line="179"/>
         <source>Erase files on removable media instead of &quot;trash can&quot; creation</source>
-        <translation>Effacer les fichiers sur des supports amovibles au lieu de créer &quot;poubelle&quot;</translation>
+        <translation>Effacer les fichiers sur des supports amovibles au lieu de les créer dans la corbeille</translation>
     </message>
     <message>
         <location filename="../../pcmanfm/preferences.ui" line="186"/>
@@ -1547,12 +1547,12 @@ du panneau d&apos;affichage du dossier et non au-dessus du panneau de gauche.</t
     <message>
         <location filename="../../pcmanfm/preferences.ui" line="746"/>
         <source>Chan&amp;ge folder in the tab to home folder</source>
-        <translation>&amp;Basculer l&apos;onglet sur le répertoire racine</translation>
+        <translation>&amp;Basculer l&apos;onglet sur le répertoire de base de l'utilisateur</translation>
     </message>
     <message>
         <location filename="../../pcmanfm/preferences.ui" line="789"/>
         <source>Switch &amp;user command:</source>
-        <translation>Exécuter la commande &amp;utilisateur :</translation>
+        <translation>Basculer en commande &amp;utilisateur :</translation>
     </message>
     <message>
         <location filename="../../pcmanfm/preferences.ui" line="813"/>

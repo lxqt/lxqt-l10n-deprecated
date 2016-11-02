@@ -38,7 +38,7 @@
     <message>
         <location filename="../../src/mainwindow.cpp" line="53"/>
         <source>Bookmarks</source>
-        <translation>Marque-page</translation>
+        <translation>Signets</translation>
     </message>
     <message>
         <location filename="../../src/mainwindow.cpp" line="130"/>
@@ -63,12 +63,12 @@
     <message>
         <location filename="../../src/mainwindow.cpp" line="164"/>
         <source>Move Tab &amp;Left</source>
-        <translation>Déplacer l&apos;onglet à &amp;droite</translation>
+        <translation>Déplacer l&apos;onglet à &amp;gauche</translation>
     </message>
     <message>
         <location filename="../../src/mainwindow.cpp" line="171"/>
         <source>Move Tab &amp;Right</source>
-        <translation>Déplacer l&apos;onglet à &amp;gauche</translation>
+        <translation>Déplacer l&apos;onglet à &amp;droite</translation>
     </message>
     <message>
         <location filename="../../src/mainwindow.cpp" line="180"/>
@@ -113,12 +113,12 @@
     <message>
         <location filename="../../src/mainwindow.cpp" line="239"/>
         <source>Zoom &amp;in</source>
-        <translation>Zoom &amp;entrant</translation>
+        <translation>Zoom a&amp;grandir</translation>
     </message>
     <message>
         <location filename="../../src/mainwindow.cpp" line="246"/>
         <source>Zoom &amp;out</source>
-        <translation>Zoom &amp;+</translation>
+        <translation>Zoom ra&amp;petisser</translation>
     </message>
     <message>
         <location filename="../../src/mainwindow.cpp" line="253"/>
@@ -260,7 +260,7 @@
     <message>
         <location filename="../../src/mainwindow.cpp" line="499"/>
         <source>&amp;Keyboard Cursor Shape</source>
-        <translation>Curseur en forme de &amp;clavier</translation>
+        <translation>Curseur pour usage avec &amp;clavier</translation>
     </message>
     <message>
         <location filename="../../src/mainwindow.cpp" line="576"/>
@@ -314,7 +314,7 @@
     <message>
         <location filename="../../src/forms/propertiesdialog.ui" line="72"/>
         <source>Bookmarks</source>
-        <translation>Marque-pages</translation>
+        <translation>Signets</translation>
     </message>
     <message>
         <location filename="../../src/forms/propertiesdialog.ui" line="100"/>
@@ -405,7 +405,7 @@
     <message>
         <location filename="../../src/forms/propertiesdialog.ui" line="305"/>
         <source>Keyboard cursor shape</source>
-        <translation>Curseur en forme de clavier</translation>
+        <translation>Curseur pour usage avec clavier</translation>
     </message>
     <message>
         <location filename="../../src/forms/propertiesdialog.ui" line="312"/>
@@ -506,17 +506,17 @@
     <message>
         <location filename="../../src/forms/propertiesdialog.ui" line="577"/>
         <source>Edit bookmark file contents</source>
-        <translation>Editer le fichier des marque-pages</translation>
+        <translation>Editer le fichier des signets</translation>
     </message>
     <message>
         <location filename="../../src/forms/propertiesdialog.ui" line="599"/>
         <source>Enable bookmarks</source>
-        <translation>Valider les marque-pages</translation>
+        <translation>Valider les signets</translation>
     </message>
     <message>
         <location filename="../../src/forms/propertiesdialog.ui" line="608"/>
         <source>Bookmark file</source>
-        <translation>Fichier des marque-pages</translation>
+        <translation>Fichier des signets</translation>
     </message>
     <message>
         <location filename="../../src/forms/propertiesdialog.ui" line="618"/>
@@ -526,7 +526,7 @@
     <message>
         <location filename="../../src/forms/propertiesdialog.ui" line="627"/>
         <source>You can specify your own bookmarks file location. It allows easy bookmark sharing with tools like OwnCloud or Dropbox.</source>
-        <translation>Vous pouvez spécifier votre propre fichier de marque-pages. Il permet un partage aisé des marque-pages.</translation>
+        <translation>Vous pouvez spécifier votre propre fichier de signets. Il permet un partage aisé des signets.</translation>
     </message>
     <message>
         <location filename="../../src/propertiesdialog.cpp" line="61"/>
@@ -594,7 +594,7 @@
     <message>
         <location filename="../../src/propertiesdialog.cpp" line="285"/>
         <source>Open or create bookmarks file</source>
-        <translation>Ouvrir ou créer le fichier des marque-pages</translation>
+        <translation>Ouvrir ou créer le fichier des signetss</translation>
     </message>
 </context>
 <context>
@@ -602,12 +602,12 @@
     <message>
         <location filename="../../src/bookmarkswidget.cpp" line="110"/>
         <source>Local Bookmarks</source>
-        <translation>Marque-page local</translation>
+        <translation>Signets locaux</translation>
     </message>
     <message>
         <location filename="../../src/bookmarkswidget.cpp" line="167"/>
         <source>Synchronized Bookmarks</source>
-        <translation>Synchroniser les marque-pages</translation>
+        <translation>Signets synchronisés</translation>
     </message>
 </context>
 <context>
