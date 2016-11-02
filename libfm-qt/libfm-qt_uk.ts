@@ -490,23 +490,24 @@ What do you want to do with it?</source>
         <location filename="../../fileoperation.cpp" line="221"/>
         <source>Some files cannot be moved to trash can because the underlying file systems don&apos;t support this operation.
 Do you want to delete them instead?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Деякі файли неможливо перемістити до смітника, оскільки ця система не підтримує цю операцію.
+Ви бажаєте вилучити їх у цьому випадку?</translation>
     </message>
     <message>
         <location filename="../../fileoperation.cpp" line="262"/>
         <location filename="../../fileoperation.cpp" line="278"/>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Підтвердження</translation>
     </message>
     <message>
         <location filename="../../fileoperation.cpp" line="263"/>
         <source>Do you want to delete the selected files?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ви бажаєте вилучити вибрані файли?</translation>
     </message>
     <message>
         <location filename="../../fileoperation.cpp" line="279"/>
         <source>Do you want to move the selected files to trash can?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ви бажаєете перемістити вибрані файли до смітника?</translation>
     </message>
 </context>
 <context>
@@ -514,77 +515,77 @@ Do you want to delete them instead?</source>
     <message>
         <location filename="../../fileoperationdialog.cpp" line="41"/>
         <source>Move files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Переміщення файлів</translation>
     </message>
     <message>
         <location filename="../../fileoperationdialog.cpp" line="42"/>
         <source>Moving the following files to destination folder:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Переміщення наступних файлів до теки призначення:</translation>
     </message>
     <message>
         <location filename="../../fileoperationdialog.cpp" line="45"/>
         <source>Copy Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Копіювання файлів</translation>
     </message>
     <message>
         <location filename="../../fileoperationdialog.cpp" line="46"/>
         <source>Copying the following files to destination folder:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Копіювання файлів до теки призначення:</translation>
     </message>
     <message>
         <location filename="../../fileoperationdialog.cpp" line="49"/>
         <source>Trash Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Переміщення файлів у смітник</translation>
     </message>
     <message>
         <location filename="../../fileoperationdialog.cpp" line="50"/>
         <source>Moving the following files to trash can:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Переміщення наступних файлів до смітника:</translation>
     </message>
     <message>
         <location filename="../../fileoperationdialog.cpp" line="53"/>
         <source>Delete Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вилучення файлів</translation>
     </message>
     <message>
         <location filename="../../fileoperationdialog.cpp" line="54"/>
         <source>Deleting the following files:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вилучення вибраних файлів:</translation>
     </message>
     <message>
         <location filename="../../fileoperationdialog.cpp" line="59"/>
         <source>Create Symlinks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Створення символьних посилань</translation>
     </message>
     <message>
         <location filename="../../fileoperationdialog.cpp" line="60"/>
         <source>Creating symlinks for the following files:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Створення символьних посилань для настпних файлів:</translation>
     </message>
     <message>
         <location filename="../../fileoperationdialog.cpp" line="63"/>
         <source>Change Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Зміна атрибутів</translation>
     </message>
     <message>
         <location filename="../../fileoperationdialog.cpp" line="64"/>
         <source>Changing attributes of the following files:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Зміна атрибутів наступних файлів:</translation>
     </message>
     <message>
         <location filename="../../fileoperationdialog.cpp" line="69"/>
         <source>Restore Trashed Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Відновлення файлів з смітника</translation>
     </message>
     <message>
         <location filename="../../fileoperationdialog.cpp" line="70"/>
         <source>Restoring the following files from trash can:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Відновлення наступних файлів з смітника:</translation>
     </message>
     <message>
         <location filename="../../fileoperationdialog.cpp" line="137"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Помилка</translation>
     </message>
 </context>
 <context>
@@ -592,47 +593,47 @@ Do you want to delete them instead?</source>
     <message>
         <location filename="../../filepropsdialog.cpp" line="154"/>
         <source>View folder content</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Перегляд вмісту теки</translation>
     </message>
     <message>
         <location filename="../../filepropsdialog.cpp" line="155"/>
         <source>View and modify folder content</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Перегляд і зміна вмісту теки</translation>
     </message>
     <message>
         <location filename="../../filepropsdialog.cpp" line="159"/>
         <source>Read</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Читання</translation>
     </message>
     <message>
         <location filename="../../filepropsdialog.cpp" line="160"/>
         <source>Read and write</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Читання і запис</translation>
     </message>
     <message>
         <location filename="../../filepropsdialog.cpp" line="162"/>
         <source>Forbidden</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Заборонено</translation>
     </message>
     <message>
         <location filename="../../filepropsdialog.cpp" line="266"/>
         <source>Files of different types</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Файли різних типів</translation>
     </message>
     <message>
         <location filename="../../filepropsdialog.cpp" line="296"/>
         <source>Multiple Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Багато файлів</translation>
     </message>
     <message>
         <location filename="../../filepropsdialog.cpp" line="424"/>
         <source>Apply changes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Застосувати зміни</translation>
     </message>
     <message>
         <location filename="../../filepropsdialog.cpp" line="425"/>
         <source>Do you want to recursively apply these changes to all files and sub-folders?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ви бажаєте рекурсивно застосувати ці зміни до всіх файлів і підтек? </translation>
     </message>
 </context>
 <context>
@@ -640,17 +641,17 @@ Do you want to delete them instead?</source>
     <message>
         <location filename="../../filesearchdialog.cpp" line="122"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Помилка</translation>
     </message>
     <message>
         <location filename="../../filesearchdialog.cpp" line="122"/>
         <source>You should add at least one directory to search.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ви повинні додати хоча б одну теку для пошуку.</translation>
     </message>
     <message>
         <location filename="../../filesearchdialog.cpp" line="129"/>
         <source>Select a folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вибір теки</translation>
     </message>
 </context>
 <context>
@@ -658,87 +659,87 @@ Do you want to delete them instead?</source>
     <message>
         <location filename="../../foldermenu.cpp" line="41"/>
         <source>Create &amp;New</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Створити &amp;новий</translation>
     </message>
     <message>
         <location filename="../../foldermenu.cpp" line="48"/>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Вставити</translation>
     </message>
     <message>
         <location filename="../../foldermenu.cpp" line="54"/>
         <source>Select &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вибрати в&amp;се</translation>
     </message>
     <message>
         <location filename="../../foldermenu.cpp" line="58"/>
         <source>Invert Selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Обернути зазначення</translation>
     </message>
     <message>
         <location filename="../../foldermenu.cpp" line="64"/>
         <source>Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сортування</translation>
     </message>
     <message>
         <location filename="../../foldermenu.cpp" line="69"/>
         <source>Show Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Показати приховане</translation>
     </message>
     <message>
         <location filename="../../foldermenu.cpp" line="100"/>
         <source>Folder Pr&amp;operties</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Властив&amp;ості теки</translation>
     </message>
     <message>
         <location filename="../../foldermenu.cpp" line="141"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вивід</translation>
     </message>
     <message>
         <location filename="../../foldermenu.cpp" line="166"/>
         <source>By File Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">По назві файлу</translation>
     </message>
     <message>
         <location filename="../../foldermenu.cpp" line="167"/>
         <source>By Modification Time</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">По даті зміни</translation>
     </message>
     <message>
         <location filename="../../foldermenu.cpp" line="168"/>
         <source>By File Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">По розміру файлу</translation>
     </message>
     <message>
         <location filename="../../foldermenu.cpp" line="169"/>
         <source>By File Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">По типу файлу</translation>
     </message>
     <message>
         <location filename="../../foldermenu.cpp" line="170"/>
         <source>By File Owner</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">По власнику файлу</translation>
     </message>
     <message>
         <location filename="../../foldermenu.cpp" line="182"/>
         <source>Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">В порядку зростання</translation>
     </message>
     <message>
         <location filename="../../foldermenu.cpp" line="187"/>
         <source>Descending</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">В порядку спадання</translation>
     </message>
     <message>
         <location filename="../../foldermenu.cpp" line="202"/>
         <source>Folder First</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Теки спочатку</translation>
     </message>
     <message>
         <location filename="../../foldermenu.cpp" line="211"/>
         <source>Case Sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Чутливі до регістру</translation>
     </message>
 </context>
 <context>
@@ -746,27 +747,27 @@ Do you want to delete them instead?</source>
     <message>
         <location filename="../../foldermodel.cpp" line="248"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Назва</translation>
     </message>
     <message>
         <location filename="../../foldermodel.cpp" line="251"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Тип</translation>
     </message>
     <message>
         <location filename="../../foldermodel.cpp" line="254"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Розмір</translation>
     </message>
     <message>
         <location filename="../../foldermodel.cpp" line="257"/>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Змінено</translation>
     </message>
     <message>
         <location filename="../../foldermodel.cpp" line="260"/>
         <source>Owner</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Власник</translation>
     </message>
 </context>
 <context>
@@ -774,12 +775,12 @@ Do you want to delete them instead?</source>
     <message>
         <location filename="../../fontbutton.cpp" line="46"/>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Жирний</translation>
     </message>
     <message>
         <location filename="../../fontbutton.cpp" line="50"/>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Курсив</translation>
     </message>
 </context>
 <context>
@@ -787,7 +788,7 @@ Do you want to delete them instead?</source>
     <message>
         <location filename="../../mountoperationpassworddialog.cpp" line="40"/>
         <source>&amp;Connect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;З&apos;єднання</translation>
     </message>
 </context>
 <context>
@@ -795,42 +796,42 @@ Do you want to delete them instead?</source>
     <message>
         <location filename="../../placesmodel.cpp" line="41"/>
         <source>Places</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Місця</translation>
     </message>
     <message>
         <location filename="../../placesmodel.cpp" line="49"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Стільниця</translation>
     </message>
     <message>
         <location filename="../../placesmodel.cpp" line="58"/>
         <source>Computer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Комп&apos;ютер</translation>
     </message>
     <message>
         <location filename="../../placesmodel.cpp" line="71"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Програми</translation>
     </message>
     <message>
         <location filename="../../placesmodel.cpp" line="83"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сітка</translation>
     </message>
     <message>
         <location filename="../../placesmodel.cpp" line="91"/>
         <source>Devices</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пристрої</translation>
     </message>
     <message>
         <location filename="../../placesmodel.cpp" line="144"/>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Закладки</translation>
     </message>
     <message>
         <location filename="../../placesmodel.cpp" line="245"/>
         <source>Trash</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Смітник</translation>
     </message>
 </context>
 <context>
@@ -838,53 +839,53 @@ Do you want to delete them instead?</source>
     <message>
         <location filename="../../placesview.cpp" line="350"/>
         <source>Open in New Tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Відкрити в новій вкладці</translation>
     </message>
     <message>
         <location filename="../../placesview.cpp" line="353"/>
         <source>Open in New Window</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Відкрити в новому вікні</translation>
     </message>
     <message>
         <location filename="../../placesview.cpp" line="362"/>
         <source>Empty Trash</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Спорожнити смітник</translation>
     </message>
     <message>
         <location filename="../../placesview.cpp" line="371"/>
         <source>Move Bookmark Up</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Перенести закладку вгору</translation>
     </message>
     <message>
         <location filename="../../placesview.cpp" line="376"/>
         <source>Move Bookmark Down</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Перенести закладку вниз</translation>
     </message>
     <message>
         <location filename="../../placesview.cpp" line="380"/>
         <source>Rename Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Перейменувати закладку</translation>
     </message>
     <message>
         <location filename="../../placesview.cpp" line="383"/>
         <source>Remove Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вилучити закладку</translation>
     </message>
     <message>
         <location filename="../../placesview.cpp" line="392"/>
         <location filename="../../placesview.cpp" line="409"/>
         <source>Unmount</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Відмонтувати</translation>
     </message>
     <message>
         <location filename="../../placesview.cpp" line="396"/>
         <source>Mount</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Змонтувати</translation>
     </message>
     <message>
         <location filename="../../placesview.cpp" line="402"/>
         <source>Eject</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Витягнути</translation>
     </message>
 </context>
 <context>
@@ -895,24 +896,27 @@ Do you want to delete them instead?</source>
         <source>Type: %1
 Size: %2
 Modified: %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Тип: %1
+Розмір: %2
+Змінено: %3</translation>
     </message>
     <message>
         <location filename="../../renamedialog.cpp" line="56"/>
         <location filename="../../renamedialog.cpp" line="75"/>
         <source>Type: %1
 Modified: %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Тип: %1
+Змінено: %2</translation>
     </message>
     <message>
         <location filename="../../renamedialog.cpp" line="89"/>
         <source>&amp;Overwrite</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пе&amp;резаписати</translation>
     </message>
     <message>
         <location filename="../../renamedialog.cpp" line="91"/>
         <source>&amp;Rename</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пер&amp;ейменувати</translation>
     </message>
 </context>
 <context>
@@ -921,23 +925,23 @@ Modified: %2</source>
         <location filename="../../sidepane.cpp" line="47"/>
         <location filename="../../sidepane.cpp" line="127"/>
         <source>Places</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Місця</translation>
     </message>
     <message>
         <location filename="../../sidepane.cpp" line="48"/>
         <location filename="../../sidepane.cpp" line="129"/>
         <source>Directory Tree</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Дерево тек</translation>
     </message>
     <message>
         <location filename="../../sidepane.cpp" line="137"/>
         <source>Shows list of common places, devices, and bookmarks in sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Показати список місць, пристроїв і закладок в бічній панелі</translation>
     </message>
     <message>
         <location filename="../../sidepane.cpp" line="139"/>
         <source>Shows tree of directories in sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Показати дерево тек в бічній панелі</translation>
     </message>
 </context>
 <context>
@@ -945,47 +949,47 @@ Modified: %2</source>
     <message>
         <location filename="../../mount-operation-password.ui" line="20"/>
         <source>Mount</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Монтування</translation>
     </message>
     <message>
         <location filename="../../mount-operation-password.ui" line="48"/>
         <source>Connect &amp;anonymously</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">З&apos;єднати &amp;анонімно</translation>
     </message>
     <message>
         <location filename="../../mount-operation-password.ui" line="58"/>
         <source>Connect as u&amp;ser:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">З&apos;єднати як к&amp;ористувач:</translation>
     </message>
     <message>
         <location filename="../../mount-operation-password.ui" line="79"/>
         <source>&amp;Username:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Користувач:</translation>
     </message>
     <message>
         <location filename="../../mount-operation-password.ui" line="102"/>
         <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Пароль:</translation>
     </message>
     <message>
         <location filename="../../mount-operation-password.ui" line="112"/>
         <source>&amp;Domain:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Домен:</translation>
     </message>
     <message>
         <location filename="../../mount-operation-password.ui" line="127"/>
         <source>Forget password &amp;immediately</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Забути пароль &amp;відразу</translation>
     </message>
     <message>
         <location filename="../../mount-operation-password.ui" line="137"/>
         <source>Remember password until you &amp;logout</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пам&apos;ятати пароль до ви&amp;ходу</translation>
     </message>
     <message>
         <location filename="../../mount-operation-password.ui" line="147"/>
         <source>Remember &amp;forever</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Запам&apos;ятати назав&amp;жди</translation>
     </message>
 </context>
 <context>
@@ -993,12 +997,12 @@ Modified: %2</source>
     <message>
         <location filename="../../utilities.cpp" line="120"/>
         <source>Rename File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Перейменувати файл</translation>
     </message>
     <message>
         <location filename="../../utilities.cpp" line="121"/>
         <source>Please enter a new name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Будь ласка, введіть нову назву:</translation>
     </message>
     <message>
         <location filename="../../utilities.cpp" line="149"/>
@@ -1007,42 +1011,42 @@ Modified: %2</source>
         <location filename="../../filepropsdialog.cpp" line="450"/>
         <location filename="../../filelauncher.cpp" line="117"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Помилка</translation>
     </message>
     <message>
         <location filename="../../utilities.cpp" line="161"/>
         <source>Create Folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Створити теку</translation>
     </message>
     <message>
         <location filename="../../utilities.cpp" line="162"/>
         <source>Create File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Створити файл</translation>
     </message>
     <message>
         <location filename="../../utilities.cpp" line="166"/>
         <source>Please enter a new file name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Будь ласка, введіть назву нового файлу:</translation>
     </message>
     <message>
         <location filename="../../utilities.cpp" line="167"/>
         <source>New text file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Новий текстовий файл</translation>
     </message>
     <message>
         <location filename="../../utilities.cpp" line="171"/>
         <source>Please enter a new folder name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Будь ласка, введіть нову назву теки:</translation>
     </message>
     <message>
         <location filename="../../utilities.cpp" line="172"/>
         <source>New folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Нова тека</translation>
     </message>
     <message>
         <location filename="../../utilities.cpp" line="177"/>
         <source>Enter a name for the new %1:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Введіть назву для нової %1:</translation>
     </message>
 </context>
 <context>
@@ -1050,47 +1054,47 @@ Modified: %2</source>
     <message>
         <location filename="../../rename-dialog.ui" line="14"/>
         <source>Confirm to replace files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Підтвердіть заміщення файлів</translation>
     </message>
     <message>
         <location filename="../../rename-dialog.ui" line="35"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;There is already a file with the same name in this location.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Do you want to replace the existing file?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Ту вже є файл з такою самою назвою в тому місці.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Ви бажаєте замістити існуючий файл?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../rename-dialog.ui" line="56"/>
         <source>dest</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">призн</translation>
     </message>
     <message>
         <location filename="../../rename-dialog.ui" line="63"/>
         <source>with the following file?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">наступним файлом?</translation>
     </message>
     <message>
         <location filename="../../rename-dialog.ui" line="76"/>
         <source>src file info</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">інф про джер файл</translation>
     </message>
     <message>
         <location filename="../../rename-dialog.ui" line="89"/>
         <source>dest file info</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">інф про файл призн</translation>
     </message>
     <message>
         <location filename="../../rename-dialog.ui" line="102"/>
         <source>src</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">джер</translation>
     </message>
     <message>
         <location filename="../../rename-dialog.ui" line="122"/>
         <source>&amp;File name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Назва файлу:</translation>
     </message>
     <message>
         <location filename="../../rename-dialog.ui" line="137"/>
         <source>Apply this option to all existing files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Застосувати цей параметр до всіх існуючих файлів</translation>
     </message>
 </context>
 <context>
@@ -1098,176 +1102,176 @@ Modified: %2</source>
     <message>
         <location filename="../../filesearch.ui" line="14"/>
         <source>Search Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пошук файлів</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="29"/>
         <source>Name/Location</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Назва/Місце</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="35"/>
         <source>File Name Patterns:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Шаблони назв файлів:</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="41"/>
         <source>*</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">*</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="48"/>
         <source>Case insensitive</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Чутливість до регістру</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="55"/>
         <source>Use regular expression</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Використовувати регулярні фрази</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="65"/>
         <source>Places to Search:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Місця для пошуку:</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="78"/>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Додати</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="90"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Вилучити</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="119"/>
         <source>Search in sub directories</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пошук в підтеках</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="126"/>
         <source>Search for hidden files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пошук прихованих файлів</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="137"/>
         <source>File Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Тип файлу</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="143"/>
         <source>Only search for files of following types:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пошук файлів тільки наступних типів:</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="149"/>
         <source>Text files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Текстові файли</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="156"/>
         <source>Image files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Файли малюнків</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="163"/>
         <source>Audio files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Аудіо файли</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="170"/>
         <source>Video files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Відео файли</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="177"/>
         <source>Documents</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Документи</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="184"/>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Теки</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="208"/>
         <source>Content</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вміст</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="214"/>
         <source>File contains:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Файл містить:</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="223"/>
         <source>Case insensiti&amp;ve</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Нечутливість до ре&amp;гістру</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="230"/>
         <source>&amp;Use regular expression</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Використовувати регулярні вирази</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="254"/>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Властивості</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="260"/>
         <source>File Size:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Розмір файлу:</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="289"/>
         <source>Larger than:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Більший ніж:</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="303"/>
         <location filename="../../filesearch.ui" line="333"/>
         <source>Bytes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Байти</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="308"/>
         <location filename="../../filesearch.ui" line="338"/>
         <source>KiB</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">КіБ</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="313"/>
         <location filename="../../filesearch.ui" line="343"/>
         <source>MiB</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">МіБ</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="318"/>
         <location filename="../../filesearch.ui" line="348"/>
         <source>GiB</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ГіБ</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="268"/>
         <source>Smaller than:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Менший ніж:</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="364"/>
         <source>Last Modified Time:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Час останньої зміни:</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="372"/>
         <source>Earlier than:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Раніше ніж:</translation>
     </message>
     <message>
         <location filename="../../filesearch.ui" line="379"/>
         <source>Later than:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пізніше ніж:</translation>
     </message>
 </context>
 </TS>
