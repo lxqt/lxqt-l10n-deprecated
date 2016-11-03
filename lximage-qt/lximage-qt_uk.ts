@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="uk">
+<TS version="2.0" language="uk">
 <context>
     <name>LxImage::Application</name>
     <message>
@@ -76,24 +76,24 @@ Hong Jen Yee (PCMan) &lt;pcman.tw@gmail.com&gt;</translation>
     </message>
     <message>
         <source>%1 (Loading...) - Image Viewer</source>
-        <translation type="vanished">%1 (Завантаження...) - Переглядач зображень</translation>
+        <translation>%1 (Завантаження...) - Переглядач зображень</translation>
     </message>
     <message>
         <source>%1 (Failed to Load) - Image Viewer</source>
-        <translation type="vanished">%1 (Невдача завантаження) - Переглядач зображень</translation>
+        <translation>%1 (Невдача завантаження) - Переглядач зображень</translation>
     </message>
     <message>
         <source>%1 (%2x%3) - Image Viewer</source>
-        <translation type="vanished">%1 (%2x%3) - Переглядач зображень</translation>
+        <translation>%1 (%2x%3) - Переглядач зображень</translation>
     </message>
     <message>
         <source>Image Viewer</source>
-        <translation type="vanished">Переглядач зображень</translation>
+        <translation>Переглядач зображень</translation>
     </message>
     <message>
         <location filename="../../mainwindow.cpp" line="819"/>
         <source>Thumbnails</source>
-        <translation>Мініатюри</translation>
+        <translation>Значки</translation>
     </message>
 </context>
 <context>
@@ -181,7 +181,7 @@ Hong Jen Yee (PCMan) &lt;pcman.tw@gmail.com&gt;</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="vanished">Праворуч</translation>
+        <translation>Праворуч</translation>
     </message>
     <message>
         <location filename="../../mainwindow.ui" line="273"/>
@@ -191,7 +191,7 @@ Hong Jen Yee (PCMan) &lt;pcman.tw@gmail.com&gt;</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="vanished">Ліворуч</translation>
+        <translation>Ліворуч</translation>
     </message>
     <message>
         <location filename="../../mainwindow.ui" line="263"/>
@@ -316,7 +316,7 @@ Hong Jen Yee (PCMan) &lt;pcman.tw@gmail.com&gt;</translation>
     <message>
         <location filename="../../mainwindow.ui" line="446"/>
         <source>Show Thumbnails</source>
-        <translation>Показати мініатюри</translation>
+        <translation>Показати значки</translation>
     </message>
     <message>
         <location filename="../../mainwindow.ui" line="451"/>
@@ -368,7 +368,7 @@ Hong Jen Yee (PCMan) &lt;pcman.tw@gmail.com&gt;</translation>
     <message>
         <location filename="../../preferencesdialog.ui" line="33"/>
         <source>Icon theme:</source>
-        <translation>Тема мініатюр:</translation>
+        <translation>Тема значків:</translation>
     </message>
     <message>
         <location filename="../../preferencesdialog.ui" line="43"/>
@@ -392,15 +392,15 @@ Hong Jen Yee (PCMan) &lt;pcman.tw@gmail.com&gt;</translation>
     </message>
     <message>
         <source>TODO: Add configuration options here</source>
-        <translation type="vanished">Далі буде...</translation>
+        <translation>На майбутнє: Додати тут опції налаштування</translation>
     </message>
     <message>
         <source>Tab 1</source>
-        <translation type="vanished">Вкладка 1</translation>
+        <translation>Вкладка 1</translation>
     </message>
     <message>
         <source>Tab 2</source>
-        <translation type="vanished">Вкладка 2</translation>
+        <translation>Вкладка 2</translation>
     </message>
 </context>
 <context>
