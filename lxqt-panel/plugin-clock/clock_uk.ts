@@ -6,7 +6,7 @@
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="49"/>
         <source>&lt;locale based&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;базується на локалі&gt;</translation>
     </message>
 </context>
 <context>
@@ -18,7 +18,7 @@
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="14"/>
         <source>Clock Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Налаштування годинника</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="20"/>
@@ -38,47 +38,47 @@
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="40"/>
         <source>&amp;Use UTC</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Використати UTC</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="59"/>
         <source>Date &amp;format</source>
-        <translation type="unfinished"></translation>
+        <translation>Формат д&amp;ати</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="76"/>
         <source>&amp;Do not show date</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Не показувати дату</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="86"/>
         <source>Show date &amp;before time</source>
-        <translation type="unfinished"></translation>
+        <translation>Показувати дату &amp;перед часом</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="93"/>
         <source>Show date &amp;after time</source>
-        <translation type="unfinished"></translation>
+        <translation>Показувати дату пі&amp;сля часу</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="100"/>
         <source>Show date below time on new &amp;line</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати дату під часом в новій &amp;лінійці </translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="107"/>
         <source>First day of week in calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Перший день тижна в календарі</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="124"/>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Орієнтація</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="130"/>
         <source>Auto&amp;rotate when the panel is vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоповертання коли панель є вертикальна</translation>
     </message>
     <message>
         <source>&amp;Font</source>
@@ -152,7 +152,7 @@
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
         <source>Input custom date format</source>
-        <translation type="unfinished"></translation>
+        <translation>Введіть власний формат дати</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
@@ -175,7 +175,25 @@ will also be treated as text and not be used as an expression.
 
 
 Custom date format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Розпізнавальні комбінації формату дати є наступні:
+
+d	день числом без нуля (1 to 31)
+dd	день числом з нулем (01 to 31)
+ddd	абревіатура локалізованої назви дня (наприклад &apos;Пон&apos; до &apos;Нед&apos;).
+dddd	довга локалізована назва дня (наприклад &apos;Понеділок&apos; до &apos;Неділя&apos;).
+M	місяць числом без нуля (1-12)
+MM	місяць числом з нулем (01-12)
+MMM	абревіатура локалізованої назви місяця (наприклад &apos;Січ&apos; до &apos;Груд&apos;).
+MMMM	довга локалізована назва місяця (наприклад &apos;Січень&apos; до &apos;Грудень&apos;).
+yy	рік двома цифрами (00-99)
+yyyy	рік чотирма цифрами
+
+Всі інші вхідні символи трактуються як текст.
+Всі комбінації символів, що поміщені в одинарні лапки (&apos;)
+будуть теж трактуватися як текст і не будуть використовуватися у виразі.
+
+
+Власний формат дати:</translation>
     </message>
 </context>
 </TS>
