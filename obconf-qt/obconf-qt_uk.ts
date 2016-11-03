@@ -123,7 +123,7 @@
         <location filename="../../../build/src/ui_obconf.h" line="1144"/>
         <location filename="../../../build/src/ui_obconf.h" line="1146"/>
         <source>px</source>
-        <translation>пікселів</translation>
+        <translation>пт</translation>
     </message>
     <message>
         <location filename="../../../build/src/ui_obconf.h" line="1141"/>

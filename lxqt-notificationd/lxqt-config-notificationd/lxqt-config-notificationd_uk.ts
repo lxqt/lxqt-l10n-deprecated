@@ -17,7 +17,7 @@
         <location filename="../../../advancedsettings.ui" line="32"/>
         <location filename="../../../advancedsettings.ui" line="56"/>
         <source> px</source>
-        <translation> пікселі</translation>
+        <translation> пт</translation>
     </message>
     <message>
         <location filename="../../../advancedsettings.ui" line="49"/>

@@ -152,7 +152,7 @@
         <location filename="../../../config/configpanelwidget.ui" line="109"/>
         <location filename="../../../config/configpanelwidget.ui" line="153"/>
         <source> px</source>
-        <translation> пікселі</translation>
+        <translation> пт</translation>
     </message>
     <message>
         <location filename="../../../config/configpanelwidget.ui" line="166"/>
@@ -167,7 +167,7 @@
     <message>
         <location filename="../../../config/configpanelwidget.ui" line="68"/>
         <source>&lt;p&gt;Negative pixel value sets the panel length to that many pixels less than available screen space.&lt;/p&gt;&lt;p/&gt;&lt;p&gt;&lt;i&gt;E.g. &quot;Length&quot; set to -100px, screen size is 1000px, then real panel length will be 900 px.&lt;/i&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Негативне значення пікселів встановить розмір панелі менший за доступний достпний розмір екрану.&lt;/p&gt;&lt;p/&gt;&lt;p&gt;&lt;i&gt;Наприклад &quot;Довжина&quot; встановлена на -100пікселів, розмір екрану є 1000пікселів, тоді дійсний розмір панелі буде 900 пікселів.&lt;/i&gt;&lt;/p</translation>
+        <translation>&lt;p&gt;Негативне значення пунктів встановить розмір панелі менший за доступний розмір екрану.&lt;/p&gt;&lt;p/&gt;&lt;p&gt;&lt;i&gt;Наприклад &quot;Довжина&quot; встановлена на -100пікселів, розмір екрану є 1000пікселів, тоді дійсний розмір панелі буде 900 пікселів.&lt;/i&gt;&lt;/p</translation>
     </message>
     <message>
         <location filename="../../../config/configpanelwidget.ui" line="96"/>
@@ -177,7 +177,7 @@
     <message>
         <location filename="../../../config/configpanelwidget.ui" line="101"/>
         <source>px</source>
-        <translation>пікселі</translation>
+        <translation>пт</translation>
     </message>
     <message>
         <location filename="../../../config/configpanelwidget.ui" line="173"/>
