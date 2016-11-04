@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="uk">
+<TS version="2.1" language="uk">
 <context>
     <name>BookmarksWidget</name>
     <message>
@@ -270,17 +270,17 @@
     <message>
         <location filename="../src/mainwindow.cpp" line="578"/>
         <source>Do not ask again</source>
-        <translation type="unfinished"></translation>
+        <translation>Не запитувати знову</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="586"/>
         <source>Are you sure you want to exit?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви дійсно бажаєте вийти?</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="610"/>
         <source>A lightweight multiplatform terminal emulator</source>
-        <translation type="unfinished"></translation>
+        <translation>Легкий багатоплатформний емулятор терміналу</translation>
     </message>
 </context>
 <context>
@@ -602,12 +602,12 @@
     <message>
         <location filename="../src/bookmarkswidget.cpp" line="110"/>
         <source>Local Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Локальні закладки</translation>
     </message>
     <message>
         <location filename="../src/bookmarkswidget.cpp" line="167"/>
         <source>Synchronized Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Синхронізовані закладки</translation>
     </message>
 </context>
 <context>
@@ -616,22 +616,22 @@
         <location filename="../src/tabwidget.cpp" line="70"/>
         <location filename="../src/tabwidget.cpp" line="201"/>
         <source>Shell No. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Shell №. %1</translation>
     </message>
     <message>
         <location filename="../src/tabwidget.cpp" line="178"/>
         <source>Tab name</source>
-        <translation type="unfinished"></translation>
+        <translation>Назва вкладки</translation>
     </message>
     <message>
         <location filename="../src/tabwidget.cpp" line="179"/>
         <source>New tab name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Назва нової вкладки:</translation>
     </message>
     <message>
         <location filename="../src/tabwidget.cpp" line="210"/>
         <source>Close session</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрити сесію</translation>
     </message>
 </context>
 <context>
@@ -639,12 +639,12 @@
     <message>
         <location filename="../src/termwidgetholder.cpp" line="64"/>
         <source>Load Session</source>
-        <translation type="unfinished"></translation>
+        <translation>Заантажити сесію</translation>
     </message>
     <message>
         <location filename="../src/termwidgetholder.cpp" line="65"/>
         <source>List of saved sessions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Список збережених сесій:</translation>
     </message>
 </context>
 <context>
@@ -652,52 +652,52 @@
     <message>
         <location filename="../src/forms/qterminal.ui" line="14"/>
         <source>MainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation>Головне Вікно</translation>
     </message>
     <message>
         <location filename="../src/forms/qterminal.ui" line="71"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Файл</translation>
     </message>
     <message>
         <location filename="../src/forms/qterminal.ui" line="79"/>
         <source>&amp;Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Дія</translation>
     </message>
     <message>
         <location filename="../src/forms/qterminal.ui" line="84"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Допомога</translation>
     </message>
     <message>
         <location filename="../src/forms/qterminal.ui" line="91"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Вигляд</translation>
     </message>
     <message>
         <location filename="../src/forms/qterminal.ui" line="96"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Редагувати</translation>
     </message>
     <message>
         <location filename="../src/forms/qterminal.ui" line="112"/>
         <source>&amp;About...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Про...</translation>
     </message>
     <message>
         <location filename="../src/forms/qterminal.ui" line="117"/>
         <source>About &amp;Qt...</source>
-        <translation type="unfinished"></translation>
+        <translation>Про &amp;Qt...</translation>
     </message>
     <message>
         <location filename="../src/forms/qterminal.ui" line="122"/>
         <source>&amp;Preferences...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Параметри...</translation>
     </message>
     <message>
         <location filename="../src/forms/qterminal.ui" line="132"/>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Закінчити</translation>
     </message>
 </context>
 </TS>

@@ -397,7 +397,7 @@ A space is also reserved for 3 lines of text.</source>
     <message>
         <location filename="../../main-win.ui" line="402"/>
         <source>&amp;Icon View</source>
-        <translation>&amp;Вигляд значків</translation>
+        <translation>&amp;Вигляд значками</translation>
     </message>
     <message>
         <location filename="../../main-win.ui" line="410"/>
@@ -407,7 +407,7 @@ A space is also reserved for 3 lines of text.</source>
     <message>
         <location filename="../../main-win.ui" line="418"/>
         <source>&amp;Detailed List</source>
-        <translation>&amp;Детальний вигляд</translation>
+        <translation>&amp;Детальний список</translation>
     </message>
     <message>
         <location filename="../../main-win.ui" line="426"/>
@@ -926,43 +926,43 @@ A space is also reserved for 3 lines of text.</source>
     <message>
         <location filename="../../mainwindow.cpp" line="248"/>
         <source>Clear text (Ctrl+K)</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистити текст (Ctrl+K)</translation>
     </message>
     <message>
         <location filename="../../mainwindow.cpp" line="310"/>
         <source>Hide menu bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Приховати панель меню</translation>
     </message>
     <message>
         <location filename="../../mainwindow.cpp" line="311"/>
         <source>This will hide the menu bar completely, use Ctrl+M to show it again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Це приховає панель меню повністю, скористайтесь з Ctrl+M для показу панелі меню знову.</translation>
     </message>
     <message>
         <location filename="../../mainwindow.cpp" line="557"/>
         <source>Version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Версія: %1</translation>
     </message>
     <message>
         <location filename="../../mainwindow.cpp" line="1062"/>
         <source>&amp;Move to Trash</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Перемістити до смітника</translation>
     </message>
     <message>
         <location filename="../../mainwindow.cpp" line="1062"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Вилучити</translation>
     </message>
     <message>
         <location filename="../../mainwindow.cpp" line="1131"/>
         <location filename="../../mainwindow.cpp" line="1142"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../../mainwindow.cpp" line="1142"/>
         <source>Switch user command is not set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Команда пемикання користувачів не встановлена.</translation>
     </message>
 </context>
 <context>
@@ -970,22 +970,22 @@ A space is also reserved for 3 lines of text.</source>
     <message>
         <location filename="../../preferencesdialog.cpp" line="189"/>
         <source>Icon View</source>
-        <translation type="unfinished"></translation>
+        <translation>Вигляд значками</translation>
     </message>
     <message>
         <location filename="../../preferencesdialog.cpp" line="190"/>
         <source>Compact View</source>
-        <translation type="unfinished"></translation>
+        <translation>Компактний вигляд</translation>
     </message>
     <message>
         <location filename="../../preferencesdialog.cpp" line="191"/>
         <source>Thumbnail View</source>
-        <translation type="unfinished"></translation>
+        <translation>Вигляд мініатюрами</translation>
     </message>
     <message>
         <location filename="../../preferencesdialog.cpp" line="192"/>
         <source>Detailed List View</source>
-        <translation type="unfinished"></translation>
+        <translation>Детальний вигляд списком</translation>
     </message>
 </context>
 <context>
@@ -993,35 +993,35 @@ A space is also reserved for 3 lines of text.</source>
     <message>
         <location filename="../../tabpage.cpp" line="256"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../../tabpage.cpp" line="269"/>
         <source>Free space: %1 (Total: %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Вільний простір: %1 (Повністю: %2)</translation>
     </message>
     <message numerus="yes">
         <location filename="../../tabpage.cpp" line="284"/>
         <source>%n item(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n пункт</numerusform>
+            <numerusform>%n пунктів</numerusform>
+            <numerusform>%n пунктів</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../../tabpage.cpp" line="286"/>
         <source> (%n hidden)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform> (%n прихований)</numerusform>
+            <numerusform> (%n приховано)</numerusform>
+            <numerusform> (%n приховані)</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../../tabpage.cpp" line="437"/>
         <source>%1 item(s) selected</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 пункт(ів) вибрано</translation>
     </message>
 </context>
 <context>
@@ -1029,17 +1029,17 @@ A space is also reserved for 3 lines of text.</source>
     <message>
         <location filename="../../view.cpp" line="102"/>
         <source>Open in New T&amp;ab</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити в новій &amp;вкладці</translation>
     </message>
     <message>
         <location filename="../../view.cpp" line="106"/>
         <source>Open in New Win&amp;dow</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити в новому ві&amp;кні</translation>
     </message>
     <message>
         <location filename="../../view.cpp" line="115"/>
         <source>Open in Termina&amp;l</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити в &amp;терміналі</translation>
     </message>
 </context>
 <context>
@@ -1047,103 +1047,103 @@ A space is also reserved for 3 lines of text.</source>
     <message>
         <location filename="../../preferences.ui" line="14"/>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="45"/>
         <source>User Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Інтерфейс користувача</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="35"/>
         <source>Behavior</source>
-        <translation type="unfinished"></translation>
+        <translation>Поведінка</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="50"/>
         <location filename="../../preferences.ui" line="643"/>
         <source>Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Мініатюра</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="55"/>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Гучність</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="60"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Більше</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="220"/>
         <source>Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Значки</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="252"/>
         <source>Size of big icons:</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір великих значків:</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="269"/>
         <source>Size of small icons:</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір малих значків:</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="286"/>
         <source>Size of thumbnails:</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір мініатюр:</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="300"/>
         <source>Size of side pane icons:</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір значків бічної панелі:</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="232"/>
         <source>Icon theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Тема значка:</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="456"/>
         <source>Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Вікно</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="469"/>
         <source>Always show the tab bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Завжди показувати панель вкладок</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="487"/>
         <source>Show &apos;Close&apos; buttons on tabs	</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати кнопку &apos;Закрити&apos; на вкладках</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="494"/>
         <source>Remember the size of the last closed window</source>
-        <translation type="unfinished"></translation>
+        <translation>Пам&apos;ятати розмір останнього закритого вікна</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="501"/>
         <source>Default width of new windows:</source>
-        <translation type="unfinished"></translation>
+        <translation>Типовий розмір нових вікон:</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="515"/>
         <source>Default height of new windows:</source>
-        <translation type="unfinished"></translation>
+        <translation>Типова висота нових вікон:</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="81"/>
         <source>Browsing</source>
-        <translation type="unfinished"></translation>
+        <translation>Перегляд</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="90"/>
         <source>Open files with single click</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкривати файли одинарним клацанням</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="100"/>
