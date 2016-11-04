@@ -56,7 +56,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.</source>
-        <translation type="unfinished">Файл менеджер PCMan
+        <translation type="unfinished">Менеджер файлів PCMan
 
 Всі права застережено (C) 2009 - 2014 洪任諭 (Hong Jen Yee)
 
@@ -767,99 +767,99 @@ A space is also reserved for 3 lines of text.</source>
     <message>
         <location filename="../../application.cpp" line="165"/>
         <source>Name of configuration profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Назва профілю налаштування</translation>
     </message>
     <message>
         <location filename="../../application.cpp" line="165"/>
         <source>PROFILE</source>
-        <translation type="unfinished"></translation>
+        <translation>ПРОФІЛЬ</translation>
     </message>
     <message>
         <location filename="../../application.cpp" line="168"/>
         <source>Run PCManFM as a daemon</source>
-        <translation type="unfinished"></translation>
+        <translation>Запустити PCManFM як демон</translation>
     </message>
     <message>
         <location filename="../../application.cpp" line="171"/>
         <source>Quit PCManFM</source>
-        <translation type="unfinished"></translation>
+        <translation>Завершити PCManFM </translation>
     </message>
     <message>
         <location filename="../../application.cpp" line="174"/>
         <source>Launch desktop manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Запустити менеджер стільниці</translation>
     </message>
     <message>
         <location filename="../../application.cpp" line="177"/>
         <source>Turn off desktop manager if it&apos;s running</source>
-        <translation type="unfinished"></translation>
+        <translation>Вимкнути менеджер стільниці, якщо він запущений</translation>
     </message>
     <message>
         <location filename="../../application.cpp" line="180"/>
         <source>Open desktop preference dialog on the page with the specified name</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити діалог налаштування стільниці на сторінці з вказаною назвою</translation>
     </message>
     <message>
         <location filename="../../application.cpp" line="180"/>
         <location filename="../../application.cpp" line="195"/>
         <source>NAME</source>
-        <translation type="unfinished"></translation>
+        <translation>НАЗВА</translation>
     </message>
     <message>
         <location filename="../../application.cpp" line="183"/>
         <source>Open new window</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити нове вікно</translation>
     </message>
     <message>
         <location filename="../../application.cpp" line="186"/>
         <source>Open Find Files utility</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити інструмент пошуку файлів</translation>
     </message>
     <message>
         <location filename="../../application.cpp" line="189"/>
         <source>Set desktop wallpaper from image FILE</source>
-        <translation type="unfinished"></translation>
+        <translation>Встановити тло стільниці з ФАЙЛУ малюнку</translation>
     </message>
     <message>
         <location filename="../../application.cpp" line="189"/>
         <source>FILE</source>
-        <translation type="unfinished"></translation>
+        <translation>ФАЙЛ</translation>
     </message>
     <message>
         <location filename="../../application.cpp" line="192"/>
         <source>MODE</source>
-        <translation type="unfinished"></translation>
+        <translation>РЕЖИМ</translation>
     </message>
     <message>
         <location filename="../../application.cpp" line="192"/>
         <source>Set mode of desktop wallpaper. MODE=(%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Встановити режим тла стільниці. РЕЖИМ=(%1)</translation>
     </message>
     <message>
         <location filename="../../application.cpp" line="195"/>
         <source>Open Preferences dialog on the page with the specified name</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити діалог налаштування на сторінці з вказаною назвою</translation>
     </message>
     <message>
         <location filename="../../application.cpp" line="198"/>
         <source>Files or directories to open</source>
-        <translation type="unfinished"></translation>
+        <translation>Файли або теки для відкриття</translation>
     </message>
     <message>
         <location filename="../../application.cpp" line="198"/>
         <source>[FILE1, FILE2,...]</source>
-        <translation type="unfinished"></translation>
+        <translation>[ФАЙЛ1, ФАЙЛ2,...]</translation>
     </message>
     <message>
         <location filename="../../application.cpp" line="502"/>
         <location filename="../../application.cpp" line="509"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="../../application.cpp" line="509"/>
         <source>Terminal emulator is not set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Емулятор терміналу не встановлений.</translation>
     </message>
 </context>
 <context>
@@ -880,32 +880,32 @@ A space is also reserved for 3 lines of text.</source>
     <message>
         <location filename="../../desktoppreferencesdialog.cpp" line="52"/>
         <source>Fill with background color only</source>
-        <translation type="unfinished"></translation>
+        <translation>Заповнити тільки кольором фону</translation>
     </message>
     <message>
         <location filename="../../desktoppreferencesdialog.cpp" line="53"/>
         <source>Stretch to fill the entire screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Розтягнути для заповнення цілого екрану</translation>
     </message>
     <message>
         <location filename="../../desktoppreferencesdialog.cpp" line="54"/>
         <source>Stretch to fit the screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Розтягнути для вміщення в екран</translation>
     </message>
     <message>
         <location filename="../../desktoppreferencesdialog.cpp" line="55"/>
         <source>Center on the screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Центрувати на екрані</translation>
     </message>
     <message>
         <location filename="../../desktoppreferencesdialog.cpp" line="56"/>
         <source>Tile the image to fill the entire screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмножити малюнок для заповнення всього екрану</translation>
     </message>
     <message>
         <location filename="../../desktoppreferencesdialog.cpp" line="182"/>
         <source>Image Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Файли малюнків</translation>
     </message>
 </context>
 <context>
@@ -913,12 +913,12 @@ A space is also reserved for 3 lines of text.</source>
     <message>
         <location filename="../../desktopwindow.cpp" line="369"/>
         <source>Stic&amp;k to Current Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Прип&amp;нути до поточної позиції</translation>
     </message>
     <message>
         <location filename="../../desktopwindow.cpp" line="391"/>
         <source>Desktop Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Налаштування стільниці</translation>
     </message>
 </context>
 <context>
@@ -1148,310 +1148,314 @@ A space is also reserved for 3 lines of text.</source>
     <message>
         <location filename="../../preferences.ui" line="100"/>
         <source>Delay of auto-selection in single click mode (0 to disable)</source>
-        <translation type="unfinished"></translation>
+        <translation>Затримка автовибору в режимі одинарного клацання (0 для вимкнення)</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="107"/>
         <source>Default view mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Типовий режим перегляду:</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="120"/>
         <source> sec</source>
-        <translation type="unfinished"></translation>
+        <translation> сек</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="159"/>
         <source>File Operations</source>
-        <translation type="unfinished"></translation>
+        <translation>Операції над файлами</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="165"/>
         <source>Confirm before deleting files</source>
-        <translation type="unfinished"></translation>
+        <translation>Підтвердити перед вилученням файлів</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="172"/>
         <source>Move deleted files to &quot;trash bin&quot; instead of erasing from disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перемістити вилучені файли до &quot;смітника&quot; замість витирання їх з диску.</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="676"/>
         <source>Show thumbnails of files</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати мініатюри файлів</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="666"/>
         <source>Only show thumbnails for local files</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати мініатюри тільки для локальних файлів</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="40"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Дисплей</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="130"/>
         <source>Bookmarks:</source>
-        <translation type="unfinished"></translation>
+        <translation>Закладки:</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="138"/>
         <source>Open in current tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити в поточній вкладці</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="143"/>
         <source>Open in new tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити в новій вкладці</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="148"/>
         <source>Open in new window</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити в новому вікні</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="179"/>
         <source>Erase files on removable media instead of &quot;trash can&quot; creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Витерти файли на знімному диску замість створення &quot;смітника&quot;</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="186"/>
         <source>Confirm before moving files into &quot;trash can&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Підтвердити перед перенесенням до &quot;смітника&quot;</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="193"/>
         <source>Don&apos;t ask options on launch executable file</source>
-        <translation type="unfinished"></translation>
+        <translation>Не запитувати параметри при запуску виконувального файлу</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="249"/>
         <location filename="../../preferences.ui" line="259"/>
         <source>Used by Icon View</source>
-        <translation type="unfinished"></translation>
+        <translation>Використано Переглядом значків</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="266"/>
         <location filename="../../preferences.ui" line="276"/>
         <source>Used by Compact View and Detailed List View</source>
-        <translation type="unfinished"></translation>
+        <translation>Використати Компактний перегляд або Детальний перегляд списком</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="283"/>
         <location filename="../../preferences.ui" line="293"/>
         <source>Used by Thumbnail View</source>
-        <translation type="unfinished"></translation>
+        <translation>Використано Переглядом мініатюрами</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="313"/>
         <source>User interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Інтерфейс користувача</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="326"/>
         <source>Treat backup files as hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Трактувати файли бекапу як приховані</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="336"/>
         <source>Always show full file names</source>
-        <translation type="unfinished"></translation>
+        <translation>Завжди показувати повні назви файлів</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="346"/>
         <source>Show icons of hidden files shadowed</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати значки прихованих файлів як затінені</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="369"/>
         <source>Minimum item margins in icon view:</source>
-        <translation type="unfinished"></translation>
+        <translation>Мінімальний проміжок в перегляді значками:</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="376"/>
         <source>3 px by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>3 пт типово.</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="379"/>
         <location filename="../../preferences.ui" line="403"/>
         <source> px</source>
-        <translation type="unfinished"></translation>
+        <translation>пт</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="392"/>
         <source>x</source>
-        <translation type="unfinished"></translation>
+        <translation>х</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="399"/>
         <source>3 px by default.
 A space is also reserved for 3 lines of text.</source>
-        <translation type="unfinished"></translation>
+        <translation>3 пт типово.
+Зарезервовано також область для 3 лінійок тексту. </translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="416"/>
         <source>Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>Замок</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="465"/>
         <source>When unchecked, the tab bar will be shown
 only if there are more than one tab.</source>
-        <translation type="unfinished"></translation>
+        <translation>Коли невідмічено, панель вкладок буде показано
+тільки тоді, якщо є більше ніж одна вкладка.</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="476"/>
         <source>If unchecked, the tab bar will be positioned only
 above the folder-view and not above the left pane.</source>
-        <translation type="unfinished"></translation>
+        <translation>Коли невідмічено, панель вкладок буде поміщено
+зверху над переглядом теки і не над лівою панеллю.</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="480"/>
         <source>Fullwidth tab bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Повний розмір панелі вкладок</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="532"/>
         <source>Show in places</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати в місцях</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="539"/>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Домашня тека</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="552"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Стільниця</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="565"/>
         <source>Trash can</source>
-        <translation type="unfinished"></translation>
+        <translation>Смітник</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="578"/>
         <source>Computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Комп&apos;ютер</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="591"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Програми</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="599"/>
         <source>Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Пристрої</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="607"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Мережа</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="649"/>
         <source>Do not generate thumbnails for image files exceeding this size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Не створювати мініатюри для файлів малюнків, що мають розмір більший ніж:</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="656"/>
         <source> KB</source>
-        <translation type="unfinished"></translation>
+        <translation>КБ</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="673"/>
         <source>Needs ffmpegthumbnailer</source>
-        <translation type="unfinished"></translation>
+        <translation>Потрібно ffmpegthumbnailer </translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="703"/>
         <source>Auto Mount</source>
-        <translation type="unfinished"></translation>
+        <translation>Автомонтування</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="709"/>
         <source>Mount mountable volumes automatically on program startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Монтувати розділи автоматично при старті програми</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="716"/>
         <source>Mount removable media automatically when they are inserted</source>
-        <translation type="unfinished"></translation>
+        <translation>Монтувати знімні пристрої автоматично, коли вони вставлені</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="723"/>
         <source>Show available options for removable media when they are inserted</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати доступні параметри для знімних пристроїв, коли вони вставлені</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="733"/>
         <source>When removable medium unmounted:</source>
-        <translation type="unfinished"></translation>
+        <translation>Коли знімний пристрій відмонтований:</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="739"/>
         <source>Close &amp;tab containing removable medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрити &amp;вкладку, яка містить знімний пристрій</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="746"/>
         <source>Chan&amp;ge folder in the tab to home folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Змінити &amp;теку у вкладці на домашню теку</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="773"/>
         <source>Programs</source>
-        <translation type="unfinished"></translation>
+        <translation>Програми</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="782"/>
         <source>Terminal emulator:</source>
-        <translation type="unfinished"></translation>
+        <translation>Емулятор терміналу:</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="789"/>
         <source>Switch &amp;user command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Команда &amp;перемикання користувача:</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="802"/>
         <source>Examples: &quot;xterm -e %s&quot; for terminal or &quot;gksu %s&quot; for switching user.
 %s = the command line you want to execute with terminal or su.</source>
-        <translation type="unfinished"></translation>
+        <translation>Приклади: &quot;xterm -e %s&quot; для терміналу або &quot;gksu %s&quot; для перемикання користувача.
+%s = командна стрічка, яку Ви бажаєте виконати з терміналом або su.</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="813"/>
         <source>Archiver in&amp;tegration:</source>
-        <translation type="unfinished"></translation>
+        <translation>Інтеграція з &amp;архіватором:</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="836"/>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблони</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="842"/>
         <source>Show only user defined templates in menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати тільки користувацькі шаблони в меню</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="849"/>
         <source>Show only one template for each MIME type</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати тільки шаблони для кожного типу MIME</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="856"/>
         <source>Run default application after creation from template</source>
-        <translation type="unfinished"></translation>
+        <translation>Запустити типову програму після створення з шаблону</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="319"/>
         <source>Use SI decimal prefixes instead of IEC binary prefixes</source>
-        <translation type="unfinished"></translation>
+        <translation>Використати SI десяткові префікси замість двійкових префіксів IEC</translation>
     </message>
 </context>
 </TS>

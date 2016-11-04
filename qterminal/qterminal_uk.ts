@@ -43,229 +43,229 @@
     <message>
         <location filename="../src/mainwindow.cpp" line="130"/>
         <source>Press &quot;%1&quot; to see the terminal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Натисніть &quot;%1&quot; щоб бачити термінал.</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="141"/>
         <source>&amp;Clear Current Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Очистити поточну вкладку</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="150"/>
         <source>&amp;Next Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Наступна вкладка</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="157"/>
         <source>&amp;Previous Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Попередня вкладка</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="164"/>
         <source>Move Tab &amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Пере&amp;сунути вкладку вліво</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="171"/>
         <source>Move Tab &amp;Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Пересу&amp;нути вкладку вправо</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="180"/>
         <source>Split Terminal &amp;Horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Розділити термінал &amp;горизонтально</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="187"/>
         <source>Split Terminal &amp;Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Розділити термінал &amp;вертикально</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="194"/>
         <source>&amp;Collapse Subterminal</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Закрити підтермінал</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="201"/>
         <source>N&amp;ext Subterminal</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Наступний підтермінал</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="208"/>
         <source>P&amp;revious Subterminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Попе&amp;редній підтермінал</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="218"/>
         <source>Copy &amp;Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Скопіювати вибране</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="225"/>
         <source>Paste Clip&amp;board</source>
-        <translation type="unfinished"></translation>
+        <translation>В&amp;ставити з буферу</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="232"/>
         <source>Paste S&amp;election</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Вкласти вибране</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="239"/>
         <source>Zoom &amp;in</source>
-        <translation type="unfinished"></translation>
+        <translation>Збі&amp;льшити</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="246"/>
         <source>Zoom &amp;out</source>
-        <translation type="unfinished"></translation>
+        <translation>Зме&amp;ншити</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="253"/>
         <source>Zoom rese&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>Відмінити з&amp;міну</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="262"/>
         <source>&amp;Find...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Знайти...</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="274"/>
         <source>&amp;Save Session</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Зберегти сесію</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="280"/>
         <source>&amp;Load Session</source>
-        <translation type="unfinished"></translation>
+        <translation>Заван&amp;таження сесії</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="287"/>
         <source>&amp;Toggle Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Перемикання меню</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="295"/>
         <source>Rename session</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейменувати сесію</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="314"/>
         <source>&amp;New Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Нова вкла&amp;дка</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="321"/>
         <source>New Tab From &amp;Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Нова ти&amp;пова вкладка</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="322"/>
         <source>1 &amp;Terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>1 &amp;Термінал</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="324"/>
         <source>2 &amp;Horizontal Terminals</source>
-        <translation type="unfinished"></translation>
+        <translation>2 &amp;Горизонтальні термінали</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="326"/>
         <source>2 &amp;Vertical Terminals</source>
-        <translation type="unfinished"></translation>
+        <translation>2 &amp;Вертикальні термінали</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="328"/>
         <source>4 Terminal&amp;s</source>
-        <translation type="unfinished"></translation>
+        <translation>4 Т&amp;ермінали</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="332"/>
         <source>&amp;Close Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрити вкладк&amp;у</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="339"/>
         <source>&amp;New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Нове вікно</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="373"/>
         <source>&amp;Hide Window Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Приховати межі вікна</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="388"/>
         <source>&amp;Show Tab Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>П&amp;оказати панель вкладок</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="400"/>
         <source>Fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Повний екран</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="420"/>
         <source>&amp;Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Внизу</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="421"/>
         <source>&amp;Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Вв&amp;ерху</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="422"/>
         <location filename="../src/mainwindow.cpp" line="453"/>
         <source>&amp;Right</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Справа</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="423"/>
         <location filename="../src/mainwindow.cpp" line="454"/>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation>З&amp;ліва</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="438"/>
         <source>&amp;Tabs Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Розклад&amp;ка вкладок</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="452"/>
         <source>&amp;None</source>
-        <translation type="unfinished"></translation>
+        <translation>Нічог&amp;о</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="470"/>
         <source>S&amp;crollbar Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Розкладка про&amp;крутки</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="481"/>
         <source>&amp;BlockCursor</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Блокований курсор</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="482"/>
         <source>&amp;UnderlineCursor</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Підкреслений курсор</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="483"/>
         <source>&amp;IBeamCursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Пу&amp;льсуючий курсор</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="499"/>
         <source>&amp;Keyboard Cursor Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Форма курсору клавіатури</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="576"/>
         <source>Exit QTerminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Вийти з QTerminal</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="578"/>
@@ -288,313 +288,313 @@
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="14"/>
         <source>Terminal settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Налаштування терміналу</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="52"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Вигляд</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="57"/>
         <location filename="../src/forms/propertiesdialog.ui" line="368"/>
         <source>Behavior</source>
-        <translation type="unfinished"></translation>
+        <translation>Поведінка</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="62"/>
         <source>Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Скорочення</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="67"/>
         <source>Dropdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Розкривання</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="72"/>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Закладки</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="90"/>
         <source>Hide tab bar with only one tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Приховати панель вкладок з тільки одною вкладкою</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="100"/>
         <source>Color scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Схема кольорів</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="107"/>
         <source>Scrollbar position</source>
-        <translation type="unfinished"></translation>
+        <translation>Позиція прокрутки</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="114"/>
         <source>Start with preset:</source>
-        <translation type="unfinished"></translation>
+        <translation>Старт з типовими налаштуваннями:</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="124"/>
         <source>Show a border around the current terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати межі навколо поточного терміналу</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="134"/>
         <source>Terminal transparency</source>
-        <translation type="unfinished"></translation>
+        <translation>Прозорість терміналу</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="141"/>
         <source>Application transparency</source>
-        <translation type="unfinished"></translation>
+        <translation>Прозорість програм</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="152"/>
         <source>None (single terminal)</source>
-        <translation type="unfinished"></translation>
+        <translation>Нічого (один термінал)</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="157"/>
         <source>2 terminals horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>2 термінали горизонтально</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="162"/>
         <source>2 terminals vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>2 термінали вертикально</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="167"/>
         <source>4 terminals</source>
-        <translation type="unfinished"></translation>
+        <translation>4 термінали</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="175"/>
         <location filename="../src/forms/propertiesdialog.ui" line="259"/>
         <source> %</source>
-        <translation type="unfinished"></translation>
+        <translation> %</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="206"/>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Шрифт</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="239"/>
         <source>&amp;Change...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Змінити...</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="249"/>
         <source>Tabs position</source>
-        <translation type="unfinished"></translation>
+        <translation>Позиція вкладок</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="278"/>
         <source>Widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль віджетів</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="298"/>
         <source>Show the menu bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати панель меню</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="305"/>
         <source>Keyboard cursor shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма курсору клавіатури</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="312"/>
         <source>Change window title based on current terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Змінити назву вікна на основі поточного терміналу</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="319"/>
         <source>Change window icon based on current terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Змінити назву значка на основі поточного терміналу</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="343"/>
         <source>Emulation</source>
-        <translation type="unfinished"></translation>
+        <translation>Емуляція</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="352"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Which behavior to emulate. Note that this does not have to match your operating system.&lt;/p&gt;&lt;p&gt;The &lt;span style=&quot; font-weight:600;&quot;&gt;default&lt;/span&gt; emulation is a fallback with a minimal featureset.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Яку поведінку емулювати. Зауважте, що це не співпадає з Вашою операційною системою.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Типова&lt;/span&gt; емуляція це звичайний термінал з мінімумом функцій.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="374"/>
         <source>Action after paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Дія після вставляння</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="407"/>
         <source>Open new terminals in current working directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити нові термінали в поточній робочій теці</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="414"/>
         <source>Save Size when closing</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти розмір при закриванні</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="421"/>
         <source>Save Position when closing</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти позицію при закриванні</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="428"/>
         <source>Ask for confirmation when closing</source>
-        <translation type="unfinished"></translation>
+        <translation>Запитати про підтвердження при закриванні</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="438"/>
         <source>Unlimited history</source>
-        <translation type="unfinished"></translation>
+        <translation>Нескінченна історія</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="445"/>
         <source>History size (in lines)</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір історії (в лінійках)</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="478"/>
         <source>Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Скорочення</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="483"/>
         <source>Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Кнопка</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="495"/>
         <source>Show on start</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати на старті</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="502"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="513"/>
         <source>Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Висота</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="520"/>
         <location filename="../src/forms/propertiesdialog.ui" line="534"/>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="527"/>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="548"/>
         <source>Shortcut:</source>
-        <translation type="unfinished"></translation>
+        <translation>Скорочення:</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="577"/>
         <source>Edit bookmark file contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Редагувати вміст файлу закладки</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="599"/>
         <source>Enable bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Ввімкнути закладки</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="608"/>
         <source>Bookmark file</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл закладки</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="618"/>
         <source>Find...</source>
-        <translation type="unfinished"></translation>
+        <translation>Знайти...</translation>
     </message>
     <message>
         <location filename="../src/forms/propertiesdialog.ui" line="627"/>
         <source>You can specify your own bookmarks file location. It allows easy bookmark sharing with tools like OwnCloud or Dropbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви можете вказати Ваш власний шлях до файлу закладки. Це дозволить легко поділитися закладками за допомогою OwnCloud або Dropbox.</translation>
     </message>
     <message>
         <location filename="../src/propertiesdialog.cpp" line="61"/>
         <source>No scrollbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Нема панелі прокрутки</translation>
     </message>
     <message>
         <location filename="../src/propertiesdialog.cpp" line="61"/>
         <location filename="../src/propertiesdialog.cpp" line="67"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Зліва</translation>
     </message>
     <message>
         <location filename="../src/propertiesdialog.cpp" line="61"/>
         <location filename="../src/propertiesdialog.cpp" line="67"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Справа</translation>
     </message>
     <message>
         <location filename="../src/propertiesdialog.cpp" line="67"/>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Зверху</translation>
     </message>
     <message>
         <location filename="../src/propertiesdialog.cpp" line="67"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Знизу</translation>
     </message>
     <message>
         <location filename="../src/propertiesdialog.cpp" line="73"/>
         <source>BlockCursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Блокований курсор</translation>
     </message>
     <message>
         <location filename="../src/propertiesdialog.cpp" line="73"/>
         <source>UnderlineCursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Підкреслений курсор</translation>
     </message>
     <message>
         <location filename="../src/propertiesdialog.cpp" line="73"/>
         <source>IBeamCursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Пульсуючий курсор</translation>
     </message>
     <message>
         <location filename="../src/propertiesdialog.cpp" line="85"/>
         <source>No move</source>
-        <translation type="unfinished"></translation>
+        <translation>Без руху</translation>
     </message>
     <message>
         <location filename="../src/propertiesdialog.cpp" line="85"/>
         <source>Move start</source>
-        <translation type="unfinished"></translation>
+        <translation>Пересунути до початку</translation>
     </message>
     <message>
         <location filename="../src/propertiesdialog.cpp" line="85"/>
         <source>Move end</source>
-        <translation type="unfinished"></translation>
+        <translation>Пересунути до кінця</translation>
     </message>
     <message>
         <location filename="../src/propertiesdialog.cpp" line="90"/>
         <location filename="../src/propertiesdialog.cpp" line="148"/>
         <source>System Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Типові системні налаштування</translation>
     </message>
     <message>
         <location filename="../src/propertiesdialog.cpp" line="285"/>
         <source>Open or create bookmarks file</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити або створити файл закладки</translation>
     </message>
 </context>
 <context>
