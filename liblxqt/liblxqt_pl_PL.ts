@@ -134,12 +134,12 @@
     <message>
         <location filename="../../lxqtpowermanager.cpp" line="70"/>
         <source>LXQt Power Manager Error</source>
-        <translation type="unfinished">Błąd zarządzania energią</translation>
+        <translation>Błąd zarządzania energią</translation>
     </message>
     <message>
         <location filename="../../lxqtpowermanager.cpp" line="70"/>
         <source>Hibernate failed.</source>
-        <translation type="unfinished">Hibernacja nie powiodła się.</translation>
+        <translation>Hibernacja nie powiodła się.</translation>
     </message>
 </context>
 <context>
@@ -254,7 +254,7 @@
     <message>
         <location filename="../../lxqtscreensaver.cpp" line="77"/>
         <source>Screen Saver Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd wygaszacza ekranu</translation>
     </message>
     <message>
         <location filename="../../lxqtscreensaver.cpp" line="83"/>
