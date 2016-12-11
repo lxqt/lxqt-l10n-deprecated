@@ -1,7 +1,105 @@
 
-lxqt-l10n-0.11.0 / 2016-09-24
+lxqt-l10n-0.11.1 / 2016-12-11
 =============================
 
+  * Update zh_TW translation for pcmanfm-qt.
+  * Update zh_TW translation for libfm-qt.
+  * Update pcmanfm-qt UI strings.
+  * Update UI strings of libfm-qt.
+  * Add pt_BR translation for pcmanfm-qt.
+  * Polish translation update
+  * French: Update or improve ComptonConf, Obconf-Qt, Pavucontrol-Qt, PCManFM-Qt, QTerminal
+  * Add/update (complete) Ukrainian translation
+  * travis: Do not require more than needed
+  * Use LXQtConfigVars CMake module
+  * Update pcmanfm-qt_nl.ts
+  * lxqt-panel: Update French translations
+  * Update French translations
+  * Update Frech translations (#152)
+  * Create qterminal_nl.ts
+  * Update pavucontrol-qt_nl.ts
+  * Create obconf-qt_nl.ts
+  * Create lxqt-sudo_nl.ts
+  * Update lxqt-session_nl.ts
+  * Create lxqt-leave_nl.ts
+  * Update lxqt-config-session_nl.ts
+  * Update lxqt-runner_nl.ts
+  * Update lxqt-config-powermanagement_nl.ts
+  * Create lxqt-powermanagement_nl.ts
+  * Create lxqt-config-powermanagement_nl.ts
+  * Create lxqt-policykit-agent_nl.ts
+  * Portuguese update for lxqt-panel modules, pavucontrol-qt and pcmanfm
+  * Update french translation
+  * Create worldclock_nl.ts
+  * Update volume_nl.ts
+  * Update taskbar_nl.ts
+  * Create sysstat_nl.ts
+  * Create spacer_nl.ts
+  * Update showdesktop_nl.ts
+  * Create sensors_nl.ts
+  * Update quicklaunch_nl.ts
+  * Update networkmonitor_nl.ts
+  * Update mount_nl.ts
+  * Update mainmenu_nl.ts
+  * Create kbindicator_nl.ts
+  * Create dom_nl.ts
+  * Create directorymenu_nl.ts
+  * Update desktopswitch_nl.ts
+  * Update Russian for lxqt-powermanagement and pcmanfm-qt (#127)
+  * Update cpuload_nl.ts
+  * Update clock_nl.ts
+  * Update lxqt-panel_nl.ts (#124)
+  * Create lxqt-notificationd_nl.ts
+  * Update pcmanfm-qt_nl.ts
+  * Create lxqt-openssh-askpass_nl.ts
+  * Update lxqt-config-globalkeyshortcuts_nl.ts
+  * Update Portugese translations
+  * Create lxqt-config-notificationd_nl.ts
+  * Create lxqt-config-monitor_nl.ts
+  * Create lxqt-config_nl.ts
+  * Create lxqt-config-brightness_nl.ts
+  * Create lxqt-config-file-associations_nl.ts
+  * Update lxqt-config-input_nl.ts
+  * Create lxqt-config-locale_nl.ts
+  * Update lxqt-about_nl.ts
+  * Create lxqt-admin-time_nl.ts
+  * Create lxqt-admin-user_nl.ts
+  * Update lxqt-config-cursor_nl.ts
+  * Update lxqt-config-appearance_nl.ts
+  * lximage-qt_nl.ts
+  * Update liblxqt_nl.ts
+  * Create libfm-qt_nl.ts
+  * Fix language vs. name discrepancies
+  * build: Add automated testing
+  * Add & update Italian translation
+  * Rename Portugese translations files
+  * travis: Use lxqt-build-tools
+  * Consistency is needed
+  * fixed order of components in CMakeLists.txt
+  * Massive update for Portuguese
+  * Updated italian translations, some corrections
+  * lxqt-config: Add/Update Frech translation
+  * obconf-qt: Drop region-specific ru_RU translation
+  * obconf-qt: Update Russian translations
+  * Add initial Travis-CI config
+  * build: Include only LXQtTranslateTs
+  * Update pcmanfm-qt_nl.ts
+  * Fix broken pcmanfm-qt_nl.ts caused by lack of pleural forms.
+  * Fix file format errors in lxqt-config-input_fr.ts.
+  * Added Dutch translation for PCManFM-Qt.
+  * Add libfm-qt_ca.ts (Catalan)
+  * Add pcmanfm-qt_ca.ts (Catalan)
+  * Update pcmanfm-qt_it.ts
+  * update input config FRENCH translations
+  * install pavucontrol translations, create qterminal.ts, update qterminal_hu.ts
+  * pavucontrol-qt: Update Czech translation
+  * Create compton-conf_nl.ts
+  * Update lxqt-config-appearance_it.ts
+
+0.11.0 / 2016-09-24
+===================
+
+  * Release 0.11.0: Add changelog
   * pavucontrol-qt: Fix syntax errors (#81)
   * Update README.md
   * Update German translation (#33)
