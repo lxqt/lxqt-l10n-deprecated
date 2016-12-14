@@ -377,7 +377,7 @@
     <message>
         <location filename="../../editbookmarksdialog.cpp" line="96"/>
         <source>New bookmark</source>
-        <translation></translation>
+        <translation>Nyt bogmærke</translation>
     </message>
 </context>
 <context>
@@ -796,12 +796,12 @@ Vil du slette dem istedet?</translation>
     <message>
         <location filename="../../pathbar.cpp" line="123"/>
         <source>&amp;Edit Path</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rediger sti</translation>
     </message>
     <message>
         <location filename="../../pathbar.cpp" line="126"/>
         <source>&amp;Copy Path</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kopiér sti</translation>
     </message>
 </context>
 <context>
