@@ -6,87 +6,75 @@
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="49"/>
         <source>&lt;locale based&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;baseret på sprogvalg&gt;</translation>
     </message>
 </context>
 <context>
     <name>LXQtClockConfiguration</name>
     <message>
-        <source>LXQt Clock Settings</source>
-        <translation type="vanished">LXQt Ur-Indstillinger</translation>
-    </message>
-    <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="14"/>
         <source>Clock Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ur-indstillinger</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="20"/>
         <source>Time</source>
-        <translation>Tid</translation>
+        <translation>Klokkeslæt</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="26"/>
         <source>&amp;Show seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vis sekunder</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="33"/>
         <source>12 &amp;hour style</source>
-        <translation type="unfinished"></translation>
+        <translation>12-&amp;timers-stil</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="40"/>
         <source>&amp;Use UTC</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Brug UTC</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="59"/>
         <source>Date &amp;format</source>
-        <translation type="unfinished"></translation>
+        <translation>Dato&amp;format</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="76"/>
         <source>&amp;Do not show date</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vis ikke dato</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="86"/>
         <source>Show date &amp;before time</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis dato &amp;før klokkeslæt</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="93"/>
         <source>Show date &amp;after time</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis dato &amp;efter klokkeslæt</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="100"/>
         <source>Show date below time on new &amp;line</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis dato under klokkeslæt på ny &amp;linje</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="107"/>
         <source>First day of week in calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Første dag på ugen i kalender</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="124"/>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientering</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="130"/>
         <source>Auto&amp;rotate when the panel is vertical</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show seconds</source>
-        <translation type="vanished">Vis sekunder</translation>
-    </message>
-    <message>
-        <source>12 hour style</source>
-        <translation type="vanished">12 timers visning</translation>
+        <translation>Automatisk &amp;rotering når panelet er lodret</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="50"/>
@@ -94,21 +82,9 @@
         <translation>Dato</translation>
     </message>
     <message>
-        <source>Show date</source>
-        <translation type="vanished">Vis dato</translation>
-    </message>
-    <message>
-        <source>Show date in new line</source>
-        <translation type="vanished">Vis dato i ny linie</translation>
-    </message>
-    <message>
-        <source>Date format</source>
-        <translation type="vanished">Datoformat</translation>
-    </message>
-    <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
         <source>Input custom date format</source>
-        <translation type="unfinished"></translation>
+        <translation>Input brugerdefineret datoformat</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
@@ -131,7 +107,25 @@ will also be treated as text and not be used as an expression.
 
 
 Custom date format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortolket sekvenser af datoformat er:
+
+d	dagen som tal uden et foranstillet nul (1 til 31)
+dd	dagen som tal med et foranstillet nul (01 til 31)
+ddd	det forkortet oversatte navn for dagen (f.eks. &apos;Man&apos; til &apos;Søn&apos;).
+dddd	det lange oversatte navn for dagen (f.eks. &apos;Mandag&apos; til &apos;Søndag&apos;).
+M	måneden som tal uden et foranstillet nul (1-12)
+MM	måneden som tal med et foranstillet nul (01-12)
+MMM	det forkortet oversatte navn for måneden (f.eks. Jan&apos; til Dec&apos;).
+MMMM	det lange oversatte navn for måneden (f.eks. Januar&apos; til December&apos;).
+yy	året som tocifret tal (00-99)
+yyyy	året som firecifret tal
+
+Alle andre input-tegn vil blive behandler som tekst.
+Sekvenser af tegn som er omgivet af enkelte anførselstegn (&apos;)
+vil blive behandlet som tekst og ikke blive brugt som et udtryk.
+
+
+Brugerdefineret datoformat:</translation>
     </message>
 </context>
 </TS>
