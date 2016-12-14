@@ -155,7 +155,7 @@
         <location filename="../../../lidwatchersettings.ui" line="84"/>
         <location filename="../../../lidwatchersettings.ui" line="128"/>
         <source>On AC</source>
-        <translation>På lysnet</translation>
+        <translation>På strømforsyning</translation>
     </message>
     <message>
         <location filename="../../../lidwatchersettings.ui" line="97"/>

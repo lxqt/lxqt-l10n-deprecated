@@ -252,7 +252,7 @@ Hong Jen Yee (PCMan) &lt;pcman.tw@gmail.com&gt;</translation>
     <message>
         <location filename="../../mainwindow.ui" line="386"/>
         <source>Capture Screenshot</source>
-        <translation>Indfang skærmbillede</translation>
+        <translation>Tag skærmbillede</translation>
     </message>
     <message>
         <location filename="../../mainwindow.ui" line="394"/>

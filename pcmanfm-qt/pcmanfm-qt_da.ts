@@ -188,7 +188,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.</
     <message>
         <location filename="../../desktop-preferences.ui" line="14"/>
         <source>Desktop Preferences</source>
-        <translation>Skrivebordsindstillinger</translation>
+        <translation>Skrivebordsipræferencer</translation>
     </message>
     <message>
         <location filename="../../desktop-preferences.ui" line="30"/>
@@ -434,7 +434,7 @@ Et mellemrum er også reserverte for tre linjers tekst.</translation>
     <message>
         <location filename="../../main-win.ui" line="414"/>
         <source>&amp;Add to Bookmarks</source>
-        <translation>&amp;Tilføj til bogmærker</translation>
+        <translation>&amp;Føj til bogmærker</translation>
     </message>
     <message>
         <location filename="../../main-win.ui" line="419"/>
@@ -509,7 +509,7 @@ Et mellemrum er også reserverte for tre linjers tekst.</translation>
     <message>
         <location filename="../../main-win.ui" line="505"/>
         <source>Pr&amp;eferences</source>
-        <translation>Ind&amp;stillinger</translation>
+        <translation>præf&amp;erencer</translation>
     </message>
     <message>
         <location filename="../../main-win.ui" line="513"/>
@@ -534,7 +534,7 @@ Et mellemrum er også reserverte for tre linjers tekst.</translation>
     <message>
         <location filename="../../main-win.ui" line="545"/>
         <source>By File &amp;Type</source>
-        <translation>Efter fi&amp;type</translation>
+        <translation>Efter fil&amp;type</translation>
     </message>
     <message>
         <location filename="../../main-win.ui" line="553"/>
@@ -760,7 +760,7 @@ Et mellemrum er også reserverte for tre linjers tekst.</translation>
     <message>
         <location filename="../../main-win.ui" line="702"/>
         <source>Open as &amp;Root</source>
-        <translation>Åbn som &amp;rodbruger</translation>
+        <translation>Åbn som &amp;root</translation>
     </message>
     <message>
         <location filename="../../main-win.ui" line="707"/>
@@ -790,7 +790,7 @@ Et mellemrum er også reserverte for tre linjers tekst.</translation>
     <message>
         <location filename="../../main-win.ui" line="93"/>
         <source>Filter by string...</source>
-        <translation>Filtrer efter tekst...</translation>
+        <translation>Filtrér efter tekst...</translation>
     </message>
     <message>
         <location filename="../../main-win.ui" line="120"/>
@@ -879,7 +879,7 @@ Et mellemrum er også reserverte for tre linjers tekst.</translation>
     <message>
         <location filename="../../application.cpp" line="184"/>
         <source>Open desktop preference dialog on the page with the specified name</source>
-        <translation>Åbn skrivebordsindstillinger på siden med det specifcerede navn</translation>
+        <translation>Åbn skrivebordspræferencer på siden med det specifcerede navn</translation>
     </message>
     <message>
         <location filename="../../application.cpp" line="184"/>
@@ -920,7 +920,7 @@ Et mellemrum er også reserverte for tre linjers tekst.</translation>
     <message>
         <location filename="../../application.cpp" line="199"/>
         <source>Open Preferences dialog on the page with the specified name</source>
-        <translation>Åbn indstillinger på siden med det specificerede navn</translation>
+        <translation>Åbn præferencer på siden med det specificerede navn</translation>
     </message>
     <message>
         <location filename="../../application.cpp" line="202"/>
@@ -1038,7 +1038,7 @@ Et mellemrum er også reserverte for tre linjers tekst.</translation>
     <message>
         <location filename="../../desktopwindow.cpp" line="389"/>
         <source>Desktop Preferences</source>
-        <translation>Skrivebordsindstillinger</translation>
+        <translation>Skrivebordspræferencer</translation>
     </message>
 </context>
 <context>
@@ -1168,7 +1168,7 @@ Et mellemrum er også reserverte for tre linjers tekst.</translation>
     <message>
         <location filename="../../preferences.ui" line="14"/>
         <source>Preferences</source>
-        <translation>Indstillinger</translation>
+        <translation>Præferencer</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="45"/>

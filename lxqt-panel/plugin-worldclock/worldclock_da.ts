@@ -6,7 +6,7 @@
     <message>
         <location filename="../../../lxqtworldclock.cpp" line="191"/>
         <source>&apos;&lt;b&gt;&apos;HH:mm:ss&apos;&lt;/b&gt;&lt;br/&gt;&lt;font size=&quot;-2&quot;&gt;&apos;ddd, d MMM yyyy&apos;&lt;br/&gt;&apos;TT&apos;&lt;/font&gt;&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;&lt;b&gt;&apos;HH:mm:ss&apos;&lt;/b&gt;&lt;br/&gt;&lt;font size=&quot;-2&quot;&gt;&apos;dddd, d. MMMM yyyy&apos;&lt;/font&gt;&apos;</translation>
     </message>
 </context>
 <context>
@@ -43,7 +43,7 @@
         <location filename="../../../lxqtworldclockconfiguration.ui" line="181"/>
         <location filename="../../../lxqtworldclockconfiguration.ui" line="277"/>
         <source>Long</source>
-        <translation>Lang</translation>
+        <translation>Langr</translation>
     </message>
     <message>
         <location filename="../../../lxqtworldclockconfiguration.ui" line="60"/>
@@ -230,7 +230,7 @@
     <message>
         <location filename="../../../lxqtworldclockconfiguration.cpp" line="103"/>
         <source>&apos;&lt;b&gt;&apos;HH:mm:ss&apos;&lt;/b&gt;&lt;br/&gt;&lt;font size=&quot;-2&quot;&gt;&apos;ddd, d MMM yyyy&apos;&lt;br/&gt;&apos;TT&apos;&lt;/font&gt;&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;&lt;b&gt;&apos;HH:mm:ss&apos;&lt;/b&gt;&lt;br/&gt;&lt;font size=&quot;-2&quot;&gt;&apos;dddd, d. MMMM yyyy&apos;&lt;/font&gt;&apos;</translation>
     </message>
     <message>
         <location filename="../../../lxqtworldclockconfiguration.cpp" line="577"/>
