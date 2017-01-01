@@ -1,7 +1,20 @@
 
-lxqt-l10n-0.11.1 / 2016-12-11
+lxqt-l10n-0.11.2 / 2017-01-01
 =============================
 
+  * Add/update Turkish translations
+  * lxqt-about_tr.ts update
+  * liblxqt_tr.ts update
+  * Update Danish translations
+  * Portuguese update
+  * lxqt-sudo: Move Ukrainian translation
+  * Remove all danish translation files using "da_DK" (keep "da")
+  * First attempt to change all danish translation files from using i mix of "da" and "da_DK" and both, to only using "da"
+
+0.11.1 / 2016-12-11
+===================
+
+  * Release 0.11.1: Update changelog
   * Update zh_TW translation for pcmanfm-qt.
   * Update zh_TW translation for libfm-qt.
   * Update pcmanfm-qt UI strings.
