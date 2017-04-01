@@ -4,7 +4,7 @@
 <context>
     <name>FirstDayCombo</name>
     <message>
-        <location filename="../../lxqtclockconfiguration.cpp" line="49"/>
+        <location filename="../../../lxqtclockconfiguration.cpp" line="49"/>
         <source>&lt;locale based&gt;</source>
         <translation>&lt;basée sur locale&gt;</translation>
     </message>
@@ -12,82 +12,82 @@
 <context>
     <name>LXQtClockConfiguration</name>
     <message>
-        <location filename="../../lxqtclockconfiguration.ui" line="14"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="14"/>
         <source>Clock Settings</source>
         <translation>Paramétrage de l&apos;horloge</translation>
     </message>
     <message>
-        <location filename="../../lxqtclockconfiguration.ui" line="20"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="20"/>
         <source>Time</source>
         <translation>Heure</translation>
     </message>
     <message>
-        <location filename="../../lxqtclockconfiguration.ui" line="26"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="26"/>
         <source>&amp;Show seconds</source>
         <translation>&amp;Montrer les secondes</translation>
     </message>
     <message>
-        <location filename="../../lxqtclockconfiguration.ui" line="33"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="33"/>
         <source>12 &amp;hour style</source>
         <translation>Style 12 &amp;heures</translation>
     </message>
     <message>
-        <location filename="../../lxqtclockconfiguration.ui" line="40"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="40"/>
         <source>&amp;Use UTC</source>
         <translation>&amp;Utiliser UTC</translation>
     </message>
     <message>
-        <location filename="../../lxqtclockconfiguration.ui" line="59"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="59"/>
         <source>Date &amp;format</source>
         <translation>&amp;Format de la date</translation>
     </message>
     <message>
-        <location filename="../../lxqtclockconfiguration.ui" line="76"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="76"/>
         <source>&amp;Do not show date</source>
         <translation>&amp;Ne pas afficher la date</translation>
     </message>
     <message>
-        <location filename="../../lxqtclockconfiguration.ui" line="86"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="86"/>
         <source>Show date &amp;before time</source>
         <translation>Afficher la date a&amp;vant l&apos;heure</translation>
     </message>
     <message>
-        <location filename="../../lxqtclockconfiguration.ui" line="93"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="93"/>
         <source>Show date &amp;after time</source>
         <translation>Afficher la date a&amp;près l&apos;heure</translation>
     </message>
     <message>
-        <location filename="../../lxqtclockconfiguration.ui" line="100"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="100"/>
         <source>Show date below time on new &amp;line</source>
         <translation>Afficher la date &amp;sous l&apos;heure, sur une nouvelle ligne</translation>
     </message>
     <message>
-        <location filename="../../lxqtclockconfiguration.ui" line="107"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="107"/>
         <source>First day of week in calendar</source>
         <translation>Premier jour de la semaine</translation>
     </message>
     <message>
-        <location filename="../../lxqtclockconfiguration.ui" line="124"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="124"/>
         <source>Orientation</source>
         <translation>Orientation</translation>
     </message>
     <message>
-        <location filename="../../lxqtclockconfiguration.ui" line="130"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="130"/>
         <source>Auto&amp;rotate when the panel is vertical</source>
         <translation>&amp;Rotation automatique quand le tableau est vertical</translation>
     </message>
     <message>
-        <location filename="../../lxqtclockconfiguration.ui" line="50"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="50"/>
         <source>Date</source>
         <translation>Date</translation>
     </message>
     <message>
-        <location filename="../../lxqtclockconfiguration.cpp" line="268"/>
+        <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
         <source>Input custom date format</source>
         <translation>Saisie d&apos;un format de date personnalisé</translation>
     </message>
     <message>
-        <location filename="../../lxqtclockconfiguration.cpp" line="268"/>
+        <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
         <source>Interpreted sequences of date format are:
 
 d	the day as number without a leading zero (1 to 31)
