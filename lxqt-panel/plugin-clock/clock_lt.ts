@@ -6,19 +6,15 @@
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="49"/>
         <source>&lt;locale based&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;pagal lokalę&gt;</translation>
     </message>
 </context>
 <context>
     <name>LXQtClockConfiguration</name>
     <message>
-        <source>LXQt Clock Settings</source>
-        <translation type="vanished">LXQt laikrodžio nuostatos</translation>
-    </message>
-    <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="14"/>
         <source>Clock Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Laikrodžio nustatymai</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="20"/>
@@ -38,55 +34,42 @@
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="40"/>
         <source>&amp;Use UTC</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../lxqtclockconfiguration.ui" line="59"/>
-        <source>Date &amp;format</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Naudoti suderintąjį pasaulinį laiką (UTC)</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="76"/>
         <source>&amp;Do not show date</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nerodyti datą</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="86"/>
         <source>Show date &amp;before time</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti datą pr&amp;ieš laiką</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="93"/>
         <source>Show date &amp;after time</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti datą p&amp;o laiko</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="100"/>
         <source>Show date below time on new &amp;line</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti datą žemiau laiko, naujoje ei&amp;lutėje</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="107"/>
         <source>First day of week in calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Pirma savaitės diena kalendoriuje</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="124"/>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientacija</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="130"/>
         <source>Auto&amp;rotate when the panel is vertical</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Font</source>
-        <translation type="vanished">Šri&amp;ftas</translation>
-    </message>
-    <message>
-        <source>Font</source>
-        <translation type="vanished">Šriftas</translation>
+        <translation>Automatiškai pa&amp;sukti, kai skydelis yra vertikalus</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="50"/>
@@ -94,65 +77,14 @@
         <translation>Data</translation>
     </message>
     <message>
-        <source>Show &amp;date</source>
-        <translation type="vanished">Rodyti &amp;datą</translation>
-    </message>
-    <message>
-        <source>D&amp;ate format</source>
-        <translation type="vanished">D&amp;atos formatas</translation>
-    </message>
-    <message>
-        <source>Fon&amp;t</source>
-        <translation type="vanished">Šrif&amp;tas</translation>
-    </message>
-    <message>
-        <source>Show date in &amp;new line</source>
-        <translation type="vanished">Datą rodyti &amp;naujoje eilutėje</translation>
-    </message>
-    <message>
-        <source>&amp;Use theme fonts</source>
-        <translation type="vanished">Na&amp;udoti apipavidalinimo šriftus</translation>
-    </message>
-    <message>
-        <source>Time font</source>
-        <translation type="vanished">Laiko šriftas</translation>
-    </message>
-    <message>
-        <source>Date font</source>
-        <translation type="vanished">Datos šriftas</translation>
-    </message>
-    <message>
-        <source>Ultra light</source>
-        <translation type="vanished">Ypač lengvas</translation>
-    </message>
-    <message>
-        <source>Light</source>
-        <translation type="vanished">Lengvas</translation>
-    </message>
-    <message>
-        <source>Ultra black</source>
-        <translation type="vanished">Ypač juodas</translation>
-    </message>
-    <message>
-        <source>Black</source>
-        <translation type="vanished">Juodas</translation>
-    </message>
-    <message>
-        <source>Bold</source>
-        <translation type="vanished">Pusjuodis</translation>
-    </message>
-    <message>
-        <source>Demi bold</source>
-        <translation type="vanished">Šiek tiek pastorintas</translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation type="vanished">Pasviręs</translation>
+        <location filename="../../../lxqtclockconfiguration.ui" line="59"/>
+        <source>Date &amp;format</source>
+        <translation>Datos &amp;formatas</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
         <source>Input custom date format</source>
-        <translation type="unfinished"></translation>
+        <translation>Įveskite tinkintą datos formatą</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
@@ -175,7 +107,25 @@ will also be treated as text and not be used as an expression.
 
 
 Custom date format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Suprantamos datos formato sekos yra:
+
+d	diena kaip skaičius be priekinio nulio (1 iki 31)
+dd	diena kaip skaičius su priekiniu nuliu (01 iki 31)
+ddd	sutrumpintas lokalizuotas dienos pavadinimas (pvz., &quot;Pir&quot; iki &quot;Sek&quot;).
+dddd	ilgas lokalizuotas dienos pavadinimas (pvz., &quot;Pirmadienis&quot; iki &quot;Sekmadienis&quot;).
+M	mėnesis kaip skaičius be priekinio nulio (1-12)
+MM	mėnesis kaip skaičius su priekiniu nuliu (01-12)
+MMM	sutrumpintas lokalizuotas mėnesio pavadinimas (pvz., &quot;Sau&quot; iki &quot;Gru&quot;).
+MMMM	ilgas lokalizuotas mėnesio pavadinimas (pvz., &quot;Sausis&quot; iki &quot;Gruodis&quot;).
+yy	metai kaip dviejų skaitmenų skaičius (00-99)
+yyyy	metai kaip keturių skaitmenų skaičius
+
+Visi kiti įvesti simboliai bus laikomi tekstu.
+Bet kokia simbolių seka, patalpinta į kabutes (&apos;),
+taip pat bus laikoma tekstu ir nebus naudojama kaip reiškinys.
+
+
+Tinkintas datos formatas:</translation>
     </message>
 </context>
 </TS>
