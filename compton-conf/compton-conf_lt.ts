@@ -1,178 +1,183 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="pl">
+<TS version="2.1" language="lt">
 <context>
     <name>MainDialog</name>
     <message>
         <location filename="../../maindialog.ui" line="14"/>
         <source>Special Effect Settings</source>
-        <translation>Ustawienia efektów specjalnych</translation>
+        <translation>Specialių efektų nustatymai</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="24"/>
         <source>Shadow</source>
-        <translation>Cień</translation>
+        <translation>Šešėlis</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="30"/>
         <source>The blur radius for shadows</source>
-        <translation>Promień rozmycia cienia</translation>
+        <translation>Šešėlių suliejimo spindulys</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="40"/>
         <source>The left offset for shadows</source>
-        <translation>Przesunięcie cienia w lewo</translation>
+        <translation>Kairysis šešėlių poslinkis</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="54"/>
         <source>The top offset for shadows</source>
-        <translation>Przesunięcie cienia w górę</translation>
+        <translation>Viršutinis šešėlių poslinkis</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="68"/>
         <source>The translucency for shadows</source>
-        <translation>Widoczność cienia</translation>
+        <translation>Dalinis šešėlių permatomumas</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="75"/>
         <source>Color of shadow</source>
-        <translation>Kolor cienia</translation>
+        <translation>Šešėlio spalva</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="89"/>
         <source>Fix some weirdness with ARGB windows</source>
-        <translation>Napraw częste problemy z oknami ARGB</translation>
+        <translation>Pataisyti tam tikrus keistumus su ARGB langais</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="92"/>
         <source>Zero the part of the shadow&apos;s mask behind the window</source>
-        <translation>Wyczyść cienie znajdujące się poza oknem</translation>
+        <translation>Nustatyti ties nuliu dalį už lango esančios šešėlio kaukės</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="99"/>
         <source>Don&apos;t draw shadows on DND windows</source>
-        <translation>Nie wyświetlaj cienia podczas przemieszczania okien</translation>
+        <translation>Nebraižyti šešėlių ant DND langų</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="106"/>
         <source>Avoid drawing shadows on dock/panel windows</source>
-        <translation>Unikaj wyświetlania cienia przy zadokowanych oknach i panelach</translation>
+        <translation>Vengti braižyti šešėlius ant dėklo/skydelio langų</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="113"/>
         <source>Enabled client-side shadows on windows</source>
-        <translation>Włączono cienie okien od strony klienta</translation>
+        <translation>Įjungti kliento pusės šešėlius ant langų</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="120"/>
         <source>Avoid drawing shadow on all shaped windows</source>
-        <translation>Unikaj wyświetlania cienia przy nieprostokątnych oknach</translation>
+        <translation>Vengti braižyti šešėlius ant visų langų, kurie naudoja
+X Shape plėtinį</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="138"/>
         <source>Opacity</source>
-        <translation>Widoczność</translation>
+        <translation>Nepermatomumas</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="147"/>
         <source>The opacity for menus</source>
-        <translation>Widoczność menu</translation>
+        <translation>Meniu nepermatomumas</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="154"/>
         <source>Default opacity of inactive windows</source>
-        <translation>Domyślna widoczność nieaktywnych okien</translation>
+        <translation>Numatytasis neaktyvių langų nepermatomumas</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="161"/>
         <source>Default opacity for active windows</source>
-        <translation>Domyślna widoczność aktywnych okien</translation>
+        <translation>Numatytasis aktyvių langų nepermatomumas</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="168"/>
         <source>Opacity of window titlebars and borders</source>
-        <translation>Widoczność obramowania okien</translation>
+        <translation>Lango pavadinimo juostos ir rėmelio nepermatomumas</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="175"/>
         <source>XRender backend: Step size for alpha pictures
 (Increasing it may result in less X resource usage)</source>
-        <translation>Back-end XRender: rozmiar kroku dla zasobów przezroczystych (zwiększenie może skutkować mniejszym użyciem zasobów X)</translation>
+        <translation>XRender vidinė pusė: Žingsnio dydis permatomiems paveikslams
+(Jo padidinimas gali privesti prie mažesnio X serverio išteklių naudojimo)</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="183"/>
         <source>Dim inactive windows</source>
-        <translation>Przyciemniaj nieaktywne okna</translation>
+        <translation>Užtemdyti neaktyvius langus</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="190"/>
         <source>Do not let dimness adjust based on window opacity</source>
-        <translation>Nie pozwalaj dostosować przyciemnienia na podstawie widoczności okna</translation>
+        <translation>Neleisti reguliuoti užtemdymą pagal lango nepermatomumą</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="197"/>
         <source>Blur background of transparent windows</source>
-        <translation>Rozmywaj tło przezroczystych okien</translation>
+        <translation>Sulieti permatomų langų foną</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="204"/>
         <source>Blur background of opaque windows with transparent frames as well</source>
-        <translation>Rozmywaj też tło widocznych okien z przezroczystymi ramkami</translation>
+        <translation>Sulieti nepermatomų langų su permatomu rėmeliu foną</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="211"/>
         <source>Do not let blur radius adjust based on window opacity</source>
-        <translation>Nie pozwól, aby promień rozmycia był zależny od widoczności okien</translation>
+        <translation>Neleisti reguliuoti suliejimo spindulį pagal lango nepermatomumą</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="279"/>
         <source>Fade</source>
-        <translation>Przenikanie</translation>
+        <translation>Išblukimas</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="285"/>
         <source>Fade windows during opacity changes</source>
-        <translation>Przenikaj okna w trakcie zmiany widoczności</translation>
+        <translation>Išblukinti langus nepermatomumo keitimo metu</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="292"/>
         <source>The time between steps in a fade in milliseconds</source>
-        <translation>Czas w milisekundach pomiędzy krokami w trakcie przenikania</translation>
+        <translation>Laikas tarp išblukimo žingsnių, milisekundėmis</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="299"/>
         <source>Opacity change between steps while fading in</source>
-        <translation>Zmiana widoczności pojawiającego się okna pomiędzy krokami</translation>
+        <translation>Nepermatomumo pokytis tarp žingsnių,
+langui palaipsniui atsirandant</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="306"/>
         <source>Opacity change between steps while fading out</source>
-        <translation>Zmiana widoczności zanikającego okna pomiędzy krokami</translation>
+        <translation>Nepermatomumo pokytis tarp žingsnių,
+langui palaipsniui išnykstant</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="313"/>
         <source>Avoid fade windows in/out when opening/closing</source>
-        <translation>Unikaj przenikania okien podczas otwierania i zamykania</translation>
+        <translation>Vengti palaipsnio langų atsiradimo/išnykimo,
+juos atveriant/užveriant</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="356"/>
         <source>Other</source>
-        <translation>Inne</translation>
+        <translation>Kita</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="362"/>
         <source>Not implemented yet</source>
-        <translation>Nie zaimplementowano</translation>
+        <translation>Kol kas neįgyvendinta</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="375"/>
         <source>About</source>
-        <translation>O programie</translation>
+        <translation>Apie</translation>
     </message>
     <message>
         <location filename="../../maindialog.cpp" line="179"/>
         <source>About ComptonConf</source>
-        <translation>O ComptonConf</translation>
+        <translation>Apie ComptonConf</translation>
     </message>
     <message>
         <location filename="../../maindialog.cpp" line="180"/>
@@ -180,10 +185,10 @@
 
 Copyright (C) 2013
 Author: Hong Jen Yee (PCMan) &lt;pcman.tw@gmail.com&gt;</source>
-        <translation>ComptonConf - narzędzie konfiguracyjne dla Comptona
+        <translation>ComptonConf - konfigūravimo įrankis, skirtas compton
 
-Prawa autorskie (C) 2013
-Autor: Hong Jen Yee (PCMan) &lt;pcman.tw@gmail.com&gt;</translation>
+Autorių teisės (C) 2013
+Autorius: Hong Jen Yee (PCMan) &lt;pcman.tw@gmail.com&gt;</translation>
     </message>
 </context>
 </TS>
