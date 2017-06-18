@@ -173,7 +173,7 @@
     <message>
         <location filename="../../../main_window.ui" line="176"/>
         <source>Close</source>
-        <translation type="unfinished">Zamknij</translation>
+        <translation>Zamknij</translation>
     </message>
 </context>
 <context>

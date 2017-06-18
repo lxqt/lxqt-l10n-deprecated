@@ -106,7 +106,7 @@
     <message>
         <location filename="../../dialog.cpp" line="349"/>
         <source>Show/hide runner dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż/ukryj okno programu</translation>
     </message>
 </context>
 <context>
