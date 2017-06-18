@@ -15,7 +15,7 @@
     <message>
         <location filename="../../../datetime.ui" line="39"/>
         <source>HH:mm:ss</source>
-        <translation type="unfinished"></translation>
+        <translation>HH:mm:ss</translation>
     </message>
     <message>
         <location filename="../../../datetime.ui" line="53"/>
@@ -65,7 +65,7 @@
     <message>
         <location filename="../../../timezone.ui" line="26"/>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst</translation>
     </message>
     <message>
         <location filename="../../../timezone.ui" line="35"/>
