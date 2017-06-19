@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="tr">
 <context>
     <name>Konsole::TerminalDisplay</name>
     <message>
@@ -33,32 +33,32 @@
         <location filename="../../ColorScheme.cpp" line="278"/>
         <location filename="../../ColorScheme.cpp" line="293"/>
         <source>Un-named Color Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>İsimsiz renk şeması</translation>
     </message>
     <message>
         <location filename="../../ColorScheme.cpp" line="464"/>
         <source>Accessible Color Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Erişilebilir Renk Şeması</translation>
     </message>
     <message>
         <location filename="../../Filter.cpp" line="516"/>
         <source>Open Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağlantıyı Aç</translation>
     </message>
     <message>
         <location filename="../../Filter.cpp" line="517"/>
         <source>Copy Link Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağlantı adresini kopyala</translation>
     </message>
     <message>
         <location filename="../../Filter.cpp" line="521"/>
         <source>Send Email To...</source>
-        <translation type="unfinished"></translation>
+        <translation>Eposta gönder...</translation>
     </message>
     <message>
         <location filename="../../Filter.cpp" line="522"/>
         <source>Copy Email Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Eposta adresini kopyala</translation>
     </message>
 </context>
 <context>
@@ -66,12 +66,12 @@
     <message>
         <location filename="../../qtermwidget.cpp" line="430"/>
         <source>Color Scheme Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Renk Şema Hatası</translation>
     </message>
     <message>
         <location filename="../../qtermwidget.cpp" line="431"/>
         <source>Cannot load color scheme: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Renk şeması yüklenemedi</translation>
     </message>
 </context>
 <context>
@@ -79,17 +79,17 @@
     <message>
         <location filename="../../SearchBar.cpp" line="39"/>
         <source>Match case</source>
-        <translation type="unfinished"></translation>
+        <translation>Tam eşleştir</translation>
     </message>
     <message>
         <location filename="../../SearchBar.cpp" line="45"/>
         <source>Regular expression</source>
-        <translation type="unfinished"></translation>
+        <translation>Düzenli ifade</translation>
     </message>
     <message>
         <location filename="../../SearchBar.cpp" line="49"/>
         <source>Highlight all matches</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm eşleşenleri vurgula</translation>
     </message>
 </context>
 </TS>
