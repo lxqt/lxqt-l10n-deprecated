@@ -65,7 +65,7 @@
     <message>
         <location filename="../../../build/src/ui_obconf.h" line="1033"/>
         <source>Dock</source>
-        <translation>Dock</translation>
+        <translation>Rıhtım</translation>
     </message>
     <message>
         <location filename="../../../build/src/ui_obconf.h" line="1036"/>
