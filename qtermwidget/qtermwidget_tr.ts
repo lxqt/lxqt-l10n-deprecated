@@ -6,7 +6,7 @@
     <message>
         <location filename="../../TerminalDisplay.cpp" line="1244"/>
         <source>Size: XXX x XXX</source>
-        <translation>Boyut: XXX x XXX<</translation>
+        <translation>Boyut: XXX x XXX</translation>
     </message>
     <message>
         <location filename="../../TerminalDisplay.cpp" line="1256"/>
