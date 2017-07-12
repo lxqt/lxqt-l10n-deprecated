@@ -137,7 +137,7 @@ D: Hazır (Tüm masaüstlerinde)</translation>
     <message>
         <location filename="../../../build/src/ui_obconf.h" line="1060"/>
         <source>Active &amp;On-screen display: </source>
-        <translation><Etkin &amp;Görünen ekranda: /translation>
+        <translation>Etkin &amp;Görünen ekranda: </translation>
     </message>
     <message>
         <location filename="../../../build/src/ui_obconf.h" line="1061"/>
