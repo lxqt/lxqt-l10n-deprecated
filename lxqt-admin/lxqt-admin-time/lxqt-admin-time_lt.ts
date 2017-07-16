@@ -94,7 +94,7 @@
     <message>
         <location filename="../../../timezone.cpp" line="42"/>
         <source>None</source>
-        <translation type="unfinished">Nėra</translation>
+        <translation>Nėra</translation>
     </message>
 </context>
 </TS>
