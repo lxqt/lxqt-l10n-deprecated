@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="lt">
+<TS version="2.0" language="lt">
 <context>
     <name>LocaleConfig</name>
     <message>
@@ -75,12 +75,12 @@
     </message>
     <message>
         <source>Save the settings ? (they will take effect the next time you log in)</source>
-        <translation type="vanished">Įrašyti nustatymus ? (jie įsigalios kitą kartą jums prisijungus)</translation>
+        <translation>Įrašyti nustatymus ? (jie įsigalios kitą kartą jums prisijungus)</translation>
     </message>
     <message>
         <location filename="../../../localeconfig.cpp" line="309"/>
         <source>Do you want to save your changes? They will take effect the next time you log in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar norite įrašyti savo pakeitimus? Jie įsigalios, kai kitą kartą prisijungsite.</translation>
     </message>
     <message>
         <location filename="../../../localeconfig.cpp" line="430"/>
