@@ -10,9 +10,10 @@
 # a little bit belt and braces as the most of these files
 # should never ever be in the repository
 
-.*~        export-ignore
-.kdev4     export-ignore
+.*~           export-ignore
+.kdev4        export-ignore
+.travis.yml   export-ignore 
 
-/build export-ignore
-/temp  export-ignore
-/tmp   export-ignore
+/build        export-ignore
+/temp         export-ignore
+/tmp          export-ignore
