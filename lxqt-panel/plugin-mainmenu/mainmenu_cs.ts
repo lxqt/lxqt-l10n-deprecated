@@ -153,7 +153,3 @@
     </message>
 </context>
 </TS>
-*.menu)</translation>
-    </message>
-</context>
-</TS>

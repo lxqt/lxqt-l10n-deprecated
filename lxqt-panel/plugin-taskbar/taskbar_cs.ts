@@ -248,7 +248,3 @@
     </message>
 </context>
 </TS>
-lation>Nynější</translation>
-    </message>
-</context>
-</TS>

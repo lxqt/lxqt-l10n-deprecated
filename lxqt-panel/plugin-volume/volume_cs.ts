@@ -119,5 +119,3 @@
     </message>
 </context>
 </TS>
-ntext>
-</TS>

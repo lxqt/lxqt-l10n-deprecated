@@ -197,13 +197,3 @@ Vlastní formát data:</translation>
     </message>
 </context>
 </TS>
-rs will be treated as text.
-Any sequence of characters that are enclosed in single quotes (&apos;)
-will also be treated as text and not be used as an expression.
-
-
-Custom date format:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-</TS>
