@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="cs">
+<TS version="2.0" language="cs">
 <context>
     <name>FirstDayCombo</name>
     <message>
@@ -13,7 +13,7 @@
     <name>LXQtClockConfiguration</name>
     <message>
         <source>LXQt Clock Settings</source>
-        <translation type="vanished">Nastavení hodin</translation>
+        <translation>Nastavení hodin</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="14"/>
@@ -82,11 +82,11 @@
     </message>
     <message>
         <source>&amp;Font</source>
-        <translation type="vanished">&amp;Písmo</translation>
+        <translation>&amp;Písmo</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="vanished">Písmo</translation>
+        <translation>Písmo</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="50"/>
@@ -95,59 +95,59 @@
     </message>
     <message>
         <source>Show &amp;date</source>
-        <translation type="vanished">Ukázat &amp;datum</translation>
+        <translation>Ukázat &amp;datum</translation>
     </message>
     <message>
         <source>D&amp;ate format</source>
-        <translation type="vanished">Formát d&amp;ata</translation>
+        <translation>Formát d&amp;ata</translation>
     </message>
     <message>
         <source>Fon&amp;t</source>
-        <translation type="vanished">Pí&amp;smo</translation>
+        <translation>Pí&amp;smo</translation>
     </message>
     <message>
         <source>Show date in &amp;new line</source>
-        <translation type="vanished">Ukázat datum na &amp;novém řádku</translation>
+        <translation>Ukázat datum na &amp;novém řádku</translation>
     </message>
     <message>
         <source>&amp;Use theme fonts</source>
-        <translation type="vanished">&amp;Použít písma motivu</translation>
+        <translation>&amp;Použít písma motivu</translation>
     </message>
     <message>
         <source>Time font</source>
-        <translation type="vanished">Písmo pro čas</translation>
+        <translation>Písmo pro čas</translation>
     </message>
     <message>
         <source>Date font</source>
-        <translation type="vanished">Písmo pro datum</translation>
+        <translation>Písmo pro datum</translation>
     </message>
     <message>
         <source>Ultra light</source>
-        <translation type="vanished">Hodně světlé</translation>
+        <translation>Hodně světlé</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="vanished">Světlé</translation>
+        <translation>Světlé</translation>
     </message>
     <message>
         <source>Ultra black</source>
-        <translation type="vanished">Hodně černé</translation>
+        <translation>Hodně černé</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation type="vanished">Černé</translation>
+        <translation>Černé</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="vanished">Tučné</translation>
+        <translation>Tučné</translation>
     </message>
     <message>
         <source>Demi bold</source>
-        <translation type="vanished">Polotučné</translation>
+        <translation>Polotučné</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="vanished">Kurzíva</translation>
+        <translation>Kurzíva</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
@@ -175,7 +175,25 @@ will also be treated as text and not be used as an expression.
 
 
 Custom date format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vykládané posloupnosti formátu data jsou:
+
+d	den jako číslo bez nuly na začátku (1 až 31).
+dd	den jako číslo s nulou na začátku (01 až 31).
+ddd	zkrácený název dne (např. Po až Ne).
+dddd	dlouhý název dne (např Pondělí až Neděle).
+M	měsíc jako číslo bez nuly na začátku (1-12).
+MM	měsíc jako číslo s nulou na začátku (01-12).
+MMM	zkrácený název měsíce (např. Led až Pro).
+MMMM	dlouhý název měsíce (např. Leden až Prosinec).
+yy	rok jako číslo ze dvou číslic (00-99).
+yyyy	rok jako číslo ze čtyř číslic
+
+Se všemi ostatními zadanými znaky se bude zacházet jako s textem.
+Se všemi ostatními znakovými posloupnostmi uzavřenými v jednoduchých závorkách (&apos;)
+se bude stejně tak zacházet jako s textem a nebudou se používat jako výraz.
+
+
+Vlastní formát data:</translation>
     </message>
 </context>
 </TS>

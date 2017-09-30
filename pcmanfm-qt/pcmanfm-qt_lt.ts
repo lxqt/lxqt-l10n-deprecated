@@ -340,17 +340,72 @@ Taip pat rezervuojama vieta 3 teksto eilutėms.</translation>
         <translation>Užrakinti</translation>
     </message>
     <message>
+        <location filename="../../desktop-preferences.ui" line="315"/>
+        <source>Slide Show</source>
+        <translation>Skaidrių rodymas</translation>
+    </message>
+    <message>
         <location filename="../../desktop-preferences.ui" line="321"/>
+        <source>Enable Slide Show</source>
+        <translation>Įjungti skaidrių rodymą</translation>
+    </message>
+    <message>
+        <location filename="../../desktop-preferences.ui" line="333"/>
+        <source>Wallpaper image folder:</source>
+        <translation>Darbalaukio fono paveikslų aplankas:</translation>
+    </message>
+    <message>
+        <location filename="../../desktop-preferences.ui" line="340"/>
+        <source>Browse</source>
+        <translation>Naršyti</translation>
+    </message>
+    <message>
+        <location filename="../../desktop-preferences.ui" line="347"/>
+        <source> hour(s)</source>
+        <translation> valanda(-ų)</translation>
+    </message>
+    <message>
+        <location filename="../../desktop-preferences.ui" line="357"/>
+        <source>and</source>
+        <translation>ir</translation>
+    </message>
+    <message>
+        <location filename="../../desktop-preferences.ui" line="370"/>
+        <source>Intervals less than 5min will be ignored</source>
+        <translation>Mažesnių nei 5 min. intervalų bus nepaisoma</translation>
+    </message>
+    <message>
+        <location filename="../../desktop-preferences.ui" line="373"/>
+        <source>Interval:</source>
+        <translation>Intervalas:</translation>
+    </message>
+    <message>
+        <location filename="../../desktop-preferences.ui" line="380"/>
+        <source> minute(s)</source>
+        <translation> minutė(-ių)</translation>
+    </message>
+    <message>
+        <location filename="../../desktop-preferences.ui" line="406"/>
+        <source>Wallpaper folder</source>
+        <translation>Darbalaukio fonų aplankas</translation>
+    </message>
+    <message>
+        <location filename="../../desktop-preferences.ui" line="429"/>
+        <source>Randomize the slide show</source>
+        <translation>Atsitiktinė tvarka</translation>
+    </message>
+    <message>
+        <location filename="../../desktop-preferences.ui" line="459"/>
         <source>Window Manager</source>
         <translation>Langų tvarkytuvė</translation>
     </message>
     <message>
-        <location filename="../../desktop-preferences.ui" line="327"/>
+        <location filename="../../desktop-preferences.ui" line="465"/>
         <source>Show menus provided by window managers when desktop is clicked</source>
         <translation>Spustelėjus darbalaukyje, rodyti langų tvarkytuvių pateikiamus meniu</translation>
     </message>
     <message>
-        <location filename="../../desktop-preferences.ui" line="315"/>
+        <location filename="../../desktop-preferences.ui" line="453"/>
         <source>Advanced</source>
         <translation>Išplėstinės</translation>
     </message>
@@ -982,13 +1037,13 @@ Taip pat rezervuojama vieta 3 teksto eilutėms.</translation>
         <translation>[FAILAS1, FAILAS2,...]</translation>
     </message>
     <message>
-        <location filename="../../application.cpp" line="524"/>
-        <location filename="../../application.cpp" line="529"/>
+        <location filename="../../application.cpp" line="540"/>
+        <location filename="../../application.cpp" line="545"/>
         <source>Error</source>
         <translation>Klaida</translation>
     </message>
     <message>
-        <location filename="../../application.cpp" line="529"/>
+        <location filename="../../application.cpp" line="545"/>
         <source>Terminal emulator is not set.</source>
         <translation>Terminalo emuliatorius nėra nustatytas.</translation>
     </message>
@@ -1072,7 +1127,7 @@ Taip pat rezervuojama vieta 3 teksto eilutėms.</translation>
         <translation>Didinti paveikslą, kad būtų užpildytas visas ekranas</translation>
     </message>
     <message>
-        <location filename="../../desktoppreferencesdialog.cpp" line="186"/>
+        <location filename="../../desktoppreferencesdialog.cpp" line="204"/>
         <source>Image Files</source>
         <translation>Paveikslų failai</translation>
     </message>
@@ -1080,12 +1135,12 @@ Taip pat rezervuojama vieta 3 teksto eilutėms.</translation>
 <context>
     <name>PCManFM::DesktopWindow</name>
     <message>
-        <location filename="../../desktopwindow.cpp" line="379"/>
+        <location filename="../../desktopwindow.cpp" line="525"/>
         <source>Stic&amp;k to Current Position</source>
         <translation>Pritvirtinti prie esamos &amp;vietos</translation>
     </message>
     <message>
-        <location filename="../../desktopwindow.cpp" line="401"/>
+        <location filename="../../desktopwindow.cpp" line="547"/>
         <source>Desktop Preferences</source>
         <translation>Darbalaukio nuostatos</translation>
     </message>
@@ -1113,23 +1168,23 @@ Taip pat rezervuojama vieta 3 teksto eilutėms.</translation>
         <translation>Versija: %1</translation>
     </message>
     <message>
-        <location filename="../../mainwindow.cpp" line="1204"/>
+        <location filename="../../mainwindow.cpp" line="1263"/>
         <source>&amp;Move to Trash</source>
         <translation>&amp;Perkelti į šiukšlinę</translation>
     </message>
     <message>
-        <location filename="../../mainwindow.cpp" line="1204"/>
+        <location filename="../../mainwindow.cpp" line="1263"/>
         <source>&amp;Delete</source>
         <translation>&amp;Ištrinti</translation>
     </message>
     <message>
-        <location filename="../../mainwindow.cpp" line="1273"/>
-        <location filename="../../mainwindow.cpp" line="1281"/>
+        <location filename="../../mainwindow.cpp" line="1332"/>
+        <location filename="../../mainwindow.cpp" line="1340"/>
         <source>Error</source>
         <translation>Klaida</translation>
     </message>
     <message>
-        <location filename="../../mainwindow.cpp" line="1281"/>
+        <location filename="../../mainwindow.cpp" line="1340"/>
         <source>Switch user command is not set.</source>
         <translation>Naudotojo perjungimo komanda nėra nustatyta.</translation>
     </message>

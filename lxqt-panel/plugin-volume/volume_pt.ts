@@ -28,12 +28,12 @@
         <translation>Controlo de volume: os seguintes atalhos não podem ser registados: %1</translation>
     </message>
     <message>
-        <location filename="../../../lxqtvolume.cpp" line="284"/>
+        <location filename="../../../lxqtvolume.cpp" line="287"/>
         <source>Volume: muted</source>
-        <translation type="unfinished"></translation>
+        <translation>Głośność: wyciszona</translation>
     </message>
     <message>
-        <location filename="../../../lxqtvolume.cpp" line="286"/>
+        <location filename="../../../lxqtvolume.cpp" line="289"/>
         <source>Volume: %1</source>
         <translation>Volume: %1</translation>
     </message>
@@ -92,7 +92,7 @@
     <message>
         <location filename="../../../lxqtvolumeconfiguration.ui" line="84"/>
         <source>Always notify about volume changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Zawsze powiadamiaj o zmianie głośności</translation>
     </message>
     <message>
         <location filename="../../../lxqtvolumeconfiguration.ui" line="99"/>

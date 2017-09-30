@@ -10,6 +10,24 @@
     </message>
 </context>
 <context>
+    <name>LXQtClock</name>
+    <message>
+        <location filename="../../../lxqtclock.cpp" line="57"/>
+        <source>Date&amp;Time (clock) plugin is deprecated</source>
+        <translation>Datos ir laiko (laikrodžio) įskiepis yra apleistas</translation>
+    </message>
+    <message>
+        <location filename="../../../lxqtclock.cpp" line="58"/>
+        <source>The &lt;strong&gt;clock&lt;/strong&gt; plugin is deprecated and will be removed in future version of LXQt. Consider replacing it with &lt;strong&gt;worldclock&lt;/strong&gt;.&lt;br/&gt;</source>
+        <translation>&lt;strong&gt;Laikrodžio&lt;/strong&gt; įskiepis yra apleistas ir būsimosiose LXQt versijose bus pašalintas. Apsvarstykite galimybę jį pakeisti &lt;strong&gt;pasaulio laikrodžių&lt;/strong&gt; įskiepiu.&lt;br/&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../lxqtclock.cpp" line="60"/>
+        <source>don&apos;t show this again</source>
+        <translation>daugiau neberodyti</translation>
+    </message>
+</context>
+<context>
     <name>LXQtClockConfiguration</name>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="14"/>
