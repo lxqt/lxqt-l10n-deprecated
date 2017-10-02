@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="id">
+<TS version="2.1" language="id">
 <context>
     <name>FirstDayCombo</name>
     <message>
@@ -31,7 +31,7 @@
     <name>LXQtClockConfiguration</name>
     <message>
         <source>LXQt Clock Settings</source>
-        <translation>Pengaturan Jam LXQt</translation>
+        <translation type="vanished">Pengaturan Jam LXQt</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="14"/>
