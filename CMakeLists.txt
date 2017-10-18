@@ -2,7 +2,10 @@ cmake_minimum_required(VERSION 3.0.2 FATAL_ERROR)
 
 project(translations)
 
-set(LXQTBT_MINIMUM_VERSION "0.1.0")
+set(LXQTBT_MINIMUM_VERSION "0.4.0")
+
+# l10n has no binaries - but we can set an informal version
+# Version 0.12.0
 
 find_package(Qt5LinguistTools REQUIRED)
 find_package(lxqt-build-tools ${LXQTBT_MINIMUM_VERSION} REQUIRED)
