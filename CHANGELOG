@@ -1,7 +1,24 @@
 
-lxqt-l10n-0.11.99 / 2017-09-27
-==============================
+lxqt-l10n-0.12.0 / 2017-10-21
+=============================
 
+  * Bump versions, set an informal version
+  * Update Catalan translation
+  * Update Lithuanian translation (#291)
+  * Update to current sources
+  * Update Lithuanian translation
+  * Update Polish translation (#289)
+  * Update to current sources (#287)
+  * Indonesian translation (#260)
+  * Fix Czech localization
+  * Update Czech translation (by pafri)
+  * Update to current sources (no new strings) + update Polish translation
+  * Don't export .travis.yml
+
+0.11.99 / 2017-09-27
+====================
+
+  * Release 0.11.99: Update changelog
   * Added commas
   * Added basic .gitignore and .gitattributes, fixes #170
   * Some string changes
