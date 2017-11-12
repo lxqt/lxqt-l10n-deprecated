@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="it_IT" sourcelanguage="it_IT">
+<TS version="2.1" language="it" sourcelanguage="it_IT">
 <context>
     <name>ApplicationChooser</name>
     <message>
@@ -51,18 +51,18 @@
 <context>
     <name>MimetypeViewer</name>
     <message>
-        <location filename="../../../mimetypeviewer.cpp" line="157"/>
-        <location filename="../../../mimetypeviewer.cpp" line="208"/>
+        <location filename="../../../mimetypeviewer.cpp" line="156"/>
+        <location filename="../../../mimetypeviewer.cpp" line="207"/>
         <source>None</source>
         <translation>Nessuno</translation>
     </message>
     <message>
-        <location filename="../../../mimetypeviewer.cpp" line="204"/>
+        <location filename="../../../mimetypeviewer.cpp" line="203"/>
         <source>&amp;Change...</source>
         <translation>&amp;Cambia...</translation>
     </message>
     <message>
-        <location filename="../../../mimetypeviewer.cpp" line="209"/>
+        <location filename="../../../mimetypeviewer.cpp" line="208"/>
         <source>&amp;Choose...</source>
         <translation>&amp;Scegli...</translation>
     </message>

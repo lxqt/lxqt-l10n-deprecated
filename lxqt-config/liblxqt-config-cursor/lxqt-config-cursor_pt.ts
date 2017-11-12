@@ -11,7 +11,7 @@
     <message>
         <location filename="../../../selectwnd.ui" line="20"/>
         <source>Select the cursor theme you want to use (hover preview to test cursor). &lt;b&gt;LXQt session needs restart after this change&lt;/b&gt;:</source>
-        <translation>Escolha o tema de cursor a utilizar (passe com o rato para testar). &lt;b&gt;Tem que reiniciar o LXQt a sessão após a alteração&lt;/b&gt;:</translation>
+        <translation>Escolha o tema de cursor a utilizar (passe com o rato para testar). &lt;b&gt;Tem que reiniciar a sessão para aplicar esta alteração&lt;/b&gt;:</translation>
     </message>
     <message>
         <location filename="../../../selectwnd.ui" line="81"/>
@@ -32,12 +32,12 @@
         <translation type="vanished">Fe&amp;char</translation>
     </message>
     <message>
-        <location filename="../../../selectwnd.cpp" line="208"/>
+        <location filename="../../../selectwnd.cpp" line="212"/>
         <source>XCurTheme error</source>
         <translation>Erro XCurTheme</translation>
     </message>
     <message>
-        <location filename="../../../selectwnd.cpp" line="209"/>
+        <location filename="../../../selectwnd.cpp" line="213"/>
         <source>You can&apos;t remove active theme!</source>
         <translation>Não pode remover o tema ativo!</translation>
     </message>

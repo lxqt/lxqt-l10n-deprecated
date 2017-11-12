@@ -30,6 +30,10 @@ A selection which components shall be considered can be made by a boolean CMake 
 
 To build run trias `cmake`, `make` and `make install` as usual. Make target install accepts a variable `DESTDIR=<path>`.
 
+### Note for packagers
+
+To correctly run localized Qt application there is always good to have the Qt(core) translations installed. With them present in runtime we can avoid various misfunctionalities as e.g. [not working shortcuts](https://github.com/lxde/pcmanfm-qt/issues/401). Then for packager it is a good habit to state at least soft runtime dependency ("recommend") to Qt(core) translations for all packages made from this repository.
+
 ## Contributing
 
 As tools like Pootle or Transifex haven't been implemented yet we have to ask users to take a not too convenient approach which involves dealing with local source code checkouts.   

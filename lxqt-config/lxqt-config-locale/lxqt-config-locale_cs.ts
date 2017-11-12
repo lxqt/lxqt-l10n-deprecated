@@ -74,9 +74,13 @@
         <translation>Nastavení formátu změněno</translation>
     </message>
     <message>
-        <location filename="../../../localeconfig.cpp" line="309"/>
         <source>Save the settings ? (they will take effect the next time you log in)</source>
-        <translation>Uložit nastavení? (projeví se po vašem příštím přihlášení)</translation>
+        <translation type="vanished">Uložit nastavení? (projeví se po vašem příštím přihlášení)</translation>
+    </message>
+    <message>
+        <location filename="../../../localeconfig.cpp" line="309"/>
+        <source>Do you want to save your changes? They will take effect the next time you log in.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../localeconfig.cpp" line="430"/>
@@ -97,12 +101,12 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../../main.cpp" line="38"/>
+        <location filename="../../../main.cpp" line="50"/>
         <source>LXQt Locale Configuration</source>
         <translation>Místní nastavení LXQt</translation>
     </message>
     <message>
-        <location filename="../../../main.cpp" line="43"/>
+        <location filename="../../../main.cpp" line="55"/>
         <source>Locale Settings</source>
         <translation>Místní nastavení</translation>
     </message>

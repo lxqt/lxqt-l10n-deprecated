@@ -22,27 +22,27 @@
     <message>
         <location filename="../../../advancedsettings.ui" line="25"/>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Largura:</translation>
     </message>
     <message>
         <location filename="../../../advancedsettings.ui" line="49"/>
         <source>Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaçamento:</translation>
     </message>
     <message>
         <location filename="../../../advancedsettings.ui" line="68"/>
         <source>Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Duração</translation>
     </message>
     <message>
         <location filename="../../../advancedsettings.ui" line="80"/>
         <source>Some notifications set their own on-screen duration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Algumas notificações definem a sua duração no ecrã.</translation>
     </message>
     <message>
         <location filename="../../../advancedsettings.ui" line="92"/>
         <source>Default duration:</source>
-        <translation type="unfinished"></translation>
+        <translation>Duração padrão:</translation>
     </message>
     <message>
         <location filename="../../../advancedsettings.ui" line="99"/>
@@ -66,7 +66,7 @@
     </message>
     <message>
         <source>Notification Width:</source>
-        <translation type="vanished">Largura da notificaçao:</translation>
+        <translation type="vanished">Largura da notificação:</translation>
     </message>
 </context>
 <context>
@@ -79,7 +79,7 @@
     <message>
         <location filename="../../../basicsettings.ui" line="30"/>
         <source>Position on screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Posição no ecrã</translation>
     </message>
     <message>
         <source>Display Notifications</source>
@@ -106,33 +106,35 @@
         <translation type="vanished">Testar notificação</translation>
     </message>
     <message>
-        <location filename="../../../basicsettings.cpp" line="57"/>
+        <location filename="../../../basicsettings.cpp" line="56"/>
         <source>&lt;b&gt;Warning:&lt;/b&gt; No notifications daemon is running.
 A fallback will be used.</source>
         <translation>&lt;b&gt;Aviso:&lt;/b&gt; o serviço de notificaçoes não está em execução.
 Será utilizada uma solução alternativa.</translation>
     </message>
     <message>
-        <location filename="../../../basicsettings.cpp" line="60"/>
+        <location filename="../../../basicsettings.cpp" line="59"/>
         <source>&lt;b&gt;Warning:&lt;/b&gt; A third-party notifications daemon (%1) is running.
 These settings won&apos;t have any effect on it!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Aviso:&lt;/b&gt;já está a ser executado o serviço de notificações (%1).
+Estas definições não produzirão qualquer efeito!</translation>
     </message>
     <message>
-        <location filename="../../../basicsettings.cpp" line="117"/>
+        <location filename="../../../basicsettings.cpp" line="112"/>
         <source>Notification demo </source>
-        <translation type="unfinished"></translation>
+        <translation>Demonstração </translation>
     </message>
     <message>
-        <location filename="../../../basicsettings.cpp" line="118"/>
+        <location filename="../../../basicsettings.cpp" line="113"/>
         <source>This is a test notification.
  All notifications will now appear here on LXQt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta é uma notificação de teste.
+Todas as suas notificações aparecerão aqui.</translation>
     </message>
     <message>
         <source>&lt;b&gt;Warning:&lt;/b&gt; A third-party notifications daemon (%1) is running.
 These settings won&apos;t have an effect on it!</source>
-        <translation type="vanished">&lt;b&gt;Aviso:&lt;/b&gt; já está a ser executado um serviço de notificações (%1).
+        <translation type="vanished">&lt;b&gt;Aviso:&lt;/b&gt; já está a ser executado o serviço de notificações (%1).
 Estas definições não produzirão qualquer efeito!</translation>
     </message>
     <message>
@@ -141,7 +143,7 @@ Estas definições não produzirão qualquer efeito!</translation>
     </message>
     <message>
         <source>Notification Body</source>
-        <translation type="vanished">Corpo da notificação</translation>
+        <translation type="vanished">Texto da notificação</translation>
     </message>
 </context>
 <context>

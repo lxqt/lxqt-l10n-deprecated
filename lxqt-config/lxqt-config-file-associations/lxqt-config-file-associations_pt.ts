@@ -11,7 +11,7 @@
     <message>
         <location filename="../../../applicationchooser.ui" line="46"/>
         <source>Pick an application for:</source>
-        <translation>Escolha uma aplicação para:</translation>
+        <translation>Escolha a aplicação para:</translation>
     </message>
     <message>
         <location filename="../../../applicationchooser.ui" line="110"/>
@@ -51,18 +51,18 @@
 <context>
     <name>MimetypeViewer</name>
     <message>
-        <location filename="../../../mimetypeviewer.cpp" line="157"/>
-        <location filename="../../../mimetypeviewer.cpp" line="208"/>
+        <location filename="../../../mimetypeviewer.cpp" line="156"/>
+        <location filename="../../../mimetypeviewer.cpp" line="207"/>
         <source>None</source>
         <translation>Nenhum</translation>
     </message>
     <message>
-        <location filename="../../../mimetypeviewer.cpp" line="204"/>
+        <location filename="../../../mimetypeviewer.cpp" line="203"/>
         <source>&amp;Change...</source>
-        <translation>&amp;Mudar...</translation>
+        <translation>&amp;Alterar...</translation>
     </message>
     <message>
-        <location filename="../../../mimetypeviewer.cpp" line="209"/>
+        <location filename="../../../mimetypeviewer.cpp" line="208"/>
         <source>&amp;Choose...</source>
         <translation>Es&amp;colher...</translation>
     </message>
@@ -77,7 +77,7 @@
     <message>
         <location filename="../../../mimetypeviewer.ui" line="56"/>
         <source>Default application</source>
-        <translation>Aplicaçao pré-definida</translation>
+        <translation>Aplicaçao padrão</translation>
     </message>
     <message>
         <location filename="../../../mimetypeviewer.ui" line="68"/>

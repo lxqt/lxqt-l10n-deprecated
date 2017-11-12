@@ -2,25 +2,6 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="nl">
 <context>
-    <name>AddPluginDialog</name>
-    <message>
-        <source>Add plugins</source>
-        <translation type="obsolete">Plugins toevoegen</translation>
-    </message>
-    <message>
-        <source>Search:</source>
-        <translation type="vanished">Zoeken:</translation>
-    </message>
-    <message>
-        <source>Add plugin</source>
-        <translation type="obsolete">Plugin toevoegen</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="vanished">Sluiten</translation>
-    </message>
-</context>
-<context>
     <name>ConfigDialog</name>
     <message>
         <location filename="../../configdialog/lxqtconfigdialog.ui" line="14"/>
@@ -29,27 +10,16 @@
     </message>
 </context>
 <context>
-    <name>LXQt::AboutDialogPrivate</name>
-    <message>
-        <source>Yes</source>
-        <translation type="obsolete">Ja</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="obsolete">Nee</translation>
-    </message>
-</context>
-<context>
     <name>LXQt::MessageBox</name>
     <message>
-        <location filename="../../lxqtpowermanager.cpp" line="70"/>
+        <location filename="../../lxqtpowermanager.cpp" line="74"/>
         <source>LXQt Power Manager Error</source>
-        <translation type="unfinished">LXQt Energiebeheer fout</translation>
+        <translation>Fout van LXQt-Energiebeheerder</translation>
     </message>
     <message>
-        <location filename="../../lxqtpowermanager.cpp" line="70"/>
+        <location filename="../../lxqtpowermanager.cpp" line="74"/>
         <source>Hibernate failed.</source>
-        <translation type="unfinished">SCHIJF-slaapstand mislukt.</translation>
+        <translation>Slaapstand is mislukt.</translation>
     </message>
 </context>
 <context>
@@ -57,202 +27,162 @@
     <message>
         <location filename="../../lxqtnotification.cpp" line="152"/>
         <source>Notifications Fallback</source>
-        <translation>Notificaties terugval</translation>
+        <translation>Reserve-berichtensysteem</translation>
     </message>
 </context>
 <context>
     <name>LXQt::PowerManager</name>
     <message>
-        <location filename="../../lxqtpowermanager.cpp" line="112"/>
+        <location filename="../../lxqtpowermanager.cpp" line="117"/>
         <source>Hibernate</source>
         <translation>Slaapstand</translation>
     </message>
     <message>
-        <location filename="../../lxqtpowermanager.cpp" line="119"/>
+        <location filename="../../lxqtpowermanager.cpp" line="124"/>
         <source>Suspend</source>
-        <translation>Slapen</translation>
+        <translation>Pauzestand</translation>
     </message>
     <message>
-        <location filename="../../lxqtpowermanager.cpp" line="126"/>
+        <location filename="../../lxqtpowermanager.cpp" line="131"/>
         <source>Reboot</source>
         <translation>Herstarten</translation>
     </message>
     <message>
-        <location filename="../../lxqtpowermanager.cpp" line="133"/>
+        <location filename="../../lxqtpowermanager.cpp" line="138"/>
         <source>Shutdown</source>
         <translation>Afsluiten</translation>
     </message>
     <message>
-        <location filename="../../lxqtpowermanager.cpp" line="140"/>
+        <location filename="../../lxqtpowermanager.cpp" line="145"/>
         <source>Logout</source>
         <translation>Afmelden</translation>
     </message>
     <message>
-        <location filename="../../lxqtpowermanager.cpp" line="152"/>
+        <location filename="../../lxqtpowermanager.cpp" line="157"/>
         <source>LXQt Session Suspend</source>
-        <translation>LXQt Sessie Slapen</translation>
+        <translation>LXQt-pauzestand</translation>
     </message>
     <message>
-        <location filename="../../lxqtpowermanager.cpp" line="153"/>
+        <location filename="../../lxqtpowermanager.cpp" line="158"/>
         <source>Do you want to really suspend your computer?&lt;p&gt;Suspends the computer into a low power state. System state is not preserved if the power is lost.</source>
-        <translation>Wilt u uw Sessie in RAM slaapstand brengen?&lt;p&gt;Slaat uw sessie op in het RAM geheugen. LET OP! Gegevens gaan verloren tijdens een stroom uitval.</translation>
+        <translation>Wilt u uw computer echt in pauzestand brengen?&lt;p&gt;Pauzestand brengt de computer in een energiespaarstand. De systeemstatus blijft niet behouden wanneer de stroomtoevoer wordt verbroken.</translation>
     </message>
     <message>
-        <location filename="../../lxqtpowermanager.cpp" line="162"/>
+        <location filename="../../lxqtpowermanager.cpp" line="167"/>
         <source>LXQt Session Hibernate</source>
-        <translation>LXQt Sessie Slaapstand</translation>
+        <translation>LXQt-slaapstand</translation>
     </message>
     <message>
-        <location filename="../../lxqtpowermanager.cpp" line="163"/>
+        <location filename="../../lxqtpowermanager.cpp" line="168"/>
         <source>Do you want to really hibernate your computer?&lt;p&gt;Hibernates the computer into a low power state. System state is preserved if the power is lost.</source>
-        <translation>Wilt u uw Sessie in SCHIJF slaapstand brengen?&lt;p&gt;Slaat uw sessie op in  een bestand op uw Schijf. Gegevens gaan NIET verloren tijdens een stroom uitval.</translation>
+        <translation>Wilt u uw computer echt in slaapstand brengen?&lt;p&gt;Slaapstand brengt de computer in een energiespaarstand. De systeemstatus blijft niet behouden wanneer de stroomtoevoer wordt verbroken.</translation>
     </message>
     <message>
-        <location filename="../../lxqtpowermanager.cpp" line="172"/>
+        <location filename="../../lxqtpowermanager.cpp" line="177"/>
         <source>LXQt Session Reboot</source>
-        <translation>LXQt Sessie Herstarten</translation>
+        <translation>LXQt-herstarten</translation>
     </message>
     <message>
-        <location filename="../../lxqtpowermanager.cpp" line="173"/>
+        <location filename="../../lxqtpowermanager.cpp" line="178"/>
         <source>Do you want to really restart your computer? All unsaved work will be lost...</source>
-        <translation>Wilt u uw computer herstarten? LET OP! Niet opgeslagen gegevens gaan verloren</translation>
+        <translation>Wilt u uw computer echt herstarten? Al uw niet-opgeslagen werk zal verloren gaan...</translation>
     </message>
     <message>
-        <location filename="../../lxqtpowermanager.cpp" line="182"/>
+        <location filename="../../lxqtpowermanager.cpp" line="187"/>
         <source>LXQt Session Shutdown</source>
-        <translation>LXQt Sessie Afsluiten</translation>
+        <translation>LXQt-afsluiten</translation>
     </message>
     <message>
-        <location filename="../../lxqtpowermanager.cpp" line="183"/>
+        <location filename="../../lxqtpowermanager.cpp" line="188"/>
         <source>Do you want to really switch off your computer? All unsaved work will be lost...</source>
-        <translation>Wilt u uw computer Afsluiten? LET OP! Niet opgeslagen gegevens gaan verloren</translation>
+        <translation>Wilt u uw computer echt afsluiten? Al uw niet-opgeslagen werk zal verloren gaan...</translation>
     </message>
     <message>
-        <location filename="../../lxqtpowermanager.cpp" line="192"/>
+        <location filename="../../lxqtpowermanager.cpp" line="197"/>
         <source>LXQt Session Logout</source>
-        <translation>LXQt Sessie Afmelden</translation>
+        <translation>LXQt-afmelden</translation>
     </message>
     <message>
-        <location filename="../../lxqtpowermanager.cpp" line="193"/>
+        <location filename="../../lxqtpowermanager.cpp" line="198"/>
         <source>Do you want to really logout? All unsaved work will be lost...</source>
-        <translation>Wilt u uw sessie beeindigen? LET OP! Niet opgeslagen gegevens gaan verloren</translation>
+        <translation>Wilt u zich echt afmelden? Al uw niet-opgeslagen werk zal verloren gaan...</translation>
     </message>
     <message>
-        <location filename="../../lxqtpowermanager.cpp" line="201"/>
         <location filename="../../lxqtpowermanager.cpp" line="206"/>
+        <location filename="../../lxqtpowermanager.cpp" line="211"/>
         <source>LXQt Power Manager Error</source>
-        <translation>LXQt Energiebeheer fout</translation>
-    </message>
-    <message>
-        <location filename="../../lxqtpowermanager.cpp" line="201"/>
-        <source>Hibernate failed.</source>
-        <translation>SCHIJF-slaapstand mislukt.</translation>
+        <translation>Fout van LXQt-energiebeheerder</translation>
     </message>
     <message>
         <location filename="../../lxqtpowermanager.cpp" line="206"/>
+        <source>Hibernate failed.</source>
+        <translation>Slaapstand is mislukt.</translation>
+    </message>
+    <message>
+        <location filename="../../lxqtpowermanager.cpp" line="211"/>
         <source>Suspend failed.</source>
-        <translation>RAM-slaapstand mislukt.</translation>
+        <translation>Pauzestand is mislukt.</translation>
     </message>
 </context>
 <context>
     <name>LXQt::ScreenSaver</name>
     <message>
-        <location filename="../../lxqtscreensaver.cpp" line="51"/>
+        <location filename="../../lxqtscreensaver.cpp" line="236"/>
         <source>Lock Screen</source>
-        <translation>Scherm Vergrendelen</translation>
+        <translation>Scherm vergrendelen</translation>
     </message>
     <message>
-        <location filename="../../lxqtscreensaver.cpp" line="77"/>
+        <location filename="../../lxqtscreensaver.cpp" line="156"/>
         <source>Screen Saver Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Fout van schermbeveiliging</translation>
     </message>
     <message>
-        <location filename="../../lxqtscreensaver.cpp" line="83"/>
-        <location filename="../../lxqtscreensaver.cpp" line="89"/>
-        <location filename="../../lxqtscreensaver.cpp" line="96"/>
-        <source>Screen Saver Activation Error</source>
-        <translation>Schermbeveiliging Activering fout</translation>
-    </message>
-    <message>
-        <location filename="../../lxqtscreensaver.cpp" line="97"/>
-        <source>An error occurred starting screensaver. Unknown error - undocumented return value from xdg-screensaver: %1.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>An error occurred starting screensaver. xdg-screensaver cannot be started due its crash.</source>
-        <translation type="vanished">Fout tijdens het starten van de schermbeveiliging. xdg-schermbeveiliging kan niet starten, wegens een crash.</translation>
-    </message>
-    <message>
-        <source>An error occurred starting screensaver. xdg-screensaver is not installed correctly.</source>
-        <translation type="vanished">Fout tijdens het starten van de schermbeveiliging. xdg-schermbeveiliging is niet correct geinstalleerd..</translation>
-    </message>
-    <message>
-        <source>An error occurred starting screensaver. xdg-screensaver cannot be started.</source>
-        <translation type="vanished">Fout tijdens het starten van de schermbeveiliging. xdg-schermbeveiliging kan niet starten.</translation>
-    </message>
-    <message>
-        <location filename="../../lxqtscreensaver.cpp" line="78"/>
+        <location filename="../../lxqtscreensaver.cpp" line="157"/>
         <source>An error occurred starting screensaver. Syntax error in xdg-screensaver arguments.</source>
-        <translation>Fout tijdens het starten van de schermbeveiliging. Regelfout in xdg-schermbeveiliging argumenten.</translation>
+        <translation>Er is een fout opgetreden bij het starten van de schermbeveiliging. Fout in zinsbouw bij de argumenten voor xdg-screensaver.</translation>
     </message>
     <message>
-        <location filename="../../lxqtscreensaver.cpp" line="84"/>
+        <location filename="../../lxqtscreensaver.cpp" line="162"/>
+        <location filename="../../lxqtscreensaver.cpp" line="168"/>
+        <location filename="../../lxqtscreensaver.cpp" line="175"/>
+        <source>Screen Saver Activation Error</source>
+        <translation>Fout bij het activeren van de schermbeveiliging</translation>
+    </message>
+    <message>
+        <location filename="../../lxqtscreensaver.cpp" line="163"/>
         <source>An error occurred starting screensaver. Ensure you have xscreensaver installed and running.</source>
-        <translation>Fout tijdens het starten van de schermbeveiliging. Controleer of xdg-schermbeveiliging is geinstalleerd en gestart.</translation>
+        <translation>Er is een fout opgetreden bij het starten van de schermbeveiliging. Zorg ervoor dat u xscreensaver hebt geïnstalleerd en dat die draait.</translation>
     </message>
     <message>
-        <location filename="../../lxqtscreensaver.cpp" line="90"/>
+        <location filename="../../lxqtscreensaver.cpp" line="169"/>
         <source>An error occurred starting screensaver. Action &apos;activate&apos; failed. Ensure you have xscreensaver installed and running.</source>
-        <translation>Fout tijdens het starten van de schermbeveiliging. Actie &apos;activeren&apos; mislukt. Controleer of xdg-schermbeveiliging is geinstalleerd en gestart.</translation>
-    </message>
-</context>
-<context>
-    <name>LXQt::ShortcutButton</name>
-    <message>
-        <source>Clear</source>
-        <translation type="obsolete">Wissen</translation>
+        <translation>Er is een fout opgetreden bij het starten van de schermbeveiliging. De actie &apos;activeren&apos; is mislukt. Zorg ervoor dat u xscreensaver hebt geïnstalleerd en dat die draait.</translation>
     </message>
     <message>
-        <source>None</source>
-        <translation type="obsolete">Geen</translation>
+        <location filename="../../lxqtscreensaver.cpp" line="176"/>
+        <source>An error occurred starting screensaver. Unknown error - undocumented return value from xdg-screensaver: %1.</source>
+        <translation>Er is een fout opgetreden bij het starten van de schermbeveiliging. Onbekende fout - niet-gedocumenteerde uitvoerwaarde van xdg-screensaver: %1.</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../lxqtpower/lxqtpowerproviders.cpp" line="91"/>
-        <location filename="../../lxqtpower/lxqtpowerproviders.cpp" line="141"/>
+        <location filename="../../lxqtpower/lxqtpowerproviders.cpp" line="87"/>
+        <location filename="../../lxqtpower/lxqtpowerproviders.cpp" line="137"/>
         <source>Power Manager Error</source>
-        <translation>Energiebeheer Fout</translation>
+        <translation>Fout van energiebeheerder</translation>
     </message>
     <message>
-        <location filename="../../lxqtpower/lxqtpowerproviders.cpp" line="92"/>
-        <location filename="../../lxqtpower/lxqtpowerproviders.cpp" line="142"/>
+        <location filename="../../lxqtpower/lxqtpowerproviders.cpp" line="88"/>
+        <location filename="../../lxqtpower/lxqtpowerproviders.cpp" line="138"/>
         <source>QDBusInterface is invalid</source>
         <translation>QDBusInterface is ongeldig</translation>
     </message>
     <message>
-        <location filename="../../lxqtpower/lxqtpowerproviders.cpp" line="106"/>
-        <location filename="../../lxqtpower/lxqtpowerproviders.cpp" line="156"/>
+        <location filename="../../lxqtpower/lxqtpowerproviders.cpp" line="102"/>
+        <location filename="../../lxqtpower/lxqtpowerproviders.cpp" line="152"/>
         <source>Power Manager Error (D-BUS call)</source>
-        <translation>Energiebeheer Error (D-BUS oproep)</translation>
-    </message>
-</context>
-<context>
-    <name>about</name>
-    <message>
-        <source> About LXQt</source>
-        <translation type="vanished">Over LXQt</translation>
-    </message>
-    <message>
-        <source>About</source>
-        <comment>About dialog, Tab title </comment>
-        <translation type="vanished">Over</translation>
-    </message>
-    <message>
-        <source>Technical Info</source>
-        <comment>About dialog, Tab title</comment>
-        <translation type="vanished">Technische Informatie </translation>
+        <translation>Fout van energiebeheerder (D-BUS-oproep)</translation>
     </message>
 </context>
 </TS>

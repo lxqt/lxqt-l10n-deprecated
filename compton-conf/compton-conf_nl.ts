@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language ="nl">
+<TS version="2.1" language="nl">
 <context>
     <name>MainDialog</name>
     <message>
@@ -59,9 +59,13 @@
         <translation>Teken geen schaduwen op dok-/paneelvensters</translation>
     </message>
     <message>
-        <location filename="../../maindialog.ui" line="113"/>
         <source>Enabled client-side shadows on windows</source>
-        <translation>Ingeschakelde schaduwen op vensters</translation>
+        <translation type="vanished">Ingeschakelde schaduwen op vensters</translation>
+    </message>
+    <message>
+        <location filename="../../maindialog.ui" line="113"/>
+        <source>Enable client-side shadows on windows</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="120"/>
@@ -76,7 +80,7 @@
     <message>
         <location filename="../../maindialog.ui" line="147"/>
         <source>The opacity for menus</source>
-        <translation>De ondoorzichtigheid voor menu's</translation>
+        <translation>De ondoorzichtigheid voor menu&apos;s</translation>
     </message>
     <message>
         <location filename="../../maindialog.ui" line="154"/>
@@ -161,22 +165,36 @@
         <translation>Overig</translation>
     </message>
     <message>
-        <location filename="../../maindialog.ui" line="362"/>
-        <source>Not implemented yet</source>
-        <translation>Nog niet ten uitvoer gebracht</translation>
+        <location filename="../../maindialog.ui" line="368"/>
+        <source>Rendering backend</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../maindialog.ui" line="375"/>
+        <location filename="../../maindialog.ui" line="380"/>
+        <source>X Render</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../maindialog.ui" line="387"/>
+        <source>GLX (OpenGL)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not implemented yet</source>
+        <translation type="vanished">Nog niet ten uitvoer gebracht</translation>
+    </message>
+    <message>
+        <location filename="../../maindialog.ui" line="403"/>
         <source>About</source>
         <translation>Over</translation>
     </message>
     <message>
-        <location filename="../../maindialog.cpp" line="179"/>
+        <location filename="../../maindialog.cpp" line="206"/>
         <source>About ComptonConf</source>
         <translation>Over ComptonConf</translation>
     </message>
     <message>
-        <location filename="../../maindialog.cpp" line="180"/>
+        <location filename="../../maindialog.cpp" line="207"/>
         <source>ComptonConf - configuration tool for compton
 
 Copyright (C) 2013

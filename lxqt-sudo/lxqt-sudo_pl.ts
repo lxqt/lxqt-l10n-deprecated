@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="pl">
 <context>
     <name>PasswordDialog</name>
     <message>
@@ -69,23 +69,36 @@ Arguments:
   arguments        Optional arguments for command.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Użycie: %1 opcja [komenda [argumenty…]]
+
+Graficzny front-end dla %2/%3
+
+Argumenty:
+  opcja:
+    -h|--help      Wyświetla tą informację.
+    -v|--version   Wyświetla informacje o wersji.
+    -s|--su        Używa %3(1) jako back-end.
+    -d|--sudo      Używa %2(8) jako back-end.
+  command          Polecenie do uruchomienia.
+  arguments        Dodatkowe argumenty dla polecenia.
+
+</translation>
     </message>
     <message>
         <location filename="../../sudo.cpp" line="80"/>
         <source>%1 version %2
 </source>
-        <translation>%1 wersja %2
+        <translation>%1 w wersji %2
 </translation>
     </message>
     <message>
         <source>%1: no command to run provided!</source>
-        <translation type="vanished">%1: nie podano komendy do wykonania!</translation>
+        <translation type="vanished">%1: nie podano komendy do uruchomienia!</translation>
     </message>
     <message>
         <source>Child &apos;%1&apos; process failed!
 %2</source>
-        <translation type="vanished">Wykonanie procesu &apos;%1&apos; nie powiodło się!
+        <translation type="vanished">Proces potomny &apos;%1&apos; nie powiódł się!
 %2</translation>
     </message>
 </context>
@@ -94,28 +107,29 @@ Arguments:
     <message>
         <location filename="../../sudo.cpp" line="135"/>
         <source>%1: no command to run provided!</source>
-        <translation type="unfinished">%1: nie podano komendy do wykonania!</translation>
+        <translation>%1: nie podano komendy do uruchomienia!</translation>
     </message>
     <message>
         <location filename="../../sudo.cpp" line="142"/>
         <source>%1: no backend chosen!</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: nie wybrano backendu!</translation>
     </message>
     <message>
         <location filename="../../sudo.cpp" line="147"/>
         <source>%1: warning - got multiple arguments for %2 backend, squashing into one: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: ostrzeżenie – wiele argumentów dla backendu %2, połączono w jeden: %3</translation>
     </message>
     <message>
         <location filename="../../sudo.cpp" line="162"/>
         <source>Failed to fork: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się rozwidlić: %1</translation>
     </message>
     <message>
         <location filename="../../sudo.cpp" line="205"/>
         <source>%1: Failed to exec &apos;%2&apos;: %3
 </source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Nie udało się wykonać  &apos;%2&apos;: %3
+</translation>
     </message>
     <message>
         <location filename="../../sudo.cpp" line="234"/>
@@ -125,13 +139,13 @@ Arguments:
     <message>
         <location filename="../../sudo.cpp" line="242"/>
         <source>Failed to fdopen: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się wykonać fdopen: %1</translation>
     </message>
     <message>
         <location filename="../../sudo.cpp" line="275"/>
         <source>Child &apos;%1&apos; process failed!
 %2</source>
-        <translation type="unfinished">Wykonanie procesu &apos;%1&apos; nie powiodło się!
+        <translation>Wykonanie procesu potomnego &apos;%1&apos; nie powiodło się!
 %2</translation>
     </message>
 </context>

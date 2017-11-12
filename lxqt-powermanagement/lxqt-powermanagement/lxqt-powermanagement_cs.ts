@@ -36,7 +36,7 @@
     <message>
         <location filename="../../../batteryhelper.cpp" line="62"/>
         <source>Lithium iron phosphate</source>
-        <translation type="unfinished"></translation>
+        <translation>Lithium ion fosfát</translation>
     </message>
     <message>
         <location filename="../../../batteryhelper.cpp" line="64"/>
@@ -46,12 +46,12 @@
     <message>
         <location filename="../../../batteryhelper.cpp" line="66"/>
         <source>Nickel cadmium</source>
-        <translation type="unfinished"></translation>
+        <translation>Nikl kadmium</translation>
     </message>
     <message>
         <location filename="../../../batteryhelper.cpp" line="68"/>
         <source>Nickel metal hydride</source>
-        <translation type="unfinished"></translation>
+        <translation>Nikl kadmium hybrid</translation>
     </message>
     <message>
         <location filename="../../../batteryhelper.cpp" line="71"/>
@@ -61,12 +61,12 @@
     <message>
         <location filename="../../../batteryhelper.cpp" line="80"/>
         <source>Personal Digital Assistant&apos;s battery</source>
-        <translation type="unfinished"></translation>
+        <translation>Baterie osobního digitálního pomocníka</translation>
     </message>
     <message>
         <location filename="../../../batteryhelper.cpp" line="82"/>
         <source>Uninterruptible Power Supply&apos;s battery</source>
-        <translation type="unfinished"></translation>
+        <translation>Baterie nepřerušitelné dodávky elektřiny</translation>
     </message>
     <message>
         <location filename="../../../batteryhelper.cpp" line="84"/>
@@ -147,12 +147,12 @@
     <message>
         <location filename="../../../batteryinfoframe.ui" line="90"/>
         <source>Energy Full Design:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vzhled při nabití:</translation>
     </message>
     <message>
         <location filename="../../../batteryinfoframe.ui" line="107"/>
         <source>Energy Full:</source>
-        <translation>Plná energie:</translation>
+        <translation>Nabito:</translation>
     </message>
     <message>
         <location filename="../../../batteryinfoframe.ui" line="124"/>
@@ -162,7 +162,7 @@
     <message>
         <location filename="../../../batteryinfoframe.ui" line="141"/>
         <source>Energy rate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Úroveň nabití:</translation>
     </message>
     <message>
         <location filename="../../../batteryinfoframe.ui" line="165"/>
@@ -197,76 +197,89 @@
         <source>Power low!</source>
         <translation>Málo energie!</translation>
     </message>
-    <message>
+    <message numerus="yes">
         <location filename="../../../batterywatcher.cpp" line="125"/>
-        <source>Suspending in %1 seconds</source>
-        <translation>Uspání za %1 sekund</translation>
+        <source>Suspending in %n second(s)</source>
+        <translation>
+            <numerusform>Uspání do paměti za %n sekundu</numerusform>
+            <numerusform>Uspání do paměti za %n sekundy</numerusform>
+            <numerusform>Uspání do paměti za %n sekund</numerusform>
+        </translation>
     </message>
-    <message>
+    <message numerus="yes">
         <location filename="../../../batterywatcher.cpp" line="128"/>
-        <source>Hibernating in %1 seconds</source>
-        <translation>Hibernace (zazimování) za %1 sekund</translation>
+        <source>Hibernating in %n second(s)</source>
+        <translation>
+            <numerusform>Uspání na disk za %n sekundu</numerusform>
+            <numerusform>Uspání na disk za %n sekundy</numerusform>
+            <numerusform>Uspání na disk za %n sekund</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <location filename="../../../batterywatcher.cpp" line="131"/>
+        <source>Shutting down in %n second(s)</source>
+        <translation>
+            <numerusform>Vypnutí za %n sekundu</numerusform>
+            <numerusform>Vypnutí za %n sekundy</numerusform>
+            <numerusform>Vypnutí za %n sekund</numerusform>
+        </translation>
     </message>
     <message>
-        <location filename="../../../batterywatcher.cpp" line="131"/>
+        <source>Suspending in %1 seconds</source>
+        <translation type="vanished">Uspání do paměti za %1 sekund</translation>
+    </message>
+    <message>
+        <source>Hibernating in %1 seconds</source>
+        <translation type="vanished">Uspání na disk za %1 sekund</translation>
+    </message>
+    <message>
         <source>Shutting down in %1 seconds</source>
-        <translation>Vypnutí za %1 sekund</translation>
+        <translation type="vanished">Vypnutí za %1 sekund</translation>
     </message>
 </context>
 <context>
     <name>IdlenessWatcher</name>
     <message>
-        <location filename="../../../idlenesswatcher.cpp" line="50"/>
         <source>LXQt Idleness watcher failed to start</source>
-        <translation>Sledování nečinnosti LXQt se nepodařilo spustit</translation>
+        <translation type="vanished">Sledování nečinnosti LXQt se nepodařilo spustit</translation>
     </message>
     <message>
-        <location filename="../../../idlenesswatcher.cpp" line="73"/>
-        <source>D-Bus interface org.freedesktop.ScreenSaver is already registered</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../idlenesswatcher.cpp" line="107"/>
         <source>The X11 Screensaver extension is not usable</source>
-        <translation>Rozšíření šetřiče obrazovky X11 je nepoužitelné</translation>
+        <translation type="vanished">Rozšíření šetřiče obrazovky X11 je nepoužitelné</translation>
     </message>
     <message>
-        <location filename="../../../idlenesswatcher.cpp" line="114"/>
         <source>Configure...</source>
-        <translation>Nastavit...</translation>
+        <translation type="vanished">Nastavit...</translation>
     </message>
     <message>
-        <location filename="../../../idlenesswatcher.cpp" line="179"/>
         <source>ERROR: Screen unlocked</source>
-        <translation>Chyba: Obrazovka odemknuta</translation>
+        <translation type="vanished">Chyba: Obrazovka odemknuta</translation>
     </message>
     <message>
-        <location filename="../../../idlenesswatcher.cpp" line="181"/>
         <source>Locking program &quot;%1&quot; exited with error code %2</source>
-        <translation>Uzamykací program &quot;%1&quot; skončil s kódem chyby %2</translation>
+        <translation type="vanished">Uzamykací program &quot;%1&quot; skončil s kódem chyby %2</translation>
     </message>
     <message>
-        <location filename="../../../idlenesswatcher.cpp" line="183"/>
         <source>Locking program &quot;%1&quot; crashed with error code %2</source>
-        <translation>Uzamykací program &quot;%1&quot; spadl s kódem chyby %2</translation>
+        <translation type="vanished">Uzamykací program &quot;%1&quot; spadl s kódem chyby %2</translation>
     </message>
 </context>
 <context>
     <name>PowerManagementd</name>
     <message>
-        <location filename="../../../powermanagementd.cpp" line="107"/>
+        <location filename="../../../powermanagementd.cpp" line="108"/>
         <source>Power Management</source>
         <translation>Správa energie</translation>
     </message>
     <message>
-        <location filename="../../../powermanagementd.cpp" line="108"/>
+        <location filename="../../../powermanagementd.cpp" line="109"/>
         <source>You are running LXQt Power Management for the first time.
 You can configure it from settings... </source>
         <translation>Spouštíte správu energie LXQt poprvé.
 Můžete ji nastavit v Nastavení... </translation>
     </message>
     <message>
-        <location filename="../../../powermanagementd.cpp" line="109"/>
+        <location filename="../../../powermanagementd.cpp" line="110"/>
         <source>Configure...</source>
         <translation>Nastavit...</translation>
     </message>
@@ -292,17 +305,17 @@ Můžete ji nastavit v Nastavení... </translation>
     <message>
         <location filename="../../../trayicon.cpp" line="93"/>
         <source>&lt;p&gt;  &lt;b&gt;LXQt Power Management&lt;/b&gt;&lt;br/&gt;  - Power Management for the LXQt Desktop Environment&lt;/p&gt;&lt;p&gt;  Authors:&lt;br/&gt;  &amp;nbsp; Christian Surlykke, Alec Moskvin&lt;br/&gt;  &amp;nbsp; - and others from the Razor and LXQt projects&lt;/p&gt;&lt;p&gt;  Copyright &amp;copy; 2012-2014&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;  &lt;b&gt;Správa energie&lt;/b&gt;&lt;br/&gt;  - Správa energie pro prostředí plochy LXQt&lt;/p&gt;&lt;p&gt;  Autoři:&lt;br/&gt;  &amp;nbsp; Christian Surlykke, Alec Moskvin&lt;br/&gt;  &amp;nbsp; - a další z projektů Razor a LXQt&lt;/p&gt;&lt;p&gt;  Autorské právo &amp;copy; 2012-2014&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../trayicon.cpp" line="111"/>
         <source>LXQt Power Management info</source>
-        <translation>Informace o správě energie LXQt</translation>
+        <translation>Údaje o správě energie LXQt</translation>
     </message>
     <message>
         <location filename="../../../trayicon.cpp" line="112"/>
         <source>The LXQt Power Management tray icon can be (re)enabled in &lt;i&gt;lxqt-config-powermanagement&lt;/i&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikonu v panelu pro správu energie v LXQt lze (znovu)povolit v &lt;i&gt;lxqt-config-powermanagement&lt;/i&gt;</translation>
     </message>
     <message>
         <location filename="../../../trayicon.cpp" line="114"/>

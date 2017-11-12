@@ -4,14 +4,14 @@
 <context>
     <name>LXQtMainMenu</name>
     <message>
-        <location filename="../../../lxqtmainmenu.cpp" line="95"/>
+        <location filename="../../../lxqtmainmenu.cpp" line="96"/>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Пошук...</translation>
     </message>
     <message>
-        <location filename="../../../lxqtmainmenu.cpp" line="101"/>
+        <location filename="../../../lxqtmainmenu.cpp" line="102"/>
         <source>Show/hide main menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати/сховати головне меню</translation>
     </message>
     <message>
         <source>Leave</source>
@@ -40,27 +40,27 @@
     <message>
         <location filename="../../../lxqtmainmenuconfiguration.ui" line="14"/>
         <source>Main Menu settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Налаштування головного меню</translation>
     </message>
     <message>
         <location filename="../../../lxqtmainmenuconfiguration.ui" line="35"/>
         <source>Icon:</source>
-        <translation type="unfinished"></translation>
+        <translation>Значок:</translation>
     </message>
     <message>
         <location filename="../../../lxqtmainmenuconfiguration.ui" line="59"/>
         <source>Button text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст кнопки:</translation>
     </message>
     <message>
         <location filename="../../../lxqtmainmenuconfiguration.ui" line="76"/>
         <source>Custom font size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Власний розмір шрифту:</translation>
     </message>
     <message>
         <location filename="../../../lxqtmainmenuconfiguration.ui" line="86"/>
         <source> pt</source>
-        <translation type="unfinished"></translation>
+        <translation> пт</translation>
     </message>
     <message>
         <location filename="../../../lxqtmainmenuconfiguration.ui" line="105"/>
@@ -70,41 +70,46 @@
     <message>
         <location filename="../../../lxqtmainmenuconfiguration.ui" line="111"/>
         <source>Menu file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл меню:</translation>
+    </message>
+    <message>
+        <location filename="../../../lxqtmainmenuconfiguration.ui" line="156"/>
+        <source>Search</source>
+        <translation>Пошук</translation>
+    </message>
+    <message>
+        <location filename="../../../lxqtmainmenuconfiguration.ui" line="162"/>
+        <source>max. item width:</source>
+        <translation>макс. розмір:</translation>
     </message>
     <message>
         <location filename="../../../lxqtmainmenuconfiguration.ui" line="169"/>
-        <source>Search</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../lxqtmainmenuconfiguration.ui" line="175"/>
-        <source>max. item width:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../lxqtmainmenuconfiguration.ui" line="182"/>
         <source>Show matching entries:</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати відповідні входження:</translation>
     </message>
     <message>
-        <location filename="../../../lxqtmainmenuconfiguration.ui" line="196"/>
+        <location filename="../../../lxqtmainmenuconfiguration.ui" line="183"/>
         <source>Maximum visible items:</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати максимально:</translation>
     </message>
     <message>
-        <location filename="../../../lxqtmainmenuconfiguration.ui" line="203"/>
+        <location filename="../../../lxqtmainmenuconfiguration.ui" line="190"/>
         <source>Filter menu entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Фільтрувати меню входжень</translation>
+    </message>
+    <message>
+        <location filename="../../../lxqtmainmenuconfiguration.ui" line="197"/>
+        <source> px</source>
+        <translation> пт</translation>
     </message>
     <message>
         <location filename="../../../lxqtmainmenuconfiguration.ui" line="210"/>
-        <source> px</source>
-        <translation type="unfinished"></translation>
+        <source>Hide menu entries while searching</source>
+        <translation>Приховати меню входжень під час пошуку</translation>
     </message>
     <message>
-        <location filename="../../../lxqtmainmenuconfiguration.ui" line="223"/>
-        <source>Hide menu entries while searching</source>
+        <location filename="../../../lxqtmainmenuconfiguration.ui" line="217"/>
+        <source>Clear search upon showing menu</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -124,25 +129,25 @@
     <message>
         <location filename="../../../lxqtmainmenuconfiguration.cpp" line="71"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Скинути</translation>
     </message>
     <message>
-        <location filename="../../../lxqtmainmenuconfiguration.cpp" line="156"/>
+        <location filename="../../../lxqtmainmenuconfiguration.cpp" line="165"/>
         <source>Choose icon file</source>
-        <translation type="unfinished"></translation>
+        <translation>Вибрати файл значка</translation>
     </message>
     <message>
-        <location filename="../../../lxqtmainmenuconfiguration.cpp" line="158"/>
+        <location filename="../../../lxqtmainmenuconfiguration.cpp" line="167"/>
         <source>Images (*.svg *.png)</source>
-        <translation type="unfinished"></translation>
+        <translation>Малюнки (*.svg *.png) </translation>
     </message>
     <message>
-        <location filename="../../../lxqtmainmenuconfiguration.cpp" line="170"/>
+        <location filename="../../../lxqtmainmenuconfiguration.cpp" line="179"/>
         <source>Choose menu file</source>
         <translation>Оберіть файл меню</translation>
     </message>
     <message>
-        <location filename="../../../lxqtmainmenuconfiguration.cpp" line="172"/>
+        <location filename="../../../lxqtmainmenuconfiguration.cpp" line="181"/>
         <source>Menu files (*.menu)</source>
         <translation>Файли меню (*.menu)</translation>
     </message>

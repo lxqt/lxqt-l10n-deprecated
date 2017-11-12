@@ -1,37 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="it_IT" sourcelanguage="it_IT">
+<TS version="2.1" language="it" sourcelanguage="it_IT">
 <context>
     <name>FastMenu</name>
     <message>
-        <location filename="../../../fastmenu.ui" line="14"/>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../../fastmenu.ui" line="20"/>
         <source>Fast options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opzioni veloci</translation>
     </message>
     <message>
         <location filename="../../../fastmenu.ui" line="40"/>
         <source> ❶ ❷ Extended view</source>
-        <translation type="unfinished"></translation>
+        <translation> ❶ ❷ Disposizione estesa</translation>
     </message>
     <message>
         <location filename="../../../fastmenu.ui" line="45"/>
         <source> ❶ ❶ Unified view</source>
-        <translation type="unfinished"></translation>
+        <translation> ❶ ❶ Uscite unificate</translation>
     </message>
     <message>
         <location filename="../../../fastmenu.ui" line="50"/>
         <source> ❶     Only first</source>
-        <translation type="unfinished"></translation>
+        <translation> ❶     Solo il primario</translation>
     </message>
     <message>
         <location filename="../../../fastmenu.ui" line="55"/>
         <source>     ❷ Only second</source>
-        <translation type="unfinished"></translation>
+        <translation>     ❷ Solo il secondario</translation>
     </message>
 </context>
 <context>
@@ -39,69 +34,69 @@
     <message>
         <location filename="../../../managesavedsettings.ui" line="14"/>
         <source>Monitor Settings</source>
-        <translation type="unfinished">Impostazioni del monitor</translation>
+        <translation>Impostazioni del monitor</translation>
     </message>
     <message>
         <location filename="../../../managesavedsettings.ui" line="27"/>
         <source>Saved settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Impostazioni salvate</translation>
     </message>
     <message>
         <location filename="../../../managesavedsettings.ui" line="38"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Rinomina</translation>
     </message>
     <message>
         <location filename="../../../managesavedsettings.ui" line="45"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancella</translation>
     </message>
     <message>
         <location filename="../../../managesavedsettings.ui" line="52"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Applica</translation>
     </message>
     <message>
         <location filename="../../../managesavedsettings.cpp" line="64"/>
         <source>None</source>
-        <translation type="unfinished">Nessuna</translation>
+        <translation>Nessuna</translation>
     </message>
     <message>
         <location filename="../../../managesavedsettings.cpp" line="67"/>
         <source>Left</source>
-        <translation type="unfinished">Sinistra</translation>
+        <translation>Sinistra</translation>
     </message>
     <message>
         <location filename="../../../managesavedsettings.cpp" line="70"/>
         <source>Inverted</source>
-        <translation type="unfinished">Inversa</translation>
+        <translation>Inversiti</translation>
     </message>
     <message>
         <location filename="../../../managesavedsettings.cpp" line="73"/>
         <source>Right</source>
-        <translation type="unfinished">Destra</translation>
+        <translation>Destra</translation>
     </message>
     <message>
         <location filename="../../../managesavedsettings.cpp" line="77"/>
         <location filename="../../../managesavedsettings.cpp" line="78"/>
         <source>True</source>
-        <translation type="unfinished"></translation>
+        <translation>Vero</translation>
     </message>
     <message>
         <location filename="../../../managesavedsettings.cpp" line="77"/>
         <location filename="../../../managesavedsettings.cpp" line="78"/>
         <source>False</source>
-        <translation type="unfinished"></translation>
+        <translation>Falso</translation>
     </message>
     <message>
         <location filename="../../../managesavedsettings.cpp" line="140"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <location filename="../../../managesavedsettings.cpp" line="140"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome:</translation>
     </message>
 </context>
 <context>
@@ -138,9 +133,8 @@
 <context>
     <name>MonitorPictureDialog</name>
     <message>
-        <location filename="../../../monitorpicture.ui" line="14"/>
         <source>Dialog</source>
-        <translation>Finestra</translation>
+        <translation type="vanished">Finestra</translation>
     </message>
     <message>
         <location filename="../../../monitorpicture.ui" line="27"/>
@@ -207,7 +201,7 @@
     <message>
         <location filename="../../../monitorsettingsdialog.cpp" line="111"/>
         <source>Fast Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Opzioni veloci</translation>
     </message>
     <message>
         <location filename="../../../monitorsettingsdialog.cpp" line="115"/>
@@ -380,27 +374,27 @@
         <translation>ID di dispositivo EISA: %1</translation>
     </message>
     <message>
-        <location filename="../../../monitorwidget.cpp" line="159"/>
+        <location filename="../../../monitorwidget.cpp" line="161"/>
         <source>None</source>
         <translation>Nessuna</translation>
     </message>
     <message>
-        <location filename="../../../monitorwidget.cpp" line="160"/>
+        <location filename="../../../monitorwidget.cpp" line="162"/>
         <source>Left</source>
         <translation>Sinistra</translation>
     </message>
     <message>
-        <location filename="../../../monitorwidget.cpp" line="161"/>
+        <location filename="../../../monitorwidget.cpp" line="163"/>
         <source>Right</source>
         <translation>Destra</translation>
     </message>
     <message>
-        <location filename="../../../monitorwidget.cpp" line="162"/>
+        <location filename="../../../monitorwidget.cpp" line="164"/>
         <source>Inverted</source>
         <translation>Inversa</translation>
     </message>
     <message>
-        <location filename="../../../monitorwidget.cpp" line="252"/>
+        <location filename="../../../monitorwidget.cpp" line="254"/>
         <source>%1 Hz</source>
         <translation>%1 Hz</translation>
     </message>
@@ -426,7 +420,7 @@
     <message>
         <location filename="../../../settingsdialog.cpp" line="33"/>
         <source>Manage Saved Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestisci le impostazioni salvate</translation>
     </message>
 </context>
 <context>
@@ -472,9 +466,16 @@
         <translation>Vuoi mantenere questa configurazione?</translation>
     </message>
     <message>
-        <location filename="../../../timeoutdialog.cpp" line="62"/>
         <source>%1 second(s) remaining</source>
-        <translation>%1 secondi rimanenti</translation>
+        <translation type="vanished">%1 secondi rimanenti</translation>
+    </message>
+    <message numerus="yes">
+        <location filename="../../../timeoutdialog.cpp" line="62"/>
+        <source>%n second(s) remaining</source>
+        <translation>
+            <numerusform>%1 secondo rimanente</numerusform>
+            <numerusform>%1 secondi rimanenti</numerusform>
+        </translation>
     </message>
 </context>
 </TS>

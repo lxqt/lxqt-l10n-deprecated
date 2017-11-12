@@ -133,7 +133,12 @@
         <translation>Demana la confirmació per sortir de la sessió</translation>
     </message>
     <message>
-        <location filename="../../../basicsettings.cpp" line="137"/>
+        <location filename="../../../basicsettings.ui" line="124"/>
+        <source>Lock screen before suspending/hibernating</source>
+        <translation>Bloqueja la pantalla abans de la suspensió o de la hibernació</translation>
+    </message>
+    <message>
+        <location filename="../../../basicsettings.cpp" line="146"/>
         <source>Select a window manager</source>
         <translation>Seleccioneu un gestor de finestres</translation>
     </message>
@@ -231,7 +236,7 @@
     <message>
         <location filename="../../../sessionconfigwindow.cpp" line="56"/>
         <source>User Directories</source>
-        <translation>Directoris dels usuaris</translation>
+        <translation>Directoris de l&apos;usuari</translation>
     </message>
     <message>
         <location filename="../../../sessionconfigwindow.cpp" line="62"/>

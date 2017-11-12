@@ -1,0 +1,20 @@
+language: cpp
+os:
+    - linux
+sudo: required
+dist: trusty
+addons:
+    apt:
+        sources:
+            - george-edison55-precise-backports # for cmake 3.2.3
+        packages:
+            - cmake
+            - cmake-data
+before_install:
+    - sudo apt-get install qttools5-dev qttools5-dev-tools -yq --no-install-suggests --no-install-recommends --force-yes
+# pulling just needed translation parts from liblxqt
+    - wget https://raw.githubusercontent.com/lxde/lxqt-build-tools/master/cmake/modules/LXQtTranslateTs.cmake
+    - wget https://raw.githubusercontent.com/lxde/lxqt-build-tools/master/cmake/modules/Qt5PatchedLinguistToolsMacros.cmake
+# ...and modifying the CMakeLists.txt to not require whole lxqt-build-tools
+    - sed -i'' -re '/^find_package\(lxqt-build-tools/ s/^/#/' -e '/^include\(LXQtConfigVars/ s/^/#/' CMakeLists.txt
+script: cmake -DCMAKE_MODULE_PATH=. -DCMAKE_PREFIX_PATH=/opt/qt56 -DBUILD_TESTING=ON . && make && make test CTEST_OUTPUT_ON_FAILURE=TRUE

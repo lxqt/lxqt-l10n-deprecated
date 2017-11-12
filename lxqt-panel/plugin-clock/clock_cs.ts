@@ -10,10 +10,28 @@
     </message>
 </context>
 <context>
+    <name>LXQtClock</name>
+    <message>
+        <location filename="../../../lxqtclock.cpp" line="57"/>
+        <source>Date&amp;Time (clock) plugin is deprecated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../lxqtclock.cpp" line="58"/>
+        <source>The &lt;strong&gt;clock&lt;/strong&gt; plugin is deprecated and will be removed in future version of LXQt. Consider replacing it with &lt;strong&gt;worldclock&lt;/strong&gt;.&lt;br/&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../lxqtclock.cpp" line="60"/>
+        <source>don&apos;t show this again</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>LXQtClockConfiguration</name>
     <message>
         <source>LXQt Clock Settings</source>
-        <translation>Nastavení hodin</translation>
+        <translation type="vanished">Nastavení hodin</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="14"/>
@@ -82,11 +100,11 @@
     </message>
     <message>
         <source>&amp;Font</source>
-        <translation>&amp;Písmo</translation>
+        <translation type="vanished">&amp;Písmo</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Písmo</translation>
+        <translation type="vanished">Písmo</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="50"/>
@@ -95,59 +113,59 @@
     </message>
     <message>
         <source>Show &amp;date</source>
-        <translation>Ukázat &amp;datum</translation>
+        <translation type="vanished">Ukázat &amp;datum</translation>
     </message>
     <message>
         <source>D&amp;ate format</source>
-        <translation>Formát d&amp;ata</translation>
+        <translation type="vanished">Formát d&amp;ata</translation>
     </message>
     <message>
         <source>Fon&amp;t</source>
-        <translation>Pí&amp;smo</translation>
+        <translation type="vanished">Pí&amp;smo</translation>
     </message>
     <message>
         <source>Show date in &amp;new line</source>
-        <translation>Ukázat datum na &amp;novém řádku</translation>
+        <translation type="vanished">Ukázat datum na &amp;novém řádku</translation>
     </message>
     <message>
         <source>&amp;Use theme fonts</source>
-        <translation>&amp;Použít písma motivu</translation>
+        <translation type="vanished">&amp;Použít písma motivu</translation>
     </message>
     <message>
         <source>Time font</source>
-        <translation>Písmo pro čas</translation>
+        <translation type="vanished">Písmo pro čas</translation>
     </message>
     <message>
         <source>Date font</source>
-        <translation>Písmo pro datum</translation>
+        <translation type="vanished">Písmo pro datum</translation>
     </message>
     <message>
         <source>Ultra light</source>
-        <translation>Hodně světlé</translation>
+        <translation type="vanished">Hodně světlé</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation>Světlé</translation>
+        <translation type="vanished">Světlé</translation>
     </message>
     <message>
         <source>Ultra black</source>
-        <translation>Hodně černé</translation>
+        <translation type="vanished">Hodně černé</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Černé</translation>
+        <translation type="vanished">Černé</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation>Tučné</translation>
+        <translation type="vanished">Tučné</translation>
     </message>
     <message>
         <source>Demi bold</source>
-        <translation>Polotučné</translation>
+        <translation type="vanished">Polotučné</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation>Kurzíva</translation>
+        <translation type="vanished">Kurzíva</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
@@ -175,7 +193,25 @@ will also be treated as text and not be used as an expression.
 
 
 Custom date format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vykládané posloupnosti formátu data jsou:
+
+d	den jako číslo bez nuly na začátku (1 až 31).
+dd	den jako číslo s nulou na začátku (01 až 31).
+ddd	zkrácený název dne (např. Po až Ne).
+dddd	dlouhý název dne (např Pondělí až Neděle).
+M	měsíc jako číslo bez nuly na začátku (1-12).
+MM	měsíc jako číslo s nulou na začátku (01-12).
+MMM	zkrácený název měsíce (např. Led až Pro).
+MMMM	dlouhý název měsíce (např. Leden až Prosinec).
+yy	rok jako číslo ze dvou číslic (00-99).
+yyyy	rok jako číslo ze čtyř číslic
+
+Se všemi ostatními zadanými znaky se bude zacházet jako s textem.
+Se všemi ostatními znakovými posloupnostmi uzavřenými v jednoduchých závorkách (&apos;)
+se bude stejně tak zacházet jako s textem a nebudou se používat jako výraz.
+
+
+Vlastní formát data:</translation>
     </message>
 </context>
 </TS>

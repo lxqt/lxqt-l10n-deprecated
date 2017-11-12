@@ -10,6 +10,24 @@
     </message>
 </context>
 <context>
+    <name>LXQtClock</name>
+    <message>
+        <location filename="../../../lxqtclock.cpp" line="57"/>
+        <source>Date&amp;Time (clock) plugin is deprecated</source>
+        <translation>El connector Date&amp;Time (clock) és obsolet</translation>
+    </message>
+    <message>
+        <location filename="../../../lxqtclock.cpp" line="58"/>
+        <source>The &lt;strong&gt;clock&lt;/strong&gt; plugin is deprecated and will be removed in future version of LXQt. Consider replacing it with &lt;strong&gt;worldclock&lt;/strong&gt;.&lt;br/&gt;</source>
+        <translation>El connector &lt;strong&gt;clock&lt;/strong&gt; és obsolet i s&apos;eliminarà en una versió futura de LXQt. Considereu substituir-lo amb &lt;strong&gt;worldclock&lt;/strong&gt;.&lt;br/&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../lxqtclock.cpp" line="60"/>
+        <source>don&apos;t show this again</source>
+        <translation>no tornis a mostrar-ho</translation>
+    </message>
+</context>
+<context>
     <name>LXQtClockConfiguration</name>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="14"/>

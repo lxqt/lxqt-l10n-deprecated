@@ -6,7 +6,7 @@
     <message>
         <location filename="../../../keyboardconfig.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../keyboardconfig.ui" line="20"/>
@@ -26,7 +26,7 @@
     <message>
         <location filename="../../../keyboardconfig.ui" line="41"/>
         <source> ms</source>
-        <translation>ms</translation>
+        <translation> ms</translation>
     </message>
     <message>
         <location filename="../../../keyboardconfig.ui" line="51"/>
@@ -69,7 +69,7 @@
     <message>
         <location filename="../../../keyboardconfig.ui" line="167"/>
         <source>Turn on NumLock after login</source>
-        <translation type="unfinished"></translation>
+        <translation>Włącz Num Lock po zalogowaniu</translation>
     </message>
 </context>
 <context>
@@ -202,7 +202,9 @@
     </message>
     <message>
         <source>Beep when there is an error of keyboard input</source>
-        <translation type="vanished">Brzęczyk, gdy wystąpi błąd podczas wprowadzania z klawiatury</translation>
+        <translation type="vanished">Zabrzęcz, gdy wystąpi błąd podczas wprowadzania 
+z 
+klawiatury</translation>
     </message>
     <message>
         <source>Keyboard</source>
@@ -214,7 +216,7 @@
     <message>
         <location filename="../../../mouseconfig.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formularz</translation>
     </message>
     <message>
         <location filename="../../../mouseconfig.ui" line="23"/>
@@ -285,33 +287,33 @@
     <message>
         <location filename="../../../mouseconfig.ui" line="167"/>
         <source>Single click to activate items</source>
-        <translation>Pojedyńcze kliknięcie wyzwala akcję</translation>
+        <translation>Pojedyncze kliknięcie aktywuje akcje</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../../lxqt-config-input.cpp" line="34"/>
+        <location filename="../../../lxqt-config-input.cpp" line="46"/>
         <source>Keyboard and Mouse Settings</source>
         <translation>Ustawienia myszy i klawiatury</translation>
     </message>
     <message>
-        <location filename="../../../lxqt-config-input.cpp" line="39"/>
+        <location filename="../../../lxqt-config-input.cpp" line="51"/>
         <source>Mouse</source>
         <translation>Mysz</translation>
     </message>
     <message>
-        <location filename="../../../lxqt-config-input.cpp" line="44"/>
+        <location filename="../../../lxqt-config-input.cpp" line="56"/>
         <source>Cursor</source>
         <translation>Kursor</translation>
     </message>
     <message>
-        <location filename="../../../lxqt-config-input.cpp" line="47"/>
+        <location filename="../../../lxqt-config-input.cpp" line="59"/>
         <source>Keyboard</source>
         <translation>Klawiatura</translation>
     </message>
     <message>
-        <location filename="../../../lxqt-config-input.cpp" line="51"/>
+        <location filename="../../../lxqt-config-input.cpp" line="63"/>
         <source>Keyboard Layout</source>
         <translation>Układ klawiatury</translation>
     </message>

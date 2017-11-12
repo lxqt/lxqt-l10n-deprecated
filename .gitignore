@@ -1,0 +1,5 @@
+.*~
+.kdev4
+CMakeLists.txt.user*
+build
+

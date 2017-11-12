@@ -1,176 +1,194 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="el">
 <context>
     <name>FirstDayCombo</name>
     <message>
-        <location line="49" filename="../../../lxqtclockconfiguration.cpp"/>
-        <source>&lt;locale based></source>
-        <translation>&lt;βάσει της τοπικότητας></translation>
+        <location filename="../../../lxqtclockconfiguration.cpp" line="49"/>
+        <source>&lt;locale based&gt;</source>
+        <translation>&lt;βάσει της τοπικότητας&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>LXQtClock</name>
+    <message>
+        <location filename="../../../lxqtclock.cpp" line="57"/>
+        <source>Date&amp;Time (clock) plugin is deprecated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../lxqtclock.cpp" line="58"/>
+        <source>The &lt;strong&gt;clock&lt;/strong&gt; plugin is deprecated and will be removed in future version of LXQt. Consider replacing it with &lt;strong&gt;worldclock&lt;/strong&gt;.&lt;br/&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../lxqtclock.cpp" line="60"/>
+        <source>don&apos;t show this again</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>LXQtClockConfiguration</name>
     <message>
         <source>LXQt Clock Settings</source>
-        <translation>Ρυθμίσεις του ρολογιού LXQt</translation>
+        <translation type="vanished">Ρυθμίσεις του ρολογιού LXQt</translation>
     </message>
     <message>
-        <location line="14" filename="../../../lxqtclockconfiguration.ui"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="14"/>
         <source>Clock Settings</source>
         <translation>Ρυθμίσεις του ρολογιού</translation>
     </message>
     <message>
-        <location line="20" filename="../../../lxqtclockconfiguration.ui"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="20"/>
         <source>Time</source>
         <translation>Ώρα</translation>
     </message>
     <message>
-        <location line="26" filename="../../../lxqtclockconfiguration.ui"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="26"/>
         <source>&amp;Show seconds</source>
         <translation>Εμ&amp;φάνιση δευτερολέπτων</translation>
     </message>
     <message>
-        <location line="33" filename="../../../lxqtclockconfiguration.ui"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="33"/>
         <source>12 &amp;hour style</source>
         <translation>12 &amp;ωρη μορφή</translation>
     </message>
     <message>
-        <location line="40" filename="../../../lxqtclockconfiguration.ui"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="40"/>
         <source>&amp;Use UTC</source>
         <translation>&amp;Χρήση της UTC</translation>
     </message>
     <message>
-        <location line="59" filename="../../../lxqtclockconfiguration.ui"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="59"/>
         <source>Date &amp;format</source>
         <translation>Μορφή &amp;ημερομηνίας</translation>
     </message>
     <message>
-        <location line="76" filename="../../../lxqtclockconfiguration.ui"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="76"/>
         <source>&amp;Do not show date</source>
         <translation>&amp;Να μην εμφανίζεται η ημερομηνία</translation>
     </message>
     <message>
-        <location line="86" filename="../../../lxqtclockconfiguration.ui"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="86"/>
         <source>Show date &amp;before time</source>
         <translation>Εμφάνιση της ημερομηνίας &amp;πριν την ώρα</translation>
     </message>
     <message>
-        <location line="93" filename="../../../lxqtclockconfiguration.ui"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="93"/>
         <source>Show date &amp;after time</source>
         <translation>Εμφάνιση της ημερομηνίας &amp;μετά την ώρα</translation>
     </message>
     <message>
-        <location line="100" filename="../../../lxqtclockconfiguration.ui"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="100"/>
         <source>Show date below time on new &amp;line</source>
         <translation>Εμφάνιση της ημερομηνίας κάτω από την ώρα σε νέα &amp;γραμμή</translation>
     </message>
     <message>
-        <location line="107" filename="../../../lxqtclockconfiguration.ui"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="107"/>
         <source>First day of week in calendar</source>
         <translation>Η πρώτη ημέρα της εβδομάδας στο ημερολόγιο</translation>
     </message>
     <message>
-        <location line="124" filename="../../../lxqtclockconfiguration.ui"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="124"/>
         <source>Orientation</source>
         <translation>Προσανατολισμός</translation>
     </message>
     <message>
-        <location line="130" filename="../../../lxqtclockconfiguration.ui"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="130"/>
         <source>Auto&amp;rotate when the panel is vertical</source>
         <translation>Αυτόματη περιστρο&amp;φή όταν ο πίνακας είναι τοποθετημένος κατακόρυφα</translation>
     </message>
     <message>
         <source>&amp;Font</source>
-        <translation>&amp;Γραμματοσειρά</translation>
+        <translation type="vanished">&amp;Γραμματοσειρά</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Γραμματοσειρά</translation>
+        <translation type="vanished">Γραμματοσειρά</translation>
     </message>
     <message>
-        <location line="50" filename="../../../lxqtclockconfiguration.ui"/>
+        <location filename="../../../lxqtclockconfiguration.ui" line="50"/>
         <source>Date</source>
         <translation>Ημερομηνία</translation>
     </message>
     <message>
         <source>Show &amp;date</source>
-        <translation>Εμφάνιση της &amp;ημερομηνίας</translation>
+        <translation type="vanished">Εμφάνιση της &amp;ημερομηνίας</translation>
     </message>
     <message>
         <source>D&amp;ate format</source>
-        <translation>Μορφή της η&amp;μερομηνίας</translation>
+        <translation type="vanished">Μορφή της η&amp;μερομηνίας</translation>
     </message>
     <message>
         <source>Fon&amp;t</source>
-        <translation>Γραμματο&amp;σειρά</translation>
+        <translation type="vanished">Γραμματο&amp;σειρά</translation>
     </message>
     <message>
         <source>Show date in &amp;new line</source>
-        <translation>Εμφάνιση της ημερομηνίας σε &amp;νέα γραμμή</translation>
+        <translation type="vanished">Εμφάνιση της ημερομηνίας σε &amp;νέα γραμμή</translation>
     </message>
     <message>
         <source>&amp;Use theme fonts</source>
-        <translation>Χρήση των γραμματοσειρών του &amp;θέματος</translation>
+        <translation type="vanished">Χρήση των γραμματοσειρών του &amp;θέματος</translation>
     </message>
     <message>
         <source>Time font</source>
-        <translation>Γραμματοσειρά της ώρας</translation>
+        <translation type="vanished">Γραμματοσειρά της ώρας</translation>
     </message>
     <message>
         <source>Date font</source>
-        <translation>Γραμματοσειρά της ημερομηνίας</translation>
+        <translation type="vanished">Γραμματοσειρά της ημερομηνίας</translation>
     </message>
     <message>
         <source>Ultra light</source>
-        <translation>Υπερβολικά φωτεινή</translation>
+        <translation type="vanished">Υπερβολικά φωτεινή</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation>Φωτεινή</translation>
+        <translation type="vanished">Φωτεινή</translation>
     </message>
     <message>
         <source>Ultra black</source>
-        <translation>Υπερβολικά μελανή</translation>
+        <translation type="vanished">Υπερβολικά μελανή</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Μελανή</translation>
+        <translation type="vanished">Μελανή</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation>Έντονη</translation>
+        <translation type="vanished">Έντονη</translation>
     </message>
     <message>
         <source>Demi bold</source>
-        <translation>Ελαφρώς έντονη</translation>
+        <translation type="vanished">Ελαφρώς έντονη</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation>Πλάγια</translation>
+        <translation type="vanished">Πλάγια</translation>
     </message>
     <message>
-        <location line="268" filename="../../../lxqtclockconfiguration.cpp"/>
+        <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
         <source>Input custom date format</source>
         <translation>Εισαγωγή προσαρμοσμένης μορφής ημερομηνίας</translation>
     </message>
     <message>
-        <location line="268" filename="../../../lxqtclockconfiguration.cpp"/>
+        <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
         <source>Interpreted sequences of date format are:
 
 d	the day as number without a leading zero (1 to 31)
 dd	the day as number with a leading zero (01 to 31)
-ddd	the abbreviated localized day name (e.g. 'Mon' to 'Sun').
-dddd	the long localized day name (e.g. 'Monday' to 'Sunday').
+ddd	the abbreviated localized day name (e.g. &apos;Mon&apos; to &apos;Sun&apos;).
+dddd	the long localized day name (e.g. &apos;Monday&apos; to &apos;Sunday&apos;).
 M	the month as number without a leading zero (1-12)
 MM	the month as number with a leading zero (01-12)
-MMM	the abbreviated localized month name (e.g. 'Jan' to 'Dec').
-MMMM	the long localized month name (e.g. 'January' to 'December').
+MMM	the abbreviated localized month name (e.g. &apos;Jan&apos; to &apos;Dec&apos;).
+MMMM	the long localized month name (e.g. &apos;January&apos; to &apos;December&apos;).
 yy	the year as two digit number (00-99)
 yyyy	the year as four digit number
 
 All other input characters will be treated as text.
-Any sequence of characters that are enclosed in single quotes (')
+Any sequence of characters that are enclosed in single quotes (&apos;)
 will also be treated as text and not be used as an expression.
 
 
@@ -189,7 +207,7 @@ yy	το έτος ως διψήφιος αριθμός (00-99)
 yyyy	το έτος ως τετραψήφιος αριθμός
 
 Όλοι οι λοιποί χαρακτήρες εισόδου θα διαχειριστούν ως κείμενο.
-Οποιαδήποτε ακολουθία χαρακτήρων που εγκλείονται σε μονά εισαγωγικά (')
+Οποιαδήποτε ακολουθία χαρακτήρων που εγκλείονται σε μονά εισαγωγικά (&apos;)
 θα διαχειρίζονται επίσης ως κείμενο και δεν θα χρησιμοποιούνται ως έκφραση.
 
 

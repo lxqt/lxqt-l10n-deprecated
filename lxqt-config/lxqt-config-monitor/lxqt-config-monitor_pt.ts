@@ -4,34 +4,33 @@
 <context>
     <name>FastMenu</name>
     <message>
-        <location filename="../../../fastmenu.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Formulário</translation>
     </message>
     <message>
         <location filename="../../../fastmenu.ui" line="20"/>
         <source>Fast options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções rápidas</translation>
     </message>
     <message>
         <location filename="../../../fastmenu.ui" line="40"/>
         <source> ❶ ❷ Extended view</source>
-        <translation type="unfinished"></translation>
+        <translation> ❶ ❷ Vista expandida</translation>
     </message>
     <message>
         <location filename="../../../fastmenu.ui" line="45"/>
         <source> ❶ ❶ Unified view</source>
-        <translation type="unfinished"></translation>
+        <translation> ❶ ❶ Vista unificada</translation>
     </message>
     <message>
         <location filename="../../../fastmenu.ui" line="50"/>
         <source> ❶     Only first</source>
-        <translation type="unfinished"></translation>
+        <translation> ❶     Apenas o primeiro</translation>
     </message>
     <message>
         <location filename="../../../fastmenu.ui" line="55"/>
         <source>     ❷ Only second</source>
-        <translation type="unfinished"></translation>
+        <translation>     ❷ Apenas o segundo</translation>
     </message>
 </context>
 <context>
@@ -39,69 +38,69 @@
     <message>
         <location filename="../../../managesavedsettings.ui" line="14"/>
         <source>Monitor Settings</source>
-        <translation type="unfinished">Definições do monitor</translation>
+        <translation>Definições do monitor</translation>
     </message>
     <message>
         <location filename="../../../managesavedsettings.ui" line="27"/>
         <source>Saved settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Definições guardadas</translation>
     </message>
     <message>
         <location filename="../../../managesavedsettings.ui" line="38"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Renomear</translation>
     </message>
     <message>
         <location filename="../../../managesavedsettings.ui" line="45"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Apagar</translation>
     </message>
     <message>
         <location filename="../../../managesavedsettings.ui" line="52"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="../../../managesavedsettings.cpp" line="64"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <location filename="../../../managesavedsettings.cpp" line="67"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquerda</translation>
     </message>
     <message>
         <location filename="../../../managesavedsettings.cpp" line="70"/>
         <source>Inverted</source>
-        <translation type="unfinished"></translation>
+        <translation>Invertido</translation>
     </message>
     <message>
         <location filename="../../../managesavedsettings.cpp" line="73"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Direita</translation>
     </message>
     <message>
         <location filename="../../../managesavedsettings.cpp" line="77"/>
         <location filename="../../../managesavedsettings.cpp" line="78"/>
         <source>True</source>
-        <translation type="unfinished"></translation>
+        <translation>Verdadeiro</translation>
     </message>
     <message>
         <location filename="../../../managesavedsettings.cpp" line="77"/>
         <location filename="../../../managesavedsettings.cpp" line="78"/>
         <source>False</source>
-        <translation type="unfinished"></translation>
+        <translation>Falso</translation>
     </message>
     <message>
         <location filename="../../../managesavedsettings.cpp" line="140"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <location filename="../../../managesavedsettings.cpp" line="140"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome:</translation>
     </message>
 </context>
 <context>
@@ -132,20 +131,19 @@
     </message>
     <message>
         <source>Default Monitor</source>
-        <translation type="vanished">Monitor pré-definido</translation>
+        <translation type="vanished">Monitor padrão</translation>
     </message>
 </context>
 <context>
     <name>MonitorPictureDialog</name>
     <message>
-        <location filename="../../../monitorpicture.ui" line="14"/>
         <source>Dialog</source>
-        <translation>Caixa de diálogo</translation>
+        <translation type="vanished">Caixa de diálogo</translation>
     </message>
     <message>
         <location filename="../../../monitorpicture.ui" line="27"/>
         <source>Keep monitors attached</source>
-        <translation type="unfinished"></translation>
+        <translation>Manter monitores ligados</translation>
     </message>
     <message>
         <source>Magnetic attraction</source>
@@ -180,7 +178,7 @@
     </message>
     <message>
         <source>Default Monitor</source>
-        <translation type="vanished">Monitor pré-definido</translation>
+        <translation type="vanished">Monitor padrão</translation>
     </message>
     <message>
         <source>Auto</source>
@@ -282,17 +280,17 @@ Ferramenta de configuração de monitores do LXQt.</translation>
     </message>
     <message>
         <source>Please, check your config before to save.</source>
-        <translation type="vanished">Verifique a configuraçao antes de guardar.</translation>
+        <translation type="vanished">Verifique a configuração antes de guardar.</translation>
     </message>
     <message>
         <location filename="../../../monitorsettingsdialog.cpp" line="111"/>
         <source>Fast Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu rápido</translation>
     </message>
     <message>
         <location filename="../../../monitorsettingsdialog.cpp" line="115"/>
         <source>Set position</source>
-        <translation type="unfinished"></translation>
+        <translation>Definir posição</translation>
     </message>
     <message>
         <source>Error</source>
@@ -305,7 +303,7 @@ Ferramenta de configuração de monitores do LXQt.</translation>
     <message>
         <location filename="../../../monitorsettingsdialog.cpp" line="244"/>
         <source>Advanced settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Definições avançadas</translation>
     </message>
 </context>
 <context>
@@ -317,17 +315,17 @@ Ferramenta de configuração de monitores do LXQt.</translation>
     <message>
         <location filename="../../../monitorwidget.ui" line="21"/>
         <source>Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuração</translation>
     </message>
     <message>
         <location filename="../../../monitorwidget.ui" line="29"/>
         <source> (x)</source>
-        <translation type="unfinished"></translation>
+        <translation> (x)</translation>
     </message>
     <message>
         <location filename="../../../monitorwidget.ui" line="45"/>
         <source> (y)</source>
-        <translation type="unfinished"></translation>
+        <translation> (y)</translation>
     </message>
     <message>
         <location filename="../../../monitorwidget.ui" line="78"/>
@@ -337,42 +335,42 @@ Ferramenta de configuração de monitores do LXQt.</translation>
     <message>
         <location filename="../../../monitorwidget.ui" line="90"/>
         <source>Enable this display</source>
-        <translation type="unfinished"></translation>
+        <translation>Ativar este ecrã</translation>
     </message>
     <message>
         <location filename="../../../monitorwidget.ui" line="98"/>
         <source>This is my primary display</source>
-        <translation type="unfinished"></translation>
+        <translation>Este é o ecrã principal</translation>
     </message>
     <message>
         <location filename="../../../monitorwidget.ui" line="103"/>
         <source>This screen extends another display</source>
-        <translation type="unfinished"></translation>
+        <translation>Expandir este ecrã até outro</translation>
     </message>
     <message>
         <location filename="../../../monitorwidget.ui" line="125"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avançado</translation>
     </message>
     <message>
         <location filename="../../../monitorwidget.ui" line="146"/>
         <source>Refresh rate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Taxa de atualização:</translation>
     </message>
     <message>
         <location filename="../../../monitorwidget.ui" line="153"/>
         <source>Rotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotação:</translation>
     </message>
     <message>
         <location filename="../../../monitorwidget.ui" line="176"/>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Informação</translation>
     </message>
     <message>
         <location filename="../../../monitorwidget.ui" line="182"/>
         <source>Display information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informação do ecrã</translation>
     </message>
     <message>
         <source>Rate:</source>
@@ -418,62 +416,62 @@ Ferramenta de configuração de monitores do LXQt.</translation>
         <location filename="../../../monitorwidget.cpp" line="135"/>
         <source>Name: %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nome: %1</translation>
     </message>
     <message>
         <location filename="../../../monitorwidget.cpp" line="136"/>
         <source>Vendor: %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Fornecedor: %1</translation>
     </message>
     <message>
         <location filename="../../../monitorwidget.cpp" line="137"/>
         <source>Serial: %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Série: %1</translation>
     </message>
     <message>
         <location filename="../../../monitorwidget.cpp" line="138"/>
         <source>Display size: %1cm x %2cm
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho do ecrã: %1cm x %2cm</translation>
     </message>
     <message>
         <location filename="../../../monitorwidget.cpp" line="139"/>
         <source>Serial number: %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Número de série: %1</translation>
     </message>
     <message>
         <location filename="../../../monitorwidget.cpp" line="140"/>
         <source>EISA device ID: %1
 </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../monitorwidget.cpp" line="159"/>
-        <source>None</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../monitorwidget.cpp" line="160"/>
-        <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>EISA do dispositivo: %1</translation>
     </message>
     <message>
         <location filename="../../../monitorwidget.cpp" line="161"/>
-        <source>Right</source>
-        <translation type="unfinished"></translation>
+        <source>None</source>
+        <translation>Nenhuma</translation>
     </message>
     <message>
         <location filename="../../../monitorwidget.cpp" line="162"/>
-        <source>Inverted</source>
-        <translation type="unfinished"></translation>
+        <source>Left</source>
+        <translation>Esquerda</translation>
     </message>
     <message>
-        <location filename="../../../monitorwidget.cpp" line="252"/>
+        <location filename="../../../monitorwidget.cpp" line="163"/>
+        <source>Right</source>
+        <translation>Direita</translation>
+    </message>
+    <message>
+        <location filename="../../../monitorwidget.cpp" line="164"/>
+        <source>Inverted</source>
+        <translation>Invertido</translation>
+    </message>
+    <message>
+        <location filename="../../../monitorwidget.cpp" line="254"/>
         <source>%1 Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 HZ</translation>
     </message>
 </context>
 <context>
@@ -497,7 +495,7 @@ Ferramenta de configuração de monitores do LXQt.</translation>
     <message>
         <location filename="../../../settingsdialog.cpp" line="33"/>
         <source>Manage Saved Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerir definições guardadas</translation>
     </message>
 </context>
 <context>
@@ -543,9 +541,16 @@ Ferramenta de configuração de monitores do LXQt.</translation>
         <translation>As definições estão certas para si?</translation>
     </message>
     <message>
-        <location filename="../../../timeoutdialog.cpp" line="62"/>
         <source>%1 second(s) remaining</source>
-        <translation>%1 segundo(s) em falta</translation>
+        <translation type="vanished">%1 segundo(s) em falta</translation>
+    </message>
+    <message numerus="yes">
+        <location filename="../../../timeoutdialog.cpp" line="62"/>
+        <source>%n second(s) remaining</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
     </message>
 </context>
 </TS>

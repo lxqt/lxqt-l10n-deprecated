@@ -1,7 +1,242 @@
 
-lxqt-l10n-0.11.0 / 2016-09-24
+lxqt-l10n-0.12.0 / 2017-10-21
 =============================
 
+  * Bump versions, set an informal version
+  * Update Catalan translation
+  * Update Lithuanian translation (#291)
+  * Update to current sources
+  * Update Lithuanian translation
+  * Update Polish translation (#289)
+  * Update to current sources (#287)
+  * Indonesian translation (#260)
+  * Fix Czech localization
+  * Update Czech translation (by pafri)
+  * Update to current sources (no new strings) + update Polish translation
+  * Don't export .travis.yml
+
+0.11.99 / 2017-09-27
+====================
+
+  * Release 0.11.99: Update changelog
+  * Added commas
+  * Added basic .gitignore and .gitattributes, fixes #170
+  * Some string changes
+  * Fixed missing accents on capital letters
+  * Update Lithuanian language
+  * Remove a space
+  * Create obconf-qt_da.ts
+  * Update Polish translation (#278)
+  * Update to current sources
+  * Create qterminal_da.ts
+  * Create qtermwidget_da.ts
+  * Update da
+  * Update da
+  * Update da
+  * Update da
+  * Update da
+  * Update da
+  * Update da
+  * Update da
+  * Update da
+  * Update da
+  * Update da
+  * Update da
+  * Update da
+  * Update compton-conf_id.ts
+  * it: Fix language vs. file name discrepancies
+  * update italian translations
+  * Create compton-conf_id.ts
+  * lxqt-policykit: Fix typo
+  * Latvian translations
+  * Latvian - Admin time, Cursor, Brightness, File Assoc., Config
+  * Latvian - About
+  * Latvian - Liblxqt
+  * Latvian - Compton conf
+  * Updated Lithuanian language
+  * Updated Lithuanian language
+  * Update Polish translation (##253)
+  * Update to current sources
+  * Fix Catalan translation
+  * Updated Catalan translation
+  * Improve Polish translation
+  * Improve Polish translation
+  * Update Lithuanian translation
+  * Update Polish translation
+  * Update to current sources
+  * Update to current sources (#243)
+  * README: Add note to recommend Qt(core) translations
+  * Updated Lithuanian translation
+  * Update to current sources
+  * Updated italian translations
+  * Updated Catalan translation
+  * Updated Polish translation
+  * Update Lithuanian translation
+  * Updated Catalan translation
+  * Update to current sources
+  * lxqt-config: Update to current sources
+  * Update Turkish translation
+  * Update Turkish translations
+  * liblxqt don't make sense here
+  * Copied issue template
+  * Minor fix in Polish ComptonConf translation (#229)
+  * Just "o" looked retarded…
+  * Updated Polish translation
+  * Make Polish translation more consistent
+  * lxqt-runner: Update to current sources
+  * Updated Polish translation
+  * Turkish translation works...
+  * Turkish translation works...
+  * Turkish translation works...
+  * Turkish translation works...
+  * Updated Polish translation
+  * minor fix in polish translation
+  * Corrected translations errors (#191)
+  * l10n: Fix in Polish ObConf translation (#196)
+  * updated Polish translation
+  * l10n: update Polish translation
+  * l10n: Update Polish translation
+  * Fixed typo in Polish translation
+  * updated Polish translation
+  * Lithuanian translatio
+  * Improved and updated Polish translation
+  * lxqt-config-file-associations: Update to current sources
+  * Fix french tralations
+  * fixed bad italian translations and removed typo
+  * obconf-qt_ca.ts (Catalan)
+  * Catalan translation of font: tipus de lletra -> lletra
+  * New Polish translation
+  * Fix Catalan translation (lxqt-config-session)
+  * Add qtermwidget and translations for Traditional Chinese
+  * Remove invalid timeformat. Remove two spaces.
+  * Update Catalan translation
+  * New Polish translation
+  * Update Polish translation
+  * Fix a typo: PulseAdio -> PulseAudio
+  * Update pcmanfm-qt_nl.ts
+  * Update libfm-qt_nl.ts
+  * finish the translation task for zh_CN
+  * Update Catalan translation
+  * Update pcmanfm-qt_pt.ts
+  * Updated Ukrainian translation
+  * Bump year
+  * Update Turkish translations
+
+0.11.2 / 2017-01-01
+===================
+
+  * Release 0.11.2: Update changelog
+  * Add/update Turkish translations
+  * lxqt-about_tr.ts update
+  * liblxqt_tr.ts update
+  * Update Danish translations
+  * Portuguese update
+  * lxqt-sudo: Move Ukrainian translation
+  * Remove all danish translation files using "da_DK" (keep "da")
+  * First attempt to change all danish translation files from using i mix of "da" and "da_DK" and both, to only using "da"
+
+0.11.1 / 2016-12-11
+===================
+
+  * Release 0.11.1: Update changelog
+  * Update zh_TW translation for pcmanfm-qt.
+  * Update zh_TW translation for libfm-qt.
+  * Update pcmanfm-qt UI strings.
+  * Update UI strings of libfm-qt.
+  * Add pt_BR translation for pcmanfm-qt.
+  * Polish translation update
+  * French: Update or improve ComptonConf, Obconf-Qt, Pavucontrol-Qt, PCManFM-Qt, QTerminal
+  * Add/update (complete) Ukrainian translation
+  * travis: Do not require more than needed
+  * Use LXQtConfigVars CMake module
+  * Update pcmanfm-qt_nl.ts
+  * lxqt-panel: Update French translations
+  * Update French translations
+  * Update Frech translations (#152)
+  * Create qterminal_nl.ts
+  * Update pavucontrol-qt_nl.ts
+  * Create obconf-qt_nl.ts
+  * Create lxqt-sudo_nl.ts
+  * Update lxqt-session_nl.ts
+  * Create lxqt-leave_nl.ts
+  * Update lxqt-config-session_nl.ts
+  * Update lxqt-runner_nl.ts
+  * Update lxqt-config-powermanagement_nl.ts
+  * Create lxqt-powermanagement_nl.ts
+  * Create lxqt-config-powermanagement_nl.ts
+  * Create lxqt-policykit-agent_nl.ts
+  * Portuguese update for lxqt-panel modules, pavucontrol-qt and pcmanfm
+  * Update french translation
+  * Create worldclock_nl.ts
+  * Update volume_nl.ts
+  * Update taskbar_nl.ts
+  * Create sysstat_nl.ts
+  * Create spacer_nl.ts
+  * Update showdesktop_nl.ts
+  * Create sensors_nl.ts
+  * Update quicklaunch_nl.ts
+  * Update networkmonitor_nl.ts
+  * Update mount_nl.ts
+  * Update mainmenu_nl.ts
+  * Create kbindicator_nl.ts
+  * Create dom_nl.ts
+  * Create directorymenu_nl.ts
+  * Update desktopswitch_nl.ts
+  * Update Russian for lxqt-powermanagement and pcmanfm-qt (#127)
+  * Update cpuload_nl.ts
+  * Update clock_nl.ts
+  * Update lxqt-panel_nl.ts (#124)
+  * Create lxqt-notificationd_nl.ts
+  * Update pcmanfm-qt_nl.ts
+  * Create lxqt-openssh-askpass_nl.ts
+  * Update lxqt-config-globalkeyshortcuts_nl.ts
+  * Update Portugese translations
+  * Create lxqt-config-notificationd_nl.ts
+  * Create lxqt-config-monitor_nl.ts
+  * Create lxqt-config_nl.ts
+  * Create lxqt-config-brightness_nl.ts
+  * Create lxqt-config-file-associations_nl.ts
+  * Update lxqt-config-input_nl.ts
+  * Create lxqt-config-locale_nl.ts
+  * Update lxqt-about_nl.ts
+  * Create lxqt-admin-time_nl.ts
+  * Create lxqt-admin-user_nl.ts
+  * Update lxqt-config-cursor_nl.ts
+  * Update lxqt-config-appearance_nl.ts
+  * lximage-qt_nl.ts
+  * Update liblxqt_nl.ts
+  * Create libfm-qt_nl.ts
+  * Fix language vs. name discrepancies
+  * build: Add automated testing
+  * Add & update Italian translation
+  * Rename Portugese translations files
+  * travis: Use lxqt-build-tools
+  * Consistency is needed
+  * fixed order of components in CMakeLists.txt
+  * Massive update for Portuguese
+  * Updated italian translations, some corrections
+  * lxqt-config: Add/Update Frech translation
+  * obconf-qt: Drop region-specific ru_RU translation
+  * obconf-qt: Update Russian translations
+  * Add initial Travis-CI config
+  * build: Include only LXQtTranslateTs
+  * Update pcmanfm-qt_nl.ts
+  * Fix broken pcmanfm-qt_nl.ts caused by lack of pleural forms.
+  * Fix file format errors in lxqt-config-input_fr.ts.
+  * Added Dutch translation for PCManFM-Qt.
+  * Add libfm-qt_ca.ts (Catalan)
+  * Add pcmanfm-qt_ca.ts (Catalan)
+  * Update pcmanfm-qt_it.ts
+  * update input config FRENCH translations
+  * install pavucontrol translations, create qterminal.ts, update qterminal_hu.ts
+  * pavucontrol-qt: Update Czech translation
+  * Create compton-conf_nl.ts
+  * Update lxqt-config-appearance_it.ts
+
+0.11.0 / 2016-09-24
+===================
+
+  * Release 0.11.0: Add changelog
   * pavucontrol-qt: Fix syntax errors (#81)
   * Update README.md
   * Update German translation (#33)

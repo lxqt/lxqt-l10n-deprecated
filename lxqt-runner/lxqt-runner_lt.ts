@@ -4,13 +4,9 @@
 <context>
     <name>ConfigureDialog</name>
     <message>
-        <source>LXQt-runner Settings</source>
-        <translation type="vanished">LXQt paleidiklio nuostatos</translation>
-    </message>
-    <message>
         <location filename="../../configuredialog/configuredialog.ui" line="14"/>
         <source>Runner Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paleidiklio nustatymai</translation>
     </message>
     <message>
         <location filename="../../configuredialog/configuredialog.ui" line="20"/>
@@ -20,7 +16,7 @@
     <message>
         <location filename="../../configuredialog/configuredialog.ui" line="26"/>
         <source>Positioning:</source>
-        <translation>Padėtis:</translation>
+        <translation>Išdėstymas:</translation>
     </message>
     <message>
         <location filename="../../configuredialog/configuredialog.ui" line="36"/>
@@ -28,50 +24,59 @@
         <translation>Rodyti:</translation>
     </message>
     <message>
-        <location filename="../../configuredialog/configuredialog.ui" line="56"/>
+        <location filename="../../configuredialog/configuredialog.ui" line="46"/>
+        <source>Show history first</source>
+        <translation>Iš pradžių, rodyti istoriją</translation>
+    </message>
+    <message>
+        <location filename="../../configuredialog/configuredialog.ui" line="53"/>
+        <source>Store/show history</source>
+        <translation>Saugoti/rodyti istoriją</translation>
+    </message>
+    <message>
+        <location filename="../../configuredialog/configuredialog.ui" line="60"/>
+        <source>&lt;b&gt;Note&lt;/b&gt;: The size of top-level widgets are constrained to 2/3 of the desktop&apos;s height and width.</source>
+        <translation>&lt;b&gt;Pastaba&lt;/b&gt;: Aukščiausio lygio valdiklių dydis yra apribotas iki 2/3 darbalaukio aukščio ir pločio.</translation>
+    </message>
+    <message>
+        <location filename="../../configuredialog/configuredialog.ui" line="63"/>
+        <source>Show list with:</source>
+        <translation>Rodyti sąrašą su:</translation>
+    </message>
+    <message>
+        <location filename="../../configuredialog/configuredialog.ui" line="70"/>
+        <source> item(s)</source>
+        <translation> elementais(-ų)</translation>
+    </message>
+    <message>
+        <location filename="../../configuredialog/configuredialog.ui" line="90"/>
         <source>Shortcut:</source>
-        <translation>Nuoroda:</translation>
-    </message>
-    <message>
-        <source>Top edge of screen</source>
-        <translation type="vanished">Viršutiniame ekrano krašte</translation>
-    </message>
-    <message>
-        <source>Center of screen</source>
-        <translation type="vanished">Ekrano centre</translation>
-    </message>
-    <message>
-        <source>Monitor where the mouse</source>
-        <translation type="vanished">Ties pele</translation>
-    </message>
-    <message>
-        <source>Always on %1 monitor</source>
-        <translation type="vanished">Visada „%1“ vaizduoklyje</translation>
+        <translation>Spartusis klavišas:</translation>
     </message>
     <message>
         <location filename="../../configuredialog/configuredialog.cpp" line="60"/>
         <source>Top edge of the screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Viršutiniame ekrano krašte</translation>
     </message>
     <message>
         <location filename="../../configuredialog/configuredialog.cpp" line="61"/>
         <source>Center of the screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekrano centre</translation>
     </message>
     <message>
         <location filename="../../configuredialog/configuredialog.cpp" line="67"/>
         <source>Focused screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokusuotame ekrane</translation>
     </message>
     <message>
         <location filename="../../configuredialog/configuredialog.cpp" line="71"/>
         <source>Always on screen %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Visada ekrane %1</translation>
     </message>
     <message>
         <location filename="../../configuredialog/configuredialog.cpp" line="80"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Atstatyti</translation>
     </message>
 </context>
 <context>
@@ -79,34 +84,22 @@
     <message>
         <location filename="../../dialog.ui" line="26"/>
         <source>Application launcher </source>
-        <translation>Programų paleidiklis</translation>
+        <translation>Programų leistukas </translation>
     </message>
     <message>
-        <source>Configure lxqt-runner</source>
-        <translation type="vanished">Konfigūruoti lxqt paleidiklį</translation>
-    </message>
-    <message>
-        <source>Clear lxqt-runner History</source>
-        <translation type="vanished">Išvalyti lxqt paleidiklio istoriją</translation>
-    </message>
-    <message>
-        <source>Press &quot;%1&quot; to see dialog.</source>
-        <translation type="vanished">Norėdami matyti dialogą, spauskite „%1“</translation>
-    </message>
-    <message>
-        <location filename="../../dialog.cpp" line="93"/>
+        <location filename="../../dialog.cpp" line="94"/>
         <source>Configure</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigūruoti</translation>
     </message>
     <message>
-        <location filename="../../dialog.cpp" line="97"/>
+        <location filename="../../dialog.cpp" line="98"/>
         <source>Clear History</source>
-        <translation type="unfinished"></translation>
+        <translation>Išvalyti istoriją</translation>
     </message>
     <message>
-        <location filename="../../dialog.cpp" line="349"/>
+        <location filename="../../dialog.cpp" line="351"/>
         <source>Show/hide runner dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti/slėpti paleidiklio dialogą</translation>
     </message>
 </context>
 <context>
@@ -117,13 +110,9 @@
         <translation>Istorija</translation>
     </message>
     <message>
-        <location filename="../../providers.cpp" line="801"/>
+        <location filename="../../providers.cpp" line="822"/>
         <source>Mathematics</source>
         <translation>Matematika</translation>
-    </message>
-    <message>
-        <source>LXQt Power Management</source>
-        <translation type="vanished">LXQt energijos valdymas</translation>
     </message>
 </context>
 </TS>
