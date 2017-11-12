@@ -15,7 +15,7 @@
     <message>
         <location filename="../../about.ui" line="25"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:16pt; font-weight:600;&quot;&gt;PCManFM-Qt&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:16pt; font-weight:600;&quot;&gt;PCManFM-Qt&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../about.ui" line="48"/>
@@ -65,7 +65,25 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.</source>
-        <translation type="unfinished"></translation>
+        <translation>Файловый менеджер PCMan-Qt
+
+Авторское право (C) 2009 - 2014 洪任諭 (Hong Jen Yee)
+
+Эта программа является свободным программным обеспечением;
+вы можете распространять и/или модифицировать ее согласно
+условиям стандартной общественной лицензии GNU, опубликованной
+Фондом свободного ПО; либо версии 2 лицензии, либо
+(по вашему выбору) любой более поздней версии.
+
+Эта программа распространяется в надежде что она будет полезной,
+но БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ; даже без подразумеваемых гарантий
+КОММЕРЧЕСКОЙ ЦЕННОСТИ или ПРИГОДНОСТИ ДЛЯ КОНКРЕТНОЙ ЦЕЛИ.
+Смотрите Стандартную Общественную Лицензию GNU для большего
+количества деталей.
+
+Вы должны были получить копию Стандартной Общественной Лицензии GNU
+вместе с этой программой; если лицензии не было, напишите в Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Бостон, MA  02110-1301, США.</translation>
     </message>
     <message>
         <source>PCMan File Manager
@@ -139,42 +157,42 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Бостон, MA  02110-1301,
     <message>
         <location filename="../../connect.ui" line="14"/>
         <source>Connect to remote server</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключение к удаленному серверу</translation>
     </message>
     <message>
         <location filename="../../connect.ui" line="23"/>
         <source>Anonymous &amp;login</source>
-        <translation type="unfinished"></translation>
+        <translation>Анонимный &amp;вход</translation>
     </message>
     <message>
         <location filename="../../connect.ui" line="36"/>
         <source>Login as &amp;user:</source>
-        <translation type="unfinished"></translation>
+        <translation>Войти как &amp;пользователь:</translation>
     </message>
     <message>
         <location filename="../../connect.ui" line="65"/>
         <source>Specify remote folder to connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Укажите удаленную папку для подключения</translation>
     </message>
     <message>
         <location filename="../../connect.ui" line="72"/>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип:</translation>
     </message>
     <message>
         <location filename="../../connect.ui" line="79"/>
         <source>Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Порт:</translation>
     </message>
     <message>
         <location filename="../../connect.ui" line="86"/>
         <source>Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Путь:</translation>
     </message>
     <message>
         <location filename="../../connect.ui" line="96"/>
         <source>Host:</source>
-        <translation type="unfinished"></translation>
+        <translation>Хост:</translation>
     </message>
 </context>
 <context>
@@ -295,7 +313,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Бостон, MA  02110-1301,
     <message>
         <location filename="../../desktop-preferences.ui" line="231"/>
         <source>Minimum item margins:</source>
-        <translation type="unfinished">Минимальные границы элементов:</translation>
+        <translation>Минимальные границы элементов:</translation>
     </message>
     <message>
         <location filename="../../desktop-preferences.ui" line="238"/>
@@ -567,12 +585,12 @@ A space is also reserved for 3 lines of text.</source>
     <message>
         <location filename="../../main-win.ui" line="178"/>
         <source>&amp;Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Панель инструментов</translation>
     </message>
     <message>
         <location filename="../../main-win.ui" line="185"/>
         <source>Path &amp;Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Путь в строке &amp;адреса</translation>
     </message>
     <message>
         <location filename="../../main-win.ui" line="202"/>
@@ -812,7 +830,7 @@ A space is also reserved for 3 lines of text.</source>
     <message>
         <location filename="../../main-win.ui" line="569"/>
         <source>&amp;Preserve sorting for this folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Сохранять сортировку для этой папки</translation>
     </message>
     <message>
         <location filename="../../main-win.ui" line="668"/>
@@ -857,7 +875,7 @@ A space is also reserved for 3 lines of text.</source>
     <message>
         <location filename="../../main-win.ui" line="747"/>
         <source>&amp;Filter</source>
-        <translation>Фильтр</translation>
+        <translation>&amp;Фильтр</translation>
     </message>
     <message>
         <location filename="../../main-win.ui" line="750"/>
@@ -867,32 +885,32 @@ A space is also reserved for 3 lines of text.</source>
     <message>
         <location filename="../../main-win.ui" line="759"/>
         <source>Close &amp;previous tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть &amp;предыдущие вкладки</translation>
     </message>
     <message>
         <location filename="../../main-win.ui" line="768"/>
         <source>Close &amp;next tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть &amp;следующие вкладки</translation>
     </message>
     <message>
         <location filename="../../main-win.ui" line="807"/>
         <source>&amp;Preserve Settings for This Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Сохранить настройки для этой папки</translation>
     </message>
     <message>
         <location filename="../../main-win.ui" line="812"/>
         <source>Connect to &amp;Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключение к &amp;серверу</translation>
     </message>
     <message>
         <location filename="../../main-win.ui" line="820"/>
         <source>&amp;Location</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Расположение</translation>
     </message>
     <message>
         <location filename="../../main-win.ui" line="828"/>
         <source>&amp;Path Buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Путь кнопок</translation>
     </message>
     <message>
         <source>Close &amp;left tabs</source>
@@ -910,7 +928,7 @@ A space is also reserved for 3 lines of text.</source>
     <message>
         <location filename="../../main-win.ui" line="781"/>
         <source>&amp;Menu bar</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cтрока меню</translation>
     </message>
     <message>
         <location filename="../../main-win.ui" line="784"/>
@@ -1171,32 +1189,32 @@ A space is also reserved for 3 lines of text.</source>
     <message>
         <location filename="../../connectserverdialog.cpp" line="9"/>
         <source>SSH</source>
-        <translation type="unfinished"></translation>
+        <translation>SSH</translation>
     </message>
     <message>
         <location filename="../../connectserverdialog.cpp" line="10"/>
         <source>FTP</source>
-        <translation type="unfinished"></translation>
+        <translation>FTP</translation>
     </message>
     <message>
         <location filename="../../connectserverdialog.cpp" line="11"/>
         <source>WebDav</source>
-        <translation type="unfinished"></translation>
+        <translation>WebDav</translation>
     </message>
     <message>
         <location filename="../../connectserverdialog.cpp" line="12"/>
         <source>Secure WebDav</source>
-        <translation type="unfinished"></translation>
+        <translation>Безопасный WebDav</translation>
     </message>
     <message>
         <location filename="../../connectserverdialog.cpp" line="13"/>
         <source>HTTP</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP</translation>
     </message>
     <message>
         <location filename="../../connectserverdialog.cpp" line="14"/>
         <source>HTTPS</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTPS</translation>
     </message>
 </context>
 <context>
@@ -1229,7 +1247,7 @@ A space is also reserved for 3 lines of text.</source>
     <message>
         <location filename="../../desktoppreferencesdialog.cpp" line="57"/>
         <source>Zoom the image to fill the entire screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличить изображение до заполнения всего экрана</translation>
     </message>
     <message>
         <location filename="../../desktoppreferencesdialog.cpp" line="204"/>
@@ -1354,10 +1372,10 @@ A space is also reserved for 3 lines of text.</source>
     <message numerus="yes">
         <location filename="../../tabpage.cpp" line="488"/>
         <source>%n item(s) selected</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 объект выделен</numerusform>
+            <numerusform>%1 объекта выделено</numerusform>
+            <numerusform>%1 объектов выделено</numerusform>
         </translation>
     </message>
     <message>
@@ -1607,12 +1625,12 @@ A space is also reserved for 3 lines of text.</source>
     <message>
         <location filename="../../preferences.ui" line="369"/>
         <source>Minimum item margins in icon view:</source>
-        <translation type="unfinished">Минимальные границы элементов в режиме значков:</translation>
+        <translation>Минимальные границы элементов в режиме значков:</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="376"/>
         <source>3 px by default.</source>
-        <translation>по умолчанию - 3 пикселя</translation>
+        <translation>по умолчанию - 3 пикселя.</translation>
     </message>
     <message>
         <location filename="../../preferences.ui" line="379"/>
