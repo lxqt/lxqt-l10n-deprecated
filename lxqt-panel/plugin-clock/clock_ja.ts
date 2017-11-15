@@ -14,17 +14,17 @@
     <message>
         <location filename="../../../lxqtclock.cpp" line="57"/>
         <source>Date&amp;Time (clock) plugin is deprecated</source>
-        <translation type="unfinished"></translation>
+        <translation>日付時刻 (時計) プラグインは非推奨です</translation>
     </message>
     <message>
         <location filename="../../../lxqtclock.cpp" line="58"/>
         <source>The &lt;strong&gt;clock&lt;/strong&gt; plugin is deprecated and will be removed in future version of LXQt. Consider replacing it with &lt;strong&gt;worldclock&lt;/strong&gt;.&lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;時計&lt;/strong&gt; プラグインは非推奨であり、将来のバージョンのLXQtで消去される予定です。 &lt;strong&gt;worldclock&lt;/strong&gt;への変更を検討してください。&lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="../../../lxqtclock.cpp" line="60"/>
         <source>don&apos;t show this again</source>
-        <translation type="unfinished"></translation>
+        <translation>二度と表示しない</translation>
     </message>
 </context>
 <context>
@@ -82,7 +82,7 @@
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="107"/>
         <source>First day of week in calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>カレンダーの最初の日付</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="124"/>
