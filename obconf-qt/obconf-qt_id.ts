@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="id">
+    <extra-po-header-language>id</extra-po-header-language>
+    <extra-po-header-language_team></extra-po-header-language_team>
+    <extra-po-header-last_translator>Arif Budiman &lt;arifpedia@gmail.com&gt;</extra-po-header-last_translator>
+    <extra-po-header-po_revision_date></extra-po-header-po_revision_date>
+    <extra-po-header-pot_creation_date></extra-po-header-pot_creation_date>
+    <extra-po-header-project_id_version></extra-po-header-project_id_version>
+    <extra-po-header-x_generator>Poedit 2.0.4</extra-po-header-x_generator>
+    <extra-po-headers>MIME-Version,Content-Type,Content-Transfer-Encoding,Plural-Forms,X-Language,X-Qt-Contexts,Project-Id-Version,POT-Creation-Date,PO-Revision-Date,Last-Translator,Language-Team,Language,X-Generator,X-Source-Language</extra-po-headers>
 <context>
     <name>Fm::FontButton</name>
     <message>
@@ -60,7 +68,7 @@
     <message>
         <location filename="../../ui_obconf.h" line="1031"/>
         <source>Margins</source>
-        <translation>Marjin</translation>
+        <translation>Batas</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1033"/>
@@ -105,12 +113,12 @@
     <message>
         <location filename="../../ui_obconf.h" line="1137"/>
         <source>Desktop Margins</source>
-        <translation>Marjin Desktop</translation>
+        <translation>Batas Desktop</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1138"/>
         <source>Desktop margins are reserved areas on the edge of your screen.  New windows will not be placed within a margin, and maximized windows will not cover them.</source>
-        <translation>Marjin desktop adalah wilayah yang dicadangkan di tepi layar.  Jendela baru tak akan ditempatkan di dalam jarmin, dan jendela yang dimaksimalkan tak akan menutupinya.</translation>
+        <translation>Batas desktop adalah wilayah yang dicadangkan di tepi layar.  Jendela baru tidak akan ditempatkan di dalam sebuah batas, dan jendela yang dimaksimalkan tidak akan menutupinya.</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1139"/>
@@ -128,7 +136,7 @@
     <message>
         <location filename="../../ui_obconf.h" line="1141"/>
         <source>Top:</source>
-        <translation>Puncak:</translation>
+        <translation>Atas:</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1143"/>
@@ -138,7 +146,7 @@
     <message>
         <location filename="../../ui_obconf.h" line="1145"/>
         <source>Bottom:</source>
-        <translation>Dasar:</translation>
+        <translation>Bawah:</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1068"/>
@@ -219,7 +227,7 @@
     <message>
         <location filename="../../ui_obconf.h" line="1111"/>
         <source>Never</source>
-        <translation>Tak pernah</translation>
+        <translation>Tidak pernah</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1115"/>
@@ -271,132 +279,132 @@ D: Selalu ada (Pada semua desktop)</translation>
     <message>
         <location filename="../../ui_obconf.h" line="1147"/>
         <source>The dock is a special container for &quot;dockapps&quot;, or dock applications.  It is not visible on screen until a dockapp is run.  Dockapps can be used to show things like a clock, or to provide you with a system tray.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dok adalah wadah spesial untuk &quot;dockapps&quot;, atau aplikasi-aplikasi dok.  Ia tidak terlihat di layar sampai dockapp dijalankan.  Dockapp dapat digunakan untuk menampilkan hal-hal seperti jam, atau untuk menyediakan baki sistem.</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1148"/>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Posisi</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1149"/>
         <source>&amp;Position:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Posisi:</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1152"/>
         <source>Top Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiri Atas</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1153"/>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Atas</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1154"/>
         <source>Top Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanan Atas</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1155"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiri</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1156"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanan</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1157"/>
         <source>Bottom Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiri Bawah</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1158"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Bawah</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1159"/>
         <source>Bottom Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanan Bawah</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1160"/>
         <source>Floating</source>
-        <translation type="unfinished"></translation>
+        <translation>Mengambang</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1162"/>
         <source>&amp;Floating position:</source>
-        <translation type="unfinished"></translation>
+        <translation>Posisi &amp;mengambang:</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1163"/>
         <source>x</source>
-        <translation type="unfinished"></translation>
+        <translation>x</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1164"/>
         <source>Allow &amp;windows to be placed within the dock&apos;s area</source>
-        <translation type="unfinished"></translation>
+        <translation>Izinkan &amp;jendela untuk ditempatkan di wilayah dok ini</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1165"/>
         <source>&amp;Orientation: </source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Orientasi: </translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1168"/>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikel</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1169"/>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1171"/>
         <source>Stacking</source>
-        <translation type="unfinished"></translation>
+        <translation>Menumpuk</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1172"/>
         <source>Keep dock &amp;above other windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Biarkan dok di &amp;atas jendela lain</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1173"/>
         <source>A&amp;llow dock to be both above and below windows</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Izinkan dok berada di atas dan di bawah jendela</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1174"/>
         <source>Keep dock &amp;below other windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Biarkan dok di &amp;bawah jendela lain</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1175"/>
         <source>Hiding</source>
-        <translation type="unfinished"></translation>
+        <translation>Menyembunyikan</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1176"/>
         <source>&amp;Delay before hiding:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Jeda sebelum menyembunyikan:</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1177"/>
         <source>Delay before &amp;showing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeda sebelum &amp;menampilkan:</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1178"/>
         <source>&amp;Hide off screen</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sembunyikan layar mati</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1179"/>
@@ -411,12 +419,12 @@ D: Selalu ada (Pada semua desktop)</translation>
     <message>
         <location filename="../../ui_obconf.h" line="1037"/>
         <source>Create a theme &amp;archive (.obt)...</source>
-        <translation>Buat suatu &amp;arsip tema (.obt)...</translation>
+        <translation>Buat &amp;arsip tema (.obt)...</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1039"/>
         <source>&amp;Windows retain a border when undecorated</source>
-        <translation>&amp;Jendela mempertahankan perbatasan ketika tak didekorasi</translation>
+        <translation>&amp;Jendela mempertahankan perbatasan ketika tidak didekorasi</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1040"/>
@@ -431,7 +439,7 @@ D: Selalu ada (Pada semua desktop)</translation>
     <message>
         <location filename="../../ui_obconf.h" line="1057"/>
         <source>&amp;Inactive window title: </source>
-        <translation>Judul jendela tak akt&amp;if: </translation>
+        <translation>Judul jendela tidak akt&amp;if: </translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1058"/>
@@ -446,12 +454,12 @@ D: Selalu ada (Pada semua desktop)</translation>
     <message>
         <location filename="../../ui_obconf.h" line="1060"/>
         <source>Active &amp;On-screen display: </source>
-        <translation>Tampilan Pada layar yang aktif: </translation>
+        <translation>Tampilan Pada layar yang &amp;aktif: </translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1061"/>
         <source>Inactive O&amp;n-screen display: </source>
-        <translation>Tampilan Pada layar yang tak aktif: </translation>
+        <translation>Tampilan Pada layar yang &amp;tak aktif: </translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1062"/>
@@ -536,7 +544,7 @@ D: Selalu ada (Pada semua desktop)</translation>
     <message>
         <location filename="../../ui_obconf.h" line="1121"/>
         <source>&amp;Delay before focusing and raising windows:</source>
-        <translation>Tun&amp;daan sebelum memfokus dan menaikkan jendela: </translation>
+        <translation>Tun&amp;daan sebelum memfokus dan menaikkan jendela:</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1122"/>
@@ -566,7 +574,7 @@ D: Selalu ada (Pada semua desktop)</translation>
     <message>
         <location filename="../../ui_obconf.h" line="1133"/>
         <source>&amp;Show a notification when switching desktops</source>
-        <translation>Tampilkan pemberitahuan ketika bertukar de&amp;sktop</translation>
+        <translation>&amp;Tampilkan pemberitahuan ketika bertukar desktop</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1134"/>
@@ -589,7 +597,7 @@ D: Selalu ada (Pada semua desktop)</translation>
     <message>
         <location filename="../../mouse.cpp" line="57"/>
         <source>Custom actions</source>
-        <translation>Aksi gubahan</translation>
+        <translation>Aksi kustom</translation>
     </message>
     <message>
         <location filename="../../desktops.cpp" line="65"/>
@@ -616,7 +624,17 @@ The program is based on ObConf developed by the following developers.
 * Dana Jansens &lt;danakj@orodu.net&gt;
 * Tim Riley &lt;tr@slackzone.org&gt;
 * Javeed Shaikh &lt;syscrash2k@gmail.com&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Manajer preferensi untuk Openbox
+
+Hak cipta (c) 2014-2015
+
+Pembuat:
+* Hong Jen Yee (PCMan) &lt;pcman.tw@gmail.com&gt;
+
+Program ini didasarkan pada ObConf yang dikembangkan oleh para pengembang berikut.
+* Dana Jansens &lt;danakj@orodu.net&gt;
+* Tim Riley &lt;tr@slackzone.org&gt;
+* Javeed Shaikh &lt;syscrash2k@gmail.com&gt;</translation>
     </message>
     <message>
         <source>A preferences manager for Openbox
@@ -628,11 +646,11 @@ Authors:
 * Dana Jansens &lt;danakj@orodu.net&gt;
 * Tim Riley &lt;tr@slackzone.org&gt;
 * Javeed Shaikh &lt;syscrash2k@gmail.com&gt;</source>
-        <translation type="vanished">Manajer preferensi untuk Openbox
+        <translation>Manajer preferensi untuk Openbox
 
 Hak cipta (c) 2003-2013
 
-Penulis:
+Pembuat:
 * Hong Jen Yee (PCMan) &lt;pcman.tw@gmail.com&gt;
 * Dana Jansens &lt;danakj@orodu.net&gt;
 * Tim Riley &lt;tr@slackzone.org&gt;
@@ -650,7 +668,7 @@ Penulis:
     <message>
         <location filename="../../archive.cpp" line="26"/>
         <source>&quot;%1&quot; was installed to %1</source>
-        <translation>&quot;%1&quot; dipasang ke %1</translation>
+        <translation>&quot;%1&quot; telah dipasang ke %1</translation>
     </message>
     <message>
         <location filename="../../archive.cpp" line="53"/>
@@ -662,7 +680,7 @@ Penulis:
         <source>Unable to create the theme archive &quot;%1&quot;.
 The following errors were reported:
 %2</source>
-        <translation>Tak bisa membuat arsip tema &quot;%1&quot;.
+        <translation>Tidak dapat membuat arsip tema &quot;%1&quot;.
 Kesalahan berikut dilaporkan:
 %2</translation>
     </message>
@@ -670,12 +688,12 @@ Kesalahan berikut dilaporkan:
         <location filename="../../archive.cpp" line="95"/>
         <location filename="../../archive.cpp" line="178"/>
         <source>Unable to run the &quot;tar&quot; command: %1</source>
-        <translation>Tak bisa menjalankan perintah &quot;tar&quot;: %1</translation>
+        <translation>Tidak dapat menjalankan perintah &quot;tar&quot;: %1</translation>
     </message>
     <message>
         <location filename="../../archive.cpp" line="115"/>
         <source>Unable to create directory &quot;%1&quot;: %2</source>
-        <translation>Tak bisa membuat direktori &quot;%1&quot;: %2</translation>
+        <translation>Tidak dapat membuat direktori &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <location filename="../../archive.cpp" line="138"/>
@@ -685,7 +703,7 @@ Kesalahan berikut dilaporkan:
     <message>
         <location filename="../../archive.cpp" line="148"/>
         <source>Unable to move to directory &quot;%1&quot;: %2</source>
-        <translation>Tak bisa memindah ke direktori &quot;%1&quot;: %2</translation>
+        <translation>Tidak dapat memindah ke direktori &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <location filename="../../archive.cpp" line="185"/>
@@ -693,7 +711,7 @@ Kesalahan berikut dilaporkan:
 Please ensure that &quot;%2&quot; is writable and that the file is a valid Openbox theme archive.
 The following errors were reported:
 %3</source>
-        <translation>Tak bisa mengekstrak berkas &quot;%1&quot;.
+        <translation>Tidak dapat mengekstrak berkas &quot;%1&quot;.
 Harap pastikan bahwa &quot;%2&quot; dapat ditulisi dan berkas tersebuat adalah arsip tema Openbox yang valid.
 Kesalahan berikut dilaporkan:
 %3</translation>
@@ -761,7 +779,7 @@ Opsi:
         <source>Error while parsing the Openbox configuration file.  Your configuration file is not valid XML.
 
 Message: %1</source>
-        <translation>Kesalahan saat mengurai berkas konfigurasi Openbox.  Berkas konfigurasi Anda bukat XML yang valid.
+        <translation>Kesalahan saat mengurai berkas konfigurasi Openbox.  Berkas konfigurasi Anda bukan XML yang valid.
 
 Pesan: %1</translation>
     </message>
