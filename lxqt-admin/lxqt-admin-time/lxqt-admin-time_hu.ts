@@ -11,7 +11,7 @@
     <message>
         <location filename="../../../datetime.ui" line="39"/>
         <source>HH:mm:ss</source>
-        <translation>ÓÓ:pp:mp</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../datetime.ui" line="53"/>

@@ -188,7 +188,7 @@
     <message>
         <location filename="../../../mainwindow.cpp" line="187"/>
         <source>Input the new password for %1:</source>
-        <translation>A %1 új jelszava:</translation>
+        <translation>%1 új jelszava:</translation>
     </message>
     <message>
         <location filename="../../../mainwindow.cpp" line="197"/>
