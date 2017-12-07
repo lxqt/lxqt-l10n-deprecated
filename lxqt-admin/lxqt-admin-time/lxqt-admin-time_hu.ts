@@ -26,7 +26,7 @@
     <message>
         <location filename="../../../datetime.ui" line="77"/>
         <source>RTC is in local time</source>
-        <translation>Az RTC helyi idő szrint</translation>
+        <translation>Az RTC a helyi idő szerinti</translation>
     </message>
 </context>
 <context>

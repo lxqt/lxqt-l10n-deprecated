@@ -147,7 +147,7 @@
     <message>
         <location filename="../../../mainwindow.ui" line="194"/>
         <source>Refresh</source>
-        <translation>Frisítés</translation>
+        <translation>Frissítés</translation>
     </message>
     <message>
         <location filename="../../../mainwindow.ui" line="197"/>
@@ -250,7 +250,7 @@
     <message>
         <location filename="../../../userdialog.ui" line="109"/>
         <source>Advanced</source>
-        <translation>Bővített</translation>
+        <translation>Haladó</translation>
     </message>
     <message>
         <location filename="../../../userdialog.ui" line="115"/>
@@ -298,7 +298,7 @@
     <message>
         <location filename="../../../usermanager.cpp" line="224"/>
         <source>lxqt-admin-user</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../usermanager.cpp" line="225"/>
