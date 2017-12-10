@@ -323,7 +323,7 @@
     <message>
         <location filename="../../core/dirlistjob.cpp" line="45"/>
         <source>The specified directory &apos;%1&apos; is not valid</source>
-        <translation type="unfinished"></translation>
+        <translation>A &apos;%1&apos; mappa érvenytelen</translation>
     </message>
 </context>
 <context>
@@ -346,7 +346,7 @@
     <message>
         <location filename="../../dirtreeview.cpp" line="211"/>
         <source>Open in New T&amp;ab</source>
-        <translation>Megnyi&amp;tás új fülön</translation>
+        <translation>Megnyi&amp;tás új lapon</translation>
     </message>
     <message>
         <location filename="../../dirtreeview.cpp" line="215"/>
@@ -638,12 +638,12 @@ Töröljük őket véglegesen?</translation>
     <message>
         <location filename="../../filepropsdialog.cpp" line="380"/>
         <source>Select an icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikon választás</translation>
     </message>
     <message>
         <location filename="../../filepropsdialog.cpp" line="382"/>
         <source>Images (*.png *.xpm *.svg *.svgz )</source>
-        <translation type="unfinished"></translation>
+        <translation>Képek (*.png *.xpm *.svg *.svgz )</translation>
     </message>
     <message>
         <location filename="../../filepropsdialog.cpp" line="478"/>
@@ -722,7 +722,7 @@ Töröljük őket véglegesen?</translation>
     <message>
         <location filename="../../foldermenu.cpp" line="137"/>
         <source>Output</source>
-        <translation type="unfinished">Kimenet</translation>
+        <translation>Kimenet</translation>
     </message>
     <message>
         <location filename="../../foldermenu.cpp" line="160"/>
@@ -824,12 +824,12 @@ Töröljük őket véglegesen?</translation>
     <message>
         <location filename="../../pathbar.cpp" line="126"/>
         <source>&amp;Edit Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Útvonal sz&amp;erkesztés</translation>
     </message>
     <message>
         <location filename="../../pathbar.cpp" line="129"/>
         <source>&amp;Copy Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Útvonal &amp;másolása</translation>
     </message>
 </context>
 <context>
@@ -893,7 +893,7 @@ Töröljük őket véglegesen?</translation>
     <message>
         <location filename="../../placesview.cpp" line="356"/>
         <source>Open in New Tab</source>
-        <translation>Megnyitás új fülön</translation>
+        <translation>Megnyitás új lapon</translation>
     </message>
     <message>
         <location filename="../../placesview.cpp" line="359"/>
@@ -1096,7 +1096,7 @@ Módosítva: %2</translation>
     <message>
         <location filename="../../filepropsdialog.cpp" line="520"/>
         <source>Custom Icon Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyéb ikon hiba</translation>
     </message>
 </context>
 <context>
