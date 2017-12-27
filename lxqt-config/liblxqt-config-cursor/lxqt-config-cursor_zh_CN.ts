@@ -11,7 +11,7 @@
     <message>
         <location filename="../../../selectwnd.ui" line="20"/>
         <source>Select the cursor theme you want to use (hover preview to test cursor). &lt;b&gt;LXQt session needs restart after this change&lt;/b&gt;:</source>
-        <translation>选择要使用的游标主题(鼠标放到项目上可以预览)。&lt;b&gt;修改后需要重启LXQt 会话。&lt;/b&gt;：</translation>
+        <translation>选择要使用的鼠标指针主题(鼠标放到项目上可以预览)。&lt;b&gt;修改后需要重启LXQt 会话&lt;/b&gt;：</translation>
     </message>
     <message>
         <location filename="../../../selectwnd.ui" line="81"/>
@@ -52,12 +52,12 @@
     <message>
         <location filename="../../../warninglabel.ui" line="44"/>
         <source>LXQt could not find any cursor theme. The default X11 cursor theme will be used instead. LXQt looked in the following directories:</source>
-        <translation type="unfinished"></translation>
+        <translation>LXQt 找不到任何鼠标指针主题，只能使用默认的X11鼠标指针主题。LXQt在下列目录中寻找主题：</translation>
     </message>
     <message>
         <location filename="../../../warninglabel.ui" line="54"/>
         <source>Show...</source>
-        <translation type="unfinished"></translation>
+        <translation>显示...</translation>
     </message>
 </context>
 <context>
