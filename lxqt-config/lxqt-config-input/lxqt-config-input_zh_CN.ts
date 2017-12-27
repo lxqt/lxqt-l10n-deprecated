@@ -11,12 +11,12 @@
     <message>
         <location filename="../../../keyboardconfig.ui" line="20"/>
         <source>Cursor flash time:</source>
-        <translation type="unfinished"></translation>
+        <translation>光标闪烁速度:</translation>
     </message>
     <message>
         <location filename="../../../keyboardconfig.ui" line="27"/>
         <source>&lt;b&gt;Keyboard&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;键盘&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../../keyboardconfig.ui" line="34"/>
@@ -69,7 +69,7 @@
     <message>
         <location filename="../../../keyboardconfig.ui" line="167"/>
         <source>Turn on NumLock after login</source>
-        <translation type="unfinished"></translation>
+        <translation>登录后开启数字锁定键</translation>
     </message>
 </context>
 <context>
@@ -77,57 +77,57 @@
     <message>
         <location filename="../../../keyboardlayoutconfig.ui" line="20"/>
         <source>&lt;b&gt;Keyboard Layout&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;键盘布局t&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../../keyboardlayoutconfig.ui" line="48"/>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>布局</translation>
     </message>
     <message>
         <location filename="../../../keyboardlayoutconfig.ui" line="53"/>
         <source>Variant</source>
-        <translation type="unfinished"></translation>
+        <translation>变种</translation>
     </message>
     <message>
         <location filename="../../../keyboardlayoutconfig.ui" line="63"/>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>添加(&amp;A)</translation>
     </message>
     <message>
         <location filename="../../../keyboardlayoutconfig.ui" line="70"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>删除(&amp;R)</translation>
     </message>
     <message>
         <location filename="../../../keyboardlayoutconfig.ui" line="77"/>
         <source>up</source>
-        <translation type="unfinished"></translation>
+        <translation>上移</translation>
     </message>
     <message>
         <location filename="../../../keyboardlayoutconfig.ui" line="84"/>
         <source>down</source>
-        <translation type="unfinished"></translation>
+        <translation>下移</translation>
     </message>
     <message>
         <location filename="../../../keyboardlayoutconfig.ui" line="108"/>
         <source>Keyboard model:</source>
-        <translation type="unfinished"></translation>
+        <translation>键盘型号:</translation>
     </message>
     <message>
         <location filename="../../../keyboardlayoutconfig.ui" line="122"/>
         <source>Keys to change layout:</source>
-        <translation type="unfinished"></translation>
+        <translation>布局切换快捷键:</translation>
     </message>
     <message>
         <location filename="../../../keyboardlayoutconfig.ui" line="133"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>无</translation>
     </message>
     <message>
         <location filename="../../../keyboardlayoutconfig.ui" line="141"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Note&lt;/span&gt;: If you are using an &lt;span style=&quot; font-weight:600;&quot;&gt;input method&lt;/span&gt;, such as IBus, uim, fcitx, or gcin, the settings here &lt;span style=&quot; font-weight:600;&quot;&gt;might not work&lt;/span&gt; because they are overridden by the input methods.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;注意&lt;/span&gt;: 如果您正在使用 &lt;span style=&quot; font-weight:600;&quot;&gt;输入法&lt;/span&gt;，例如 IBus、uim、fcitx 或 gcin，则此处的配置&lt;span style=&quot; font-weight:600;&quot;&gt;可能不起作用&lt;/span&gt;，因为您在这里设置的快捷键可能被输入法覆盖。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -219,7 +219,7 @@
     <message>
         <location filename="../../../mouseconfig.ui" line="23"/>
         <source>&lt;b&gt;Mouse&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;鼠标&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../../mouseconfig.ui" line="30"/>
@@ -265,7 +265,7 @@
     <message>
         <location filename="../../../mouseconfig.ui" line="133"/>
         <source>Double click interval:</source>
-        <translation type="unfinished"></translation>
+        <translation>双击间隔:</translation>
     </message>
     <message>
         <location filename="../../../mouseconfig.ui" line="140"/>
@@ -275,7 +275,7 @@
     <message>
         <location filename="../../../mouseconfig.ui" line="150"/>
         <source>Wheel scroll lines:</source>
-        <translation type="unfinished"></translation>
+        <translation>滚轮滚动行数:</translation>
     </message>
     <message>
         <location filename="../../../mouseconfig.ui" line="160"/>
@@ -285,7 +285,7 @@
     <message>
         <location filename="../../../mouseconfig.ui" line="167"/>
         <source>Single click to activate items</source>
-        <translation type="unfinished"></translation>
+        <translation>单击激活物件</translation>
     </message>
 </context>
 <context>
@@ -293,27 +293,27 @@
     <message>
         <location filename="../../../lxqt-config-input.cpp" line="46"/>
         <source>Keyboard and Mouse Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>键盘与鼠标设置</translation>
     </message>
     <message>
         <location filename="../../../lxqt-config-input.cpp" line="51"/>
         <source>Mouse</source>
-        <translation type="unfinished">鼠标</translation>
+        <translation>鼠标</translation>
     </message>
     <message>
         <location filename="../../../lxqt-config-input.cpp" line="56"/>
         <source>Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>鼠标指针</translation>
     </message>
     <message>
         <location filename="../../../lxqt-config-input.cpp" line="59"/>
         <source>Keyboard</source>
-        <translation type="unfinished">键盘</translation>
+        <translation>键盘</translation>
     </message>
     <message>
         <location filename="../../../lxqt-config-input.cpp" line="63"/>
         <source>Keyboard Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>键盘布局</translation>
     </message>
 </context>
 <context>
@@ -321,17 +321,17 @@
     <message>
         <location filename="../../../selectkeyboardlayoutdialog.ui" line="14"/>
         <source>Select a keyboard layout</source>
-        <translation type="unfinished"></translation>
+        <translation>选择键盘布局</translation>
     </message>
     <message>
         <location filename="../../../selectkeyboardlayoutdialog.ui" line="20"/>
         <source>Keyboard layout</source>
-        <translation type="unfinished"></translation>
+        <translation>键盘布局</translation>
     </message>
     <message>
         <location filename="../../../selectkeyboardlayoutdialog.ui" line="27"/>
         <source>Variant</source>
-        <translation type="unfinished"></translation>
+        <translation>变种</translation>
     </message>
 </context>
 </TS>
