@@ -6,7 +6,7 @@
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="49"/>
         <source>&lt;locale based&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -14,17 +14,17 @@
     <message>
         <location filename="../../../lxqtclock.cpp" line="57"/>
         <source>Date&amp;Time (clock) plugin is deprecated</source>
-        <translation type="unfinished"></translation>
+        <translation>不建议使用日期与时间（时钟）插件(&amp;T)</translation>
     </message>
     <message>
         <location filename="../../../lxqtclock.cpp" line="58"/>
         <source>The &lt;strong&gt;clock&lt;/strong&gt; plugin is deprecated and will be removed in future version of LXQt. Consider replacing it with &lt;strong&gt;worldclock&lt;/strong&gt;.&lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>不建议您使用&lt;strong&gt;时钟&lt;/strong&gt;插件，且其将在未来版本的 LXQt 中移除。建议您改用&lt;strong&gt;世界时钟&lt;/strong&gt;。&lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="../../../lxqtclock.cpp" line="60"/>
         <source>don&apos;t show this again</source>
-        <translation type="unfinished"></translation>
+        <translation>请勿再次显示</translation>
     </message>
 </context>
 <context>
@@ -36,7 +36,7 @@
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="14"/>
         <source>Clock Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>时钟设置</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="20"/>
@@ -56,47 +56,47 @@
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="40"/>
         <source>&amp;Use UTC</source>
-        <translation type="unfinished"></translation>
+        <translation>使用 UTC(&amp;U)</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="59"/>
         <source>Date &amp;format</source>
-        <translation type="unfinished"></translation>
+        <translation>时间格式(&amp;F)</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="76"/>
         <source>&amp;Do not show date</source>
-        <translation type="unfinished"></translation>
+        <translation>不显示日期(&amp;D)</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="86"/>
         <source>Show date &amp;before time</source>
-        <translation type="unfinished"></translation>
+        <translation>在时间左侧显示日期(&amp;B)</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="93"/>
         <source>Show date &amp;after time</source>
-        <translation type="unfinished"></translation>
+        <translation>在时间右侧显示日期(&amp;A)</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="100"/>
         <source>Show date below time on new &amp;line</source>
-        <translation type="unfinished"></translation>
+        <translation>在时间下面显示日期(&amp;L)</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="107"/>
         <source>First day of week in calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>一周的第一天</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="124"/>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>方向</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="130"/>
         <source>Auto&amp;rotate when the panel is vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>纵置面板时自动旋转(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Font</source>
@@ -170,7 +170,7 @@
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
         <source>Input custom date format</source>
-        <translation type="unfinished"></translation>
+        <translation>输入自定义日期格式</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
