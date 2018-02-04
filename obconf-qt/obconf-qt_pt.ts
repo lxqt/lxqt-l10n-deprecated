@@ -376,7 +376,7 @@ D: Omnipresente (todas as áreas de trabalho)</translation>
     <message>
         <location filename="../../ui_obconf.h" line="1188"/>
         <source>Keep dock &amp;below other windows</source>
-        <translation>Manter do&amp;ca atrás das janelas </translation>
+        <translation>Manter do&amp;ca atrás das janelas</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1189"/>
@@ -411,7 +411,7 @@ D: Omnipresente (todas as áreas de trabalho)</translation>
     <message>
         <location filename="../../ui_obconf.h" line="1069"/>
         <source>Create a theme &amp;archive (.obt)...</source>
-        <translation> Criar um &amp;arquivo de tema (.obt)...</translation>
+        <translation>Criar um &amp;arquivo de tema (.obt)...</translation>
     </message>
     <message>
         <location filename="../../ui_obconf.h" line="1071"/>
@@ -756,18 +756,18 @@ Opções:
 </translation>
     </message>
     <message>
-        <location filename="../../obconf-qt.cpp" line="225"/>
-        <location filename="../../obconf-qt.cpp" line="241"/>
+        <location filename="../../obconf-qt.cpp" line="227"/>
+        <location filename="../../obconf-qt.cpp" line="243"/>
         <source>Error</source>
         <translation>Erro</translation>
     </message>
     <message>
-        <location filename="../../obconf-qt.cpp" line="226"/>
+        <location filename="../../obconf-qt.cpp" line="228"/>
         <source>Failed to load an rc.xml. You have probably failed to install Openbox properly.</source>
         <translation>Erro ao carregar rc.xml. É possível que o Openbox não esteja bem instalado.</translation>
     </message>
     <message>
-        <location filename="../../obconf-qt.cpp" line="239"/>
+        <location filename="../../obconf-qt.cpp" line="241"/>
         <source>Error while parsing the Openbox configuration file.  Your configuration file is not valid XML.
 
 Message: %1</source>

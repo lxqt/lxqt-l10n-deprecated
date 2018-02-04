@@ -4,7 +4,7 @@
 <context>
     <name>LXQtWorldClock</name>
     <message>
-        <location filename="../../../lxqtworldclock.cpp" line="237"/>
+        <location filename="../../../lxqtworldclock.cpp" line="241"/>
         <source>&apos;&lt;b&gt;&apos;HH:mm:ss&apos;&lt;/b&gt;&lt;br/&gt;&lt;font size=&quot;-2&quot;&gt;&apos;ddd, d MMM yyyy&apos;&lt;br/&gt;&apos;TT&apos;&lt;/font&gt;&apos;</source>
         <translation>&apos;&lt;b&gt;&apos;HH:mm:ss&apos;&lt;/b&gt;&lt;br/&gt;&lt;font size=&quot;-2&quot;&gt;&apos;ddd, d de MMM de yyyy&apos;&lt;br/&gt;&apos;TT&apos;&lt;/font&gt;&apos;</translation>
     </message>
@@ -177,7 +177,7 @@
     <message>
         <location filename="../../../lxqtworldclockconfiguration.ui" line="201"/>
         <location filename="../../../lxqtworldclockconfiguration.ui" line="436"/>
-        <location filename="../../../lxqtworldclockconfiguration.cpp" line="578"/>
+        <location filename="../../../lxqtworldclockconfiguration.cpp" line="579"/>
         <source>Custom name</source>
         <translation>Nome personalizado</translation>
     </message>
@@ -257,7 +257,7 @@
         <translation>&apos;&lt;b&gt;&apos;HH:mm:ss&apos;&lt;/b&gt;&lt;br/&gt;&lt;font size=&quot;-2&quot;&gt;&apos;ddd, d de MMM de yyyy&apos;&lt;br/&gt;&apos;TT&apos;&lt;/font&gt;&apos;</translation>
     </message>
     <message>
-        <location filename="../../../lxqtworldclockconfiguration.cpp" line="577"/>
+        <location filename="../../../lxqtworldclockconfiguration.cpp" line="578"/>
         <source>Input custom time zone name</source>
         <translation>Digite o nome do fuso horário</translation>
     </message>
@@ -342,7 +342,8 @@
 &lt;tr&gt;&lt;td&gt;TTT&lt;/td&gt;&lt;td&gt;a abreviatura do fuso horário&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;TTTT&lt;/td&gt;&lt;td&gt;o nome abreviado do fuso horário&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;TTTTT&lt;/td&gt;&lt;td&gt;o nome completo do fuso horário&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;TTTTTT&lt;/td&gt;&lt;td&gt;o nome personalizado do fuso horario. Pode mudar o nome no separador &apos;Fusos horários&apos; nas configurações&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt; &lt;b&gt;Notas:&lt;/b&gt; &lt;ul&gt;&lt;li&gt;quaisquer caracteres existentes no padrão que não estejam no intervalo [&apos;a&apos;..&apos;z&apos;] ou [&apos;A&apos;..&apos;Z&apos;] serão tratados como texto. Por exemplo, os caracteres &apos;:&apos;, &apos;.&apos;, &apos; &apos;, &apos;#&apos; e &apos;@&apos; aparecerão como texto mesmo se não estiverem entre apóstrofos. O apóstrofo é utilizado para fazer o &apos;escape&apos; de letras. Dois apóstrofos de uma linha, tanto dentro como fora de uma sequência entre apóstrofos, representam um apóstrofo &apos;real&apos;.&lt;/li&gt;&lt;li&gt;O intervalo mínimo entre atualizações é de 1 segundo. Se utilizar z ou zzz como formato, a hora será mostrada com a fração dos milissegundos, mas não será atualizado na base de milissegundos (por motivos de desempenho).&lt;/li&gt;&lt;ul&gt;</translation>
+&lt;tr&gt;&lt;td&gt;TTTTTT&lt;/td&gt;&lt;td&gt;o nome personalizado do fuso horario. Pode mudar o nome no separador &apos;Fusos horários&apos; nas configurações&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt; &lt;b&gt;Notas:&lt;/b&gt; &lt;ul&gt;&lt;li&gt;quaisquer caracteres existentes no padrão que não estejam no intervalo [&apos;a&apos;..&apos;z&apos;] ou [&apos;A&apos;..&apos;Z&apos;] serão tratados como texto. Por exemplo, os caracteres &apos;:&apos;, &apos;.&apos;, &apos; &apos;, &apos;#&apos; e &apos;@&apos; aparecerão como texto mesmo se não estiverem entre apóstrofos. O apóstrofo é utilizado para fazer o &apos;escape&apos; de letras. Dois apóstrofos de uma linha, tanto dentro como fora de uma sequência entre apóstrofos, representam um apóstrofo &apos;real&apos;.&lt;/li&gt;&lt;li&gt;O intervalo mínimo entre atualizações é de 1 segundo. Se utilizar z ou zzz como formato, a hora será mostrada com a fração dos milissegundos, mas não será atualizado na base de milissegundos (por motivos de desempenho).&lt;/li&gt;&lt;ul&gt;
+</translation>
     </message>
     <message>
         <source>&lt;h1&gt;Custom Date/Time Format Syntax&lt;/h1&gt;
@@ -448,18 +449,18 @@
         <translation>País</translation>
     </message>
     <message>
-        <location filename="../../../lxqtworldclockconfigurationtimezones.cpp" line="116"/>
+        <location filename="../../../lxqtworldclockconfigurationtimezones.cpp" line="117"/>
         <source>UTC</source>
         <translation>UTC</translation>
     </message>
     <message>
-        <location filename="../../../lxqtworldclockconfigurationtimezones.cpp" line="119"/>
-        <location filename="../../../lxqtworldclockconfigurationtimezones.cpp" line="127"/>
+        <location filename="../../../lxqtworldclockconfigurationtimezones.cpp" line="120"/>
+        <location filename="../../../lxqtworldclockconfigurationtimezones.cpp" line="128"/>
         <source>Other</source>
         <translation>Outro</translation>
     </message>
     <message>
-        <location filename="../../../lxqtworldclockconfigurationtimezones.cpp" line="128"/>
+        <location filename="../../../lxqtworldclockconfigurationtimezones.cpp" line="129"/>
         <source>Local timezone</source>
         <translation>Fuso horário local</translation>
     </message>

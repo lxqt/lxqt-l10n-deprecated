@@ -14,17 +14,17 @@
     <message>
         <location filename="../../../lxqtclock.cpp" line="57"/>
         <source>Date&amp;Time (clock) plugin is deprecated</source>
-        <translation type="unfinished"></translation>
+        <translation>Το πρόσθετο Ημερομηνία&amp;Ώρα (ρολόι) είναι υπό απόσυρση</translation>
     </message>
     <message>
         <location filename="../../../lxqtclock.cpp" line="58"/>
         <source>The &lt;strong&gt;clock&lt;/strong&gt; plugin is deprecated and will be removed in future version of LXQt. Consider replacing it with &lt;strong&gt;worldclock&lt;/strong&gt;.&lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Το πρόσθετο &lt;strong&gt;ρολόι&lt;/strong&gt; είναι υπό απόσυρση και θα αφαιρεθεί σε μια προσεχή έκδοση του LXQt. Φροντίστε να το αντικαταστήσετε με το &lt;strong&gt;παγκόσμιο ρολόι&lt;/strong&gt;.&lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="../../../lxqtclock.cpp" line="60"/>
         <source>don&apos;t show this again</source>
-        <translation type="unfinished"></translation>
+        <translation>Να μην εμφανιστεί ξανά</translation>
     </message>
 </context>
 <context>
