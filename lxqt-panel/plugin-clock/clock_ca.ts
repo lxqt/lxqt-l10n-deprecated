@@ -134,7 +134,7 @@ dddd	el nom llarg del dia de la configuració regional (p. ex. de &apos;dilluns&
 M	el mes com a número sense zero a l&apos;esquerra (1-12)
 MM	el mes com a número amb un zero a l&apos;esquerra (01-12)
 MMM	el nom abreviat del mes de la configuració regional (p. ex. de &apos;gen.&apos; a &apos;des.&apos;).
-MMMM	el nom llarg del mes de la configuració regional (p. ex. de &apos;gener&apos; a &apos;desembre&apos;).
+MMMM	el nom llarg del mes de la configuració regional (p. ex. &apos;de gener&apos; a &apos;de desembre&apos;).
 yy	l&apos;any com a un número de dos dígits (00-99)
 yyyy	l&apos;any com a un número de quatre dígits
 
