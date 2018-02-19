@@ -16,7 +16,7 @@ The repository can be built independently of the other components. This allows f
 
 ### General
 
-Git, CMake, qttools and LXQt component [liblxqt](https://github.com/lxde/liblxqt) as well as its dependency [libqtxdg](https://github.com/lxde/libqtxdg) are needed to build translations from this repository, no matter whether components are pulling from this repository or the repository is built itself.
+Git, CMake, qttools and LXQt component [lxqt-build-tools](https://github.com/lxde/lxqt-build-tools) are needed to build translations from this repository, no matter whether components are pulling from this repository or the repository is built itself.
 
 ### Pulling translations at build time
 
