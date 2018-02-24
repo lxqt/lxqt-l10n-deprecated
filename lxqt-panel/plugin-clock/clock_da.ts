@@ -14,17 +14,17 @@
     <message>
         <location filename="../../../lxqtclock.cpp" line="57"/>
         <source>Date&amp;Time (clock) plugin is deprecated</source>
-        <translation type="unfinished"></translation>
+        <translation>Dato og klokkeslæt-pluginet (ur) er udgået</translation>
     </message>
     <message>
         <location filename="../../../lxqtclock.cpp" line="58"/>
         <source>The &lt;strong&gt;clock&lt;/strong&gt; plugin is deprecated and will be removed in future version of LXQt. Consider replacing it with &lt;strong&gt;worldclock&lt;/strong&gt;.&lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Ur&lt;/strong&gt;-pluginet er udgået og vil blive fjernet i fremtidige versioner af LXQt. Overvej at erstatte det med &lt;strong&gt;verdensur&lt;/strong&gt;.&lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="../../../lxqtclock.cpp" line="60"/>
         <source>don&apos;t show this again</source>
-        <translation type="unfinished"></translation>
+        <translation>vis det ikke igen</translation>
     </message>
 </context>
 <context>
