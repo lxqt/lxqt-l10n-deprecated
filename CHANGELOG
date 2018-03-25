@@ -721,7 +721,7 @@ lxqt-l10n-0.12.0 / 2017-10-21
   * Finish networkmonitor turkish translation
   * Updated german translation.
   * Updated italian translation, discarding it_IT
-  * Fix lxde/lxqt#447 - missing actions in Places' context menus
+  * Fix lxqt/lxqt#447 - missing actions in Places' context menus
   *  Removes .tx transaction dir artifact
   * Removes .tx transaction dir artifact
   * Added missing german translation, updated template.
@@ -857,7 +857,7 @@ lxqt-l10n-0.12.0 / 2017-10-21
   * Polish translation updated
   * Updates translations sources
   * new plugin - directorymenu
-  * Fix lxde/lxqt#512 - pcmanfm-qt: cannot delete to trash.
+  * Fix lxqt/lxqt#512 - pcmanfm-qt: cannot delete to trash.
   * Initial Polish translation
   * Update mainmenu_it_IT.ts
   * Updates translations sources
@@ -906,7 +906,7 @@ lxqt-l10n-0.12.0 / 2017-10-21
   * Fix #130 - Remember width of side panel.
   * Portuguese update
   * Portuguese update
-  * Fix lxde/pcmanfm-qt#120 - Foucs "Rename" button when file name changed.
+  * Fix lxqt/pcmanfm-qt#120 - Foucs "Rename" button when file name changed.
   * Remove unnecessary '\n' charactor from the translated strings.
   * Remove unnecessary '\n' charactor from the translated strings.
   * Fix translations (the newly added string comes from the translation of libfm).
