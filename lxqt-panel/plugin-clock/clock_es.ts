@@ -6,7 +6,7 @@
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="49"/>
         <source>&lt;locale based&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;locale based&gt;</translation>
     </message>
 </context>
 <context>
@@ -14,17 +14,17 @@
     <message>
         <location filename="../../../lxqtclock.cpp" line="57"/>
         <source>Date&amp;Time (clock) plugin is deprecated</source>
-        <translation type="unfinished"></translation>
+        <translation>El complemento Fecha y hora (reloj) está obsoleto</translation>
     </message>
     <message>
         <location filename="../../../lxqtclock.cpp" line="58"/>
         <source>The &lt;strong&gt;clock&lt;/strong&gt; plugin is deprecated and will be removed in future version of LXQt. Consider replacing it with &lt;strong&gt;worldclock&lt;/strong&gt;.&lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>El complemento &lt;strong&gt;reloj&lt;/strong&gt; está obsoleto y será eliminado en una versión futura de LXQt. Considere sustituirlo por &lt;strong&gt;worldclock&lt;/strong&gt;.&lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="../../../lxqtclock.cpp" line="60"/>
         <source>don&apos;t show this again</source>
-        <translation type="unfinished"></translation>
+        <translation>no preguntar más esto</translation>
     </message>
 </context>
 <context>
@@ -36,7 +36,7 @@
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="14"/>
         <source>Clock Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración del reloj</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="20"/>
@@ -46,7 +46,7 @@
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="26"/>
         <source>&amp;Show seconds</source>
-        <translation>&amp;Mostrar segundos</translation>
+        <translation>&amp;Mostrar los segundos</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="33"/>
@@ -56,47 +56,47 @@
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="40"/>
         <source>&amp;Use UTC</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Usar UTC</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="59"/>
         <source>Date &amp;format</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Formato de fecha</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="76"/>
         <source>&amp;Do not show date</source>
-        <translation type="unfinished"></translation>
+        <translation>No mostrar la fecha</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="86"/>
         <source>Show date &amp;before time</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar la fecha antes que la hora</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="93"/>
         <source>Show date &amp;after time</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar la fecha después de la hora</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="100"/>
         <source>Show date below time on new &amp;line</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar la fecha bajo la hora en una &amp;línea nueva</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="107"/>
         <source>First day of week in calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Primer día de la semana en el calendario</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="124"/>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientación</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="130"/>
         <source>Auto&amp;rotate when the panel is vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rotar automáticamente cuando el panel esté vertical</translation>
     </message>
     <message>
         <source>&amp;Font</source>
@@ -170,7 +170,7 @@
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
         <source>Input custom date format</source>
-        <translation type="unfinished"></translation>
+        <translation>Introducir el formato de fecha personalizado</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
@@ -193,7 +193,25 @@ will also be treated as text and not be used as an expression.
 
 
 Custom date format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Las secuencias de formato de fecha interpretadas son:
+
+d	el día como número sin cero de relleno (1 a 31)
+dd	el día como número con cero de relleno (01 a 31)
+ddd	el nombre del día abreviado y traducido (p. ej. &apos;Lun&apos; a &apos;Dom&apos;).
+dddd	el nombre del día traducido (p. ej. &apos;Lunes&apos; a &apos;Sábado&apos;).
+M	el mes como número sin cero de relleno (1-12)
+MM	el mes como número sin cero de relleno (01-12)
+MMM	el nombre del mes abreviado y traducido (p. ej. &apos;Ene&apos; a &apos;Dic&apos;).
+MMMM	el nombre del mes traducido (p. ej. &apos;Enero&apos; a &apos;Diciembre&apos;).
+yy	el año como número de dos dígitos (00-99)
+yyyy	el años como número de cuatro dígitos
+
+Todo lo demás se interpretará como texto.
+Cualquier secuencia de caracteres entre comillas simples (&apos;)
+tambíen serán tratadas como texto y no se usarán como expresiones.
+
+
+Formato de fecha personalizado:</translation>
     </message>
 </context>
 </TS>
