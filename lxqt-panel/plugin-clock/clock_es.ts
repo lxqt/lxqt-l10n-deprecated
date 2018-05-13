@@ -6,7 +6,7 @@
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="49"/>
         <source>&lt;locale based&gt;</source>
-        <translation type="unfinished">&lt;locale based&gt;</translation>
+        <translation>&lt;dependiente de la configuración regional&gt;</translation>
     </message>
 </context>
 <context>
@@ -19,12 +19,12 @@
     <message>
         <location filename="../../../lxqtclock.cpp" line="58"/>
         <source>The &lt;strong&gt;clock&lt;/strong&gt; plugin is deprecated and will be removed in future version of LXQt. Consider replacing it with &lt;strong&gt;worldclock&lt;/strong&gt;.&lt;br/&gt;</source>
-        <translation>El complemento &lt;strong&gt;reloj&lt;/strong&gt; está obsoleto y será eliminado en una versión futura de LXQt. Considere sustituirlo por &lt;strong&gt;worldclock&lt;/strong&gt;.&lt;br/&gt;</translation>
+        <translation>El complemento &lt;strong&gt;reloj&lt;/strong&gt; está obsoleto y será eliminado en una versión futura de LXQt. Considere sustituirlo por &lt;strong&gt;Reloj mundial&lt;/strong&gt;.&lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="../../../lxqtclock.cpp" line="60"/>
         <source>don&apos;t show this again</source>
-        <translation>no preguntar más esto</translation>
+        <translation>no mostrar de nuevo</translation>
     </message>
 </context>
 <context>
@@ -170,7 +170,7 @@
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
         <source>Input custom date format</source>
-        <translation>Introducir el formato de fecha personalizado</translation>
+        <translation>Introducir un formato de fecha personalizado</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.cpp" line="268"/>
@@ -197,18 +197,18 @@ Custom date format:</source>
 
 d	el día como número sin cero de relleno (1 a 31)
 dd	el día como número con cero de relleno (01 a 31)
-ddd	el nombre del día abreviado y traducido (p. ej. &apos;Lun&apos; a &apos;Dom&apos;).
-dddd	el nombre del día traducido (p. ej. &apos;Lunes&apos; a &apos;Sábado&apos;).
+ddd	el nombre del día abreviado en la configuración regional (p. ej. &apos;Lun&apos; a &apos;Dom&apos;).
+dddd	el nombre del día en la configuración regional (p. ej. &apos;Lunes&apos; a &apos;Domingo&apos;).
 M	el mes como número sin cero de relleno (1-12)
 MM	el mes como número sin cero de relleno (01-12)
-MMM	el nombre del mes abreviado y traducido (p. ej. &apos;Ene&apos; a &apos;Dic&apos;).
-MMMM	el nombre del mes traducido (p. ej. &apos;Enero&apos; a &apos;Diciembre&apos;).
+MMM	el nombre del mes abreviado en la configuración regional (p. ej. &apos;Ene&apos; a &apos;Dic&apos;).
+MMMM	el nombre del mes en la configuración regional (p. ej. &apos;Enero&apos; a &apos;Diciembre&apos;).
 yy	el año como número de dos dígitos (00-99)
-yyyy	el años como número de cuatro dígitos
+yyyy	el año como número de cuatro dígitos
 
 Todo lo demás se interpretará como texto.
 Cualquier secuencia de caracteres entre comillas simples (&apos;)
-tambíen serán tratadas como texto y no se usarán como expresiones.
+también será tratada como texto y no se usará como una expresión.
 
 
 Formato de fecha personalizado:</translation>
