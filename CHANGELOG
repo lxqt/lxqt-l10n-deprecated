@@ -1,7 +1,67 @@
 
-lxqt-l10n-0.12.0 / 2017-10-21
+lxqt-l10n-0.13.0 / 2018-05-21
 =============================
 
+  * Bump informal version to 13
+  * Updated italian translations
+  * Spanish translation review
+  * Translate "Widget" correctly
+  * Fix translation errors
+  * Complete Spanish translation
+  * fix uris http: -> https:
+  * Fixe some mentions of LXDE
+  * Add translation of lxqt-notificationd_zh_TW
+  * Fix french libfm-qt, compton-conf and lxqt-panel
+  * Add translation of lxqt-panel/plugin-taskbar
+  * Improve Polish translation
+  * Update danish translation
+  * Fix translation error
+  * Update Simplified Chinese translations
+  * Correct zh_TW translations in lxqt-panel
+  * Updated Lithuanian translation to current sources
+  * README: Fix dependencies info
+  * Update Catalan translation
+  * Update translation files to current sources
+  * Update Lithuanian translation (#330)
+  * Fix HTML markups in zh_TW translation
+  * Improve Simplified Chinese translations (#328)
+  * Add pcmanfm-qt_id.ts and update compton-conf_id.ts (#327)
+  * Update Simplified Chinese translations (#326)
+  * Update zh_CN translations
+  * Create lxqt-admin-time_zh_TW.ts
+  * Update zh_CN translations
+  * Update Polish translation
+  * Update to current sources
+  * Update Simplified Chinese translations (#320)
+  * Add/Update Simplified Chinese translation
+  * Update Greek (el) translation
+  * Added Simplified Chinese translation
+  * Portuguese update (final round)
+  * Update qtermwidget_pt.ts
+  * Add files via upload (#1)
+  * Portuguese update (#313)
+  * French translation fixes
+  * Update Catalan translation
+  * Hungarian translations finished (#309)
+  * upd: hungarian translations
+  * Update obconf-qt/obconf-qt_id.ts (#307)
+  * Added pavucontrol-qt/pavucontrol-qt_id.ts (#306)
+  * fix typo in Polish translation (#304)
+  * Update Japanese translations (#303)
+  * Add Spanish translation file
+  * Add Spanish translation file
+  * Update Russian translations (#300)
+  * Some string corrections for danish language (#299)
+  * Udate french for lxqt-0.12.0
+  * Update Polish translation (#297)
+  * Update Lithuanian translation (#296)
+  * Update to current sources (#295)
+  * Correct Polish translation (#294)
+
+0.12.0 / 2017-10-21
+===================
+
+  * Release 0.12.0: Update changelog
   * Bump versions, set an informal version
   * Update Catalan translation
   * Update Lithuanian translation (#291)
@@ -721,7 +781,7 @@ lxqt-l10n-0.12.0 / 2017-10-21
   * Finish networkmonitor turkish translation
   * Updated german translation.
   * Updated italian translation, discarding it_IT
-  * Fix lxqt/lxqt#447 - missing actions in Places' context menus
+  * Fix lxde/lxqt#447 - missing actions in Places' context menus
   *  Removes .tx transaction dir artifact
   * Removes .tx transaction dir artifact
   * Added missing german translation, updated template.
@@ -857,7 +917,7 @@ lxqt-l10n-0.12.0 / 2017-10-21
   * Polish translation updated
   * Updates translations sources
   * new plugin - directorymenu
-  * Fix lxqt/lxqt#512 - pcmanfm-qt: cannot delete to trash.
+  * Fix lxde/lxqt#512 - pcmanfm-qt: cannot delete to trash.
   * Initial Polish translation
   * Update mainmenu_it_IT.ts
   * Updates translations sources
@@ -906,7 +966,7 @@ lxqt-l10n-0.12.0 / 2017-10-21
   * Fix #130 - Remember width of side panel.
   * Portuguese update
   * Portuguese update
-  * Fix lxqt/pcmanfm-qt#120 - Foucs "Rename" button when file name changed.
+  * Fix lxde/pcmanfm-qt#120 - Foucs "Rename" button when file name changed.
   * Remove unnecessary '\n' charactor from the translated strings.
   * Remove unnecessary '\n' charactor from the translated strings.
   * Fix translations (the newly added string comes from the translation of libfm).
