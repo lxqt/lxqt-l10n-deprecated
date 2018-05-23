@@ -2,7 +2,6 @@ cmake_minimum_required(VERSION 3.0.2 FATAL_ERROR)
 
 project(lxqt-panel)
 
-option(WITH_LXQT_PANEL_CLOCK "Build lxqt-panel plugin-clock translations" ON)
 option(WITH_LXQT_PANEL_COLORPICKER "Build lxqt-panel plugin-colorpicker translations" ON)
 option(WITH_LXQT_PANEL_CPULOAD "Build lxqt-panel plugin-cpuload translations" ON)
 option(WITH_LXQT_PANEL_DESKTOPSWITCH "Build lxqt-panel plugin-desktopswitch translations" ON)
@@ -28,7 +27,6 @@ option(WITH_LXQT_PANEL_WORLDCLOCK "Build lxqt-panel plugin-worldclock translatio
 build_component("panel" "")
 
 #plugins
-build_sub_component(WITH_LXQT_PANEL_CLOCK plugin-clock clock)
 build_sub_component(WITH_LXQT_PANEL_COLORPICKER plugin-colorpicker colorpicker)
 build_sub_component(WITH_LXQT_PANEL_CPULOAD plugin-cpuload cpuload)
 build_sub_component(WITH_LXQT_PANEL_DESKTOPSWITCH plugin-desktopswitch desktopswitch)
