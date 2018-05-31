@@ -440,7 +440,7 @@ Hvad vil du foretage med det?</translation>
     <message>
         <location filename="../../filemenu.cpp" line="149"/>
         <source>Copy</source>
-        <translation>Kopier</translation>
+        <translation>Kopiér</translation>
     </message>
     <message>
         <location filename="../../filemenu.cpp" line="153"/>

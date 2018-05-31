@@ -32,7 +32,7 @@
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="14"/>
         <source>Clock Settings</source>
-        <translation>Ur-indstillinger</translation>
+        <translation>Urindstillinger</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="20"/>
@@ -47,7 +47,7 @@
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="33"/>
         <source>12 &amp;hour style</source>
-        <translation>12-&amp;timers-stil</translation>
+        <translation>12-&amp;timersstil</translation>
     </message>
     <message>
         <location filename="../../../lxqtclockconfiguration.ui" line="40"/>
@@ -138,7 +138,7 @@ MMMM	det lange oversatte navn for måneden (f.eks. Januar&apos; til December&apo
 yy	året som tocifret tal (00-99)
 yyyy	året som firecifret tal
 
-Alle andre input-tegn vil blive behandler som tekst.
+Alle andre inputtegn vil blive behandler som tekst.
 Sekvenser af tegn som er omgivet af enkelte anførselstegn (&apos;)
 vil blive behandlet som tekst og ikke blive brugt som et udtryk.
 
