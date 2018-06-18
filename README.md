@@ -1,5 +1,9 @@
 # lxqt-l10n
 
+**Note:**
+This is deprecated. Use https://weblate.lxqt.org or the repositories
+directly to update the translations.
+
 ## Overview
 
 This repository is providing translations ("localization") in terms of the Qt
